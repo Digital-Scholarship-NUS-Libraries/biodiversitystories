@@ -8,12 +8,12 @@
 Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by Carl Linnaeus in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This <span data-click-image-zoomto="next">richness in vernacular names</span> reflects the species’ cultural importance and rich history.
 <param ve-image 
        title="Ficus Religiosa" 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/509195bba4a884506735faae3e8bfab6d7922496/media/f.religiosa.jpg"
-       description="Fruits and leaves of adult and juvenile F. Religiosa"
-       attribution="Kwan Han's Plant Observatory"
+       url="media/sacred-fig/f.religiosa.jpg"
+       description="Fruits and leaves of adult and juvenile F. Religiosa, collage by Biodiversity of Singapore, https://singapore.biodiversity.online/species/P-Angi-003675"
+       attribution="Kwan Han's Plant Observatory, https://www.natureloveyou.sg/Ficus%20religiosa/Main.html"
        fit="contain">
 <param ve-image 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/vernacular_names_fig.jpg"
+       url="media/sacred-fig/vernacular_names_fig.jpg"
        title="Vernacular names of the sacred fig"
        description="Vernacular names for F. religiosa in the Indian subcontinent alone"
        attribution="Sandeep et al., ‘Ficus religiosa: A wholesome medicinal tree’"
@@ -22,7 +22,7 @@ Of the over 800 species in the genera *Ficus*[^1] , *Ficus religiosa* is likely 
 ## The Hindu King of Trees:
 The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
 <param ve-image 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/B_gita.jpg"
+       url="media/sacred-fig/B_gita.jpg"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
        attribution="Patton, The Bhagavad Gita, 183"
@@ -39,7 +39,7 @@ Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day In
        attribution="Daderot, own work"
        fit="contain">
 <param ve-image 
-       url="media/buddha.jpg"
+       url="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/2e6751f957a92938b93c8f6c4d53d3bfa751b4a2/media/sacred-fig/buddha.jpg"
        title="Buddhist sutra, Shōbōgenzō"
        description="A Buddhist sutra (translated from Japanese) describing a buddha’s awakening under a bodhi tree"
        attribution="Dōgen, Shōbōgenzō, Volume 82: 401"
@@ -103,7 +103,7 @@ To acknowledge and celebrate the significance of mature trees like the one at Lo
 
 Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the pied oriental hornbill, Asian koel and the variable squirrel.[^41] When germinating, *F. religiosa* can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. *F. religiosa* also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For *F. religiosa*, this is *Platyscapa quadraticeps*, which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^42] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
 <param ve-image 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/Sacred_fig/main/media/HT 2007-156 Ficus religiosa.jpg"
+       url="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/2e6751f957a92938b93c8f6c4d53d3bfa751b4a2/media/sacred-fig/HT%202007-156%20Ficus%20religiosa.jpg"
        title="Bodhi tree, Heritage Tree ID HT 2007-156, at Cantebury Road"
        description="https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2007-156"
        attribution="NParks' Heritage Trees Website"
