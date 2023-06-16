@@ -22,7 +22,7 @@ Of the over 800 species in the genera *Ficus*[^1] , <span eid="Q3071706">*Ficus 
 ## The Hindu King of Trees:
 The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
 <param ve-image 
-       url="https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/media/sacred-fig/B_gita.jpg"
+       url="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/099485c8d101d0e0e63d37566416a879e99a9fd6/Sacred%20Fig/B_gita.jpg"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
        attribution="Patton, The Bhagavad Gita, 183"
@@ -33,7 +33,7 @@ The tree’s religious significance is also closely tied to its medicinal proper
 ## A Path to Nirvana:
 Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day India near the present Nepalese border.[^20] Though there is contention whether Buddhism can be considered an offshoot of ancient Hinduism, the two religions undoubtedly share one common feature: their reverence for *F. religiosa*.[^21] In fact, the tree features prominently in Buddhist lore, being the tree under which Siddartha Guatama achieved enlightenment, or ‘bodhi’ and attained nirvana. It is likely during the rise of Buddhism in the Indian subcontinent, that the now widely used moniker, bodhi tree, became adopted. From ancient history, to the modern day, *F. religiosa’s* association with Buddhist enlightenment afforded it veneration and inspired much worship.
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/02/Four_Scenes_from_the_Life_of_the_Buddha_-_Enlightenment_-_Kushan_dynasty%2C_late_2nd_to_early_3rd_century_AD%2C_Gandhara%2C_schist_-_Freer_Gallery_of_Art_-_DSC05124.JPG"
+       manifest="https://iiif.juncture-digital.org/wc:Four_Scenes_from_the_Life_of_the_Buddha_-_Enlightenment_-_Kushan_dynasty%2C_late_2nd_to_early_3rd_century_AD%2C_Gandhara%2C_schist_-_Freer_Gallery_of_Art_-_DSC05124.JPG/manifest.json"
        title="Four Scenes from the Life of the Buddha - Enlightenment - Kushan dynasty, late 2nd to early 3rd century AD, Gandhara, schist"
        description="A stone carving from the 2nd to 3rd century AD, featuring Buddha's enlightenment. The heart-shaped leaves of the bodhi tree can be prominently seen shading the Buddha."
        attribution="Daderot, own work"
