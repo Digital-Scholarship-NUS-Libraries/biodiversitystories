@@ -49,14 +49,13 @@ In 288 BC, King Ashoka, who ruled over Bodh Gaya (where Buddha’s Tree of Enlig
 
 Practitioners of Buddhism would propagate *F. religiosa* in places of worship or simply cultivate it for its connection to the Buddha. Thus, as Buddhism spread throughout the rest of Asia, so did the venerated plant.[^26] Among buddhists in China, the sacredness of *F. religiosa* inspired the use of its leaves in religious art and scripture.[^27] The dried heart-shaped leaves of the plant would act as canvases for pigment or ink to be applied for the painting of religious depictions or the writing of sutras.[^28] Most often, the paintings include illustrations of great Buddhist sages, or arhats, while writings frequently transcribe the <span eid="Q622868">Heart Sutra</span>, a seminal piece of Mahāyāna wisdom.[^29] This practice extends to the modern day, and such keepsakes can be purchased at various Buddhist temples and shrines around the world.[^30]
 <param ve-image 
-       url= "https://collectionapi.metmuseum.org/api/collection/v1/iiif/38822/152747/main-image"
+       manifest="https://collectionapi.metmuseum.org/api/collection/v1/iiif/38822/152747/main-image"
        title="Luohans" 
        description="Painters in China used applied thick mineral paints on bodhi leaves to created images like this. The illustration features arhats (Buddhist saints) exercising their spiritual powers."
        attribution="Unidentified - Held by the Met Musuem"
        fit="contain">
 <param ve-image 
-       url= "https://www.bl.uk/britishlibrary/~/media/bl/global/dst%20discovering%20sacred%20texts/collection%20items/sutras-with-illustrations-on-fig-leaves-add_ms_11746_f003r.jpg"
-       title="Jin Long Si Temple Bodhi Tree" 
+       url="https://www.bl.uk/britishlibrary/~/media/bl/global/dst%20discovering%20sacred%20texts/collection%20items/sutras-with-illustrations-on-fig-leaves-add_ms_11746_f003r.jpg"
        description="Illustrated manuscripts of the Mahāyāna featuring bodhi leaves used as painting canvas"
        attribution="Unidentified - Held by the British Library"
        fit="contain">
@@ -66,8 +65,8 @@ The religious importance of the bodhi tree to Buddhism still facilitates its pro
 ## A Singaporean Natural and Cultural Heritage
 Followers of Buddhism and Hinduism collectively comprise over 35% of the population in Singapore and *F. religiosa* features prominently alongside the various temples or roadside shrines of its associated faiths.[^33] The oldest bodhi tree in Singapore is probably the one located on Lorong How Sun. Towering at 30 meters tall, the over 100-year-old tree was housed in the ex-premises of the Jin Long Si Temple.[^34] [^35] The temple premises was acquired by the government in 2003 for urban redevelopment, sparking appeals to save the temple, and the historically and religiously significant tree.[^36] Though the appeals ultimately failed to preserve the temple, the bodhi tree was saved and authorities made commitments to protect the tree.[^37] Now, the tree holds vigil over its new surroundings, with the wooden-walled, zinc-roofed temple of the past replaced by high-rise condominiums.[^38]
 <param ve-image 
-       url= "https://upload.wikimedia.org/wikipedia/commons/d/d7/JLS_Bodhi_Tree-2.JPG"
-       title="Jin Long Si Temple Bodhi Tree" 
+       url="https://upload.wikimedia.org/wikipedia/commons/d/d7/JLS_Bodhi_Tree-2.JPG"
+       label="Jin Long Si Temple Bodhi Tree" 
        description="Singapore's 120 year-old F. Religiosa, housed in the ex-premises of Jin Long Si Temple"
        attribution="Aldwin Teo"
        license="CC BY-NC"
