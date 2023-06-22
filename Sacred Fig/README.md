@@ -7,14 +7,14 @@
        
 Of the over 800 species in the genera *Ficus*[^1] , <span eid="Q3071706">*Ficus religiosa*</span> is likely among the most famous. *F. religiosa*, commonly known as the sacred fig or the bodhi tree, is a fig native to the Indian subcontinent, east Himalaya, Myanmar, and Malayan region.  The epithet, religiosa, alludes to its significance to Hinduism and Buddhism, two major religions also originating from the Indian subcontinent.[^2] Though the name *Ficus religiosa* was first designated by <span eid="Q1043">Carl Linnaeus</span> in 1753, the species was later given eight other scientific names by subsequent taxonomists. These include *Ficus peepul* and *Urostigma affine*.[^3]  Paralleling its nomenclative popularity in the scientific world, *F. religiosa* also bears over 150 known vernacular names.[^4][^5] Table 1. illustrates some of the names in the various languages spoken in India alone. Common names today include the bodhi tree, peepal tree and the *Ashvattha* tree.[^6] This <span data-click-image-zoomto="next">richness in vernacular names</span> reflects the species’ cultural importance and rich history.
 <param ve-image 
-       title="Ficus Religiosa" 
+       label="Ficus Religiosa" 
        url="media/sacred-fig/f.religiosa.jpg"
        description="Fruits and leaves of adult and juvenile F. Religiosa, collage by Biodiversity of Singapore, https://singapore.biodiversity.online/species/P-Angi-003675"
        attribution="Kwan Han's Plant Observatory, https://www.natureloveyou.sg/Ficus%20religiosa/Main.html"
        fit="contain">
 <param ve-image 
-       url="media/sacred-fig/vernacular_names_fig.jpg"
-       title="Vernacular names of the sacred fig"
+       url="https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/Sacred%20Fig/vernacular_names_fig.jpg"
+       label="Vernacular names of the sacred fig"
        description="Vernacular names for F. religiosa in the Indian subcontinent alone"
        attribution="Sandeep et al., ‘Ficus religiosa: A wholesome medicinal tree’"
        fit="contain">
