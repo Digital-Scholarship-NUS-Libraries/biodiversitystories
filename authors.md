@@ -41,9 +41,8 @@ Huiqing is a student research assistant under the ‘Linking the Digital Humanit
 
 #### Sun Woo Yoon
 
-Sun Woo is an artist, researcher, and environmental activist. He works with a variety of media through which he explores environmental histories, with a keen interest on the ocean. He is an active member at Students for a Fossil Free Future, Extinction Rebellion NYC, and GreenCheck where he works as an artist-activist, strategist, and design mentor.
-
 ![](media/Sun-Woo-headshot.jpg)
+Sun Woo is an artist, researcher, and environmental activist. He works with a variety of media through which he explores environmental histories, with a keen interest on the ocean. He is an active member at Students for a Fossil Free Future, Extinction Rebellion NYC, and GreenCheck where he works as an artist-activist, strategist, and design mentor.
 
 
 
