@@ -37,11 +37,13 @@ Max (they/she) did their undergraduate studies in Anthropology at Yale-NUS Colle
 
 ![](media/Huiqing-author-photo.jpg)
 
-Yeo Huiqing is a student research assistant under the ‘Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia’ project at Yale-NUS. She has a PhD in Life Sciences from the National University of Singapore, and her research focuses on biodiversity and evolution of mosquitoes.
+Huiqing is a student research assistant under the ‘Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia’ project at Yale-NUS. She has a PhD in Life Sciences from the National University of Singapore, and her research focuses on biodiversity and evolution of mosquitoes.
 
-####  Yoon Sun Woo
+#### Sun Woo Yoon
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+Sun Woo is an artist, researcher, and environmental activist. He works with a variety of media through which he explores environmental histories, with a keen interest on the ocean. He is an active member at Students for a Fossil Free Future, Extinction Rebellion NYC, and GreenCheck where he works as an artist-activist, strategist, and design mentor.
+
+![](media/Sun-Woo-headshot.jpg)
 
 
 
