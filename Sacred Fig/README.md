@@ -22,7 +22,7 @@ Of the over 800 species in the genera *Ficus*, <span eid="Q3071706">*Ficus relig
 ## The Hindu King of Trees
 The sacred fig’s religious significance spans thousands of years, likely beginning as early as the conception of Hinduism in the 15th to 20th century BC. Its association with Hindu deities can be traced back to ancient scriptures, where it is referred to as *Ashvatta*, or King of Trees.[^7] Lord Krishna not only compared himself to the *Ashvattha* in the *Bhagavad Gita*, but was also said to assume the physical form of the tree.[^8] [^9] Consequently, the tree was highly revered as a vessel of divine power and sacredness. Harming the peepal tree was said to bring ill-fortune, while worshipping the tree brought one closer to spiritual liberation.[^10]
 <param ve-image 
-       url="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/099485c8d101d0e0e63d37566416a879e99a9fd6/Sacred%20Fig/B_gita.jpg"
+       url="https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/Sacred%20Fig/B_gita.jpg"
        title="The Baghavad Gita"
        description="Krishna, in the Bhagavad Gita, an ancient Hindu text, compares himself to the sacred fig."
        attribution="Patton, The Bhagavad Gita, 183"
@@ -33,13 +33,13 @@ The tree’s religious significance is also closely tied to its medicinal proper
 ## A Path to Nirvana
 Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day India near the present Nepalese border.[^20] Though there is contention whether Buddhism can be considered an offshoot of ancient Hinduism, the two religions undoubtedly share one common feature: their reverence for *F. religiosa*.[^21] In fact, the tree features prominently in Buddhist lore, being the tree under which Siddartha Guatama achieved enlightenment, or ‘bodhi’ and attained nirvana. It is likely during the rise of Buddhism in the Indian subcontinent, that the now widely used moniker, bodhi tree, became adopted. From ancient history, to the modern day, *F. religiosa’s* association with Buddhist enlightenment afforded it veneration and inspired much worship.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/wc:Four_Scenes_from_the_Life_of_the_Buddha_-_Enlightenment_-_Kushan_dynasty%2C_late_2nd_to_early_3rd_century_AD%2C_Gandhara%2C_schist_-_Freer_Gallery_of_Art_-_DSC05124.JPG/manifest.json"
+       manifest="https://iiif.juncture-digital.org/iiif/2/wc:Four_Scenes_from_the_Life_of_the_Buddha_-_Enlightenment_-_Kushan_dynasty%2C_late_2nd_to_early_3rd_century_AD%2C_Gandhara%2C_schist_-_Freer_Gallery_of_Art_-_DSC05124.JPG/manifest.json"
        title="Four Scenes from the Life of the Buddha - Enlightenment - Kushan dynasty, late 2nd to early 3rd century AD, Gandhara, schist"
        description="A stone carving from the 2nd to 3rd century AD, featuring Buddha's enlightenment. The heart-shaped leaves of the bodhi tree can be prominently seen shading the Buddha."
        attribution="Daderot, own work"
        fit="contain">
 <param ve-image 
-       url="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/2e6751f957a92938b93c8f6c4d53d3bfa751b4a2/media/sacred-fig/buddha.jpg"
+       url="https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/media/sacred-fig/buddha.jpg"
        title="Buddhist sutra, Shōbōgenzō"
        description="A Buddhist sutra (translated from Japanese) describing a buddha’s awakening under a bodhi tree"
        attribution="Dōgen, Shōbōgenzō, Volume 82: 401"
@@ -49,7 +49,7 @@ In 288 BC, King Ashoka, who ruled over Bodh Gaya (where Buddha’s Tree of Enlig
 
 Practitioners of Buddhism would propagate *F. religiosa* in places of worship or simply cultivate it for its connection to the Buddha. Thus, as Buddhism spread throughout the rest of Asia, so did the venerated plant.[^26] Among buddhists in China, the sacredness of *F. religiosa* inspired the use of its leaves in religious art and scripture.[^27] The dried heart-shaped leaves of the plant would act as canvases for pigment or ink to be applied for the painting of religious depictions or the writing of sutras.[^28] Most often, the paintings include illustrations of great Buddhist sages, or arhats, while writings frequently transcribe the <span eid="Q622868">Heart Sutra</span>, a seminal piece of Mahāyāna wisdom.[^29] This practice extends to the modern day, and such keepsakes can be purchased at various Buddhist temples and shrines around the world.[^30]
 <param ve-image 
-       manifest="https://collectionapi.metmuseum.org/api/collection/v1/iiif/38822/152747/main-image"
+       url="https://collectionapi.metmuseum.org/api/collection/v1/iiif/38822/152747/main-image"
        title="Luohans" 
        description="Painters in China used applied thick mineral paints on bodhi leaves to created images like this. The illustration features arhats (Buddhist saints) exercising their spiritual powers."
        attribution="Unidentified - Held by the Met Musuem"
@@ -63,6 +63,7 @@ Practitioners of Buddhism would propagate *F. religiosa* in places of worship or
 The religious importance of the bodhi tree to Buddhism still facilitates its propagation and spread around the world in the modern day. In August 2021, Australia imported an offspring of the Anuradhapura tree with the goal of planting it in a Buddhist temple.[^31] This was no simple feat. The nation possess arduous and extensive biosecurity measures, requiring the sapling to undergo a year-long quarantine and thorough examination for potential flora pathogens. Despite the hurdles, the religious and cultural importance of the tree saw adequate impetus for its transplantation.[^32]
 
 ## A Singaporean Natural and Cultural Heritage
+
 Followers of Buddhism and Hinduism collectively comprise over 35% of the population in Singapore and *F. religiosa* features prominently alongside the various temples or roadside shrines of its associated faiths.[^33] The oldest bodhi tree in Singapore is probably the one located on Lorong How Sun. Towering at 30 meters tall, the over 100-year-old tree was housed in the ex-premises of the Jin Long Si Temple.[^34] [^35] The temple premises was acquired by the government in 2003 for urban redevelopment, sparking appeals to save the temple, and the historically and religiously significant tree.[^36] Though the appeals ultimately failed to preserve the temple, the bodhi tree was saved and authorities made commitments to protect the tree.[^37] Now, the tree holds vigil over its new surroundings, with the wooden-walled, zinc-roofed temple of the past replaced by high-rise condominiums.[^38]
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/d/d7/JLS_Bodhi_Tree-2.JPG"
@@ -102,7 +103,7 @@ To acknowledge and celebrate the significance of mature trees like the one at Lo
 
 Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the pied oriental hornbill, Asian koel and the variable squirrel.[^41] When germinating, *F. religiosa* can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. *F. religiosa* also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For *F. religiosa*, this is *Platyscapa quadraticeps*, which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^42] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
 <param ve-image 
-       url="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/2e6751f957a92938b93c8f6c4d53d3bfa751b4a2/media/sacred-fig/HT%202007-156%20Ficus%20religiosa.jpg"
+       url="https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/media/sacred-fig/HT%202007-156%20Ficus%20religiosa.jpg"
        title="Bodhi tree, Heritage Tree ID HT 2007-156, at Cantebury Road"
        description="https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees/ht-2007-156"
        attribution="NParks' Heritage Trees Website"
