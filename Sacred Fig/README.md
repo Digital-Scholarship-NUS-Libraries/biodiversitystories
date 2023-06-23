@@ -34,13 +34,13 @@ The tree’s religious significance is also closely tied to its medicinal proper
 Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day India near the present Nepalese border.[^20] Though there is contention whether Buddhism can be considered an offshoot of ancient Hinduism, the two religions undoubtedly share one common feature: their reverence for *F. religiosa*.[^21] In fact, the tree features prominently in Buddhist lore, being the tree under which Siddartha Guatama achieved enlightenment, or ‘bodhi’ and attained nirvana. It is likely during the rise of Buddhism in the Indian subcontinent, that the now widely used moniker, bodhi tree, became adopted. From ancient history, to the modern day, *F. religiosa’s* association with Buddhist enlightenment afforded it veneration and inspired much worship.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/iiif/2/wc:Four_Scenes_from_the_Life_of_the_Buddha_-_Enlightenment_-_Kushan_dynasty%2C_late_2nd_to_early_3rd_century_AD%2C_Gandhara%2C_schist_-_Freer_Gallery_of_Art_-_DSC05124.JPG/manifest.json"
-       title="Four Scenes from the Life of the Buddha - Enlightenment - Kushan dynasty, late 2nd to early 3rd century AD, Gandhara, schist"
+       label="Four Scenes from the Life of the Buddha - Enlightenment - Kushan dynasty, late 2nd to early 3rd century AD, Gandhara, schist"
        description="A stone carving from the 2nd to 3rd century AD, featuring Buddha's enlightenment. The heart-shaped leaves of the bodhi tree can be prominently seen shading the Buddha."
        attribution="Daderot, own work"
        fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/media/sacred-fig/buddha.jpg"
-       title="Buddhist sutra, Shōbōgenzō"
+       label="Buddhist sutra, Shōbōgenzō"
        description="A Buddhist sutra (translated from Japanese) describing a buddha’s awakening under a bodhi tree"
        attribution="Dōgen, Shōbōgenzō, Volume 82: 401"
        fit="contain">
