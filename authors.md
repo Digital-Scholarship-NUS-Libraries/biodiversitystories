@@ -21,7 +21,9 @@ Shi Wen is a student at Yale-NUS college.
 
 ####  Joyce Hu
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+![](media/Joyce-author-photo.jpg)
+
+Joyce is a rising senior at Yale-NUS College majoring in Environmental Studies. She is interested in both the science and cultural aspects of ecology and biodiversity as well as public and environmental health. Among other things, she enjoys hiking, music, cheesecake, and talking about the weather.
 
 ####  Jody Lim
 
