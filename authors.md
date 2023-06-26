@@ -13,7 +13,9 @@ Shi Wen is a student at Yale-NUS college.
 
 ####  Dünya Gürses
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+![](Dünya-author-photo.jpeg)
+
+Dünya is a recent graduate of Yale-NUS College with a major in Urban Studies and a minor in Environmental Studies. She is passionate about urban sustainability issues and believes in the importance of building cities for all living beings. She enjoys reading and journaling in her free time.
 
 ####  Angela Ricasio Hoten
 
