@@ -178,7 +178,7 @@ Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articl
 <param ve-image 
        url="Tapioca/media/placeholder_chan_adverts.png"
        title="Placeholder Adverts" 
-       attribution= "SPH"
+       attribution= "Singapore Press Holdings"
        fit="contain"> 
 
 Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local Peranakan culture as she was the first Singaporean to play the titular role in Stella Kon’s play Emily of Emerald Hill. This one-woman play details the life of a Nyonya throughout her journey as a daughter, mother, and eventually matriarch of her family. In 1986, Margaret Chan even performed the play at the Commonwealth Arts Festival in Edinburgh, bringing this uniquely Singaporean play to the world stage.[^32] Through her culinary and stage career, Margaret Chan has become a key representative of the Peranakan culture in contemporary Singapore, especially amidst the broader Peranakan cultural revival of the 1980s. 
@@ -204,17 +204,17 @@ Through a species lens, we can trace the tapioca through different periods in Si
 
 ## References
 [^1]:Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
-[^2]:“Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
-[^3]:“Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
-[^4]:Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
+[^2]:“Tapioca Word History,” Merriam-Webster, accessed November 27, 2022, https://www.merriam-webster.com/dictionary/tapioca#word-history.
+[^3]:“Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210.
+[^4]:Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990,” *Journal of Biogeography* 19, no. 4 (1992): 413, https://doi.org/10.2307/2845569.
 [^5]:“Tapioca plantation at Trafalgar Estate,” Roots, accessed November 27, 2022, https://www.roots.gov.sg/Collection-Landing/listing/1001186. 
 [^6]:“Workers sieving through tapioca flour and pearls at Trafalgar Estate,” Roots, accessed November 27, 2022, https://www.roots.gov.sg/Collection-Landing/listing/1001684.
-[^7]:“The Blue Book Figures,” *The Straits Times*, February 6, 1875, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750206-1.2.3?ST=1&AT=search&SortBy=Oldest&K=tapioca&P=8&Display=0&filterS=0&QT=tapioca&oref=article .
+[^7]:“The Blue Book Figures,” *The Straits Times*, February 6, 1875, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750206-1.2.3?ST=1&AT=search&SortBy=Oldest&K=tapioca&P=8&Display=0&filterS=0&QT=tapioca&oref=article.
 [^8]:Warren Bailey, and Lan Truong, “Opium and Empire: Some Evidence from Colonial-Era Asian Stock and Commodity Markets,” *Journal of Southeast Asian Studies* 32, no. 2 (2001): 180, http://www.jstor.org/stable/20072323.
 [^9]:Bailey, and Truong, “Opium and Empire,” 180.
 [^10]:Bailey, and Truong, “Opium and Empire,” 180.
 [^11]:Bailey, and Truong, “Opium and Empire,” 180.                
-[^12]:Sng Choon Yee, “SNG Choon Yee 孙崇瑜Pioneers of Singapore, Accession Number 000064 Reel/ Disc 41 of 48,” interview by Lim How Seng, National Archives Singapore, May 21, 1981, audio, 00:28:11, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dff97246-115d-11e3-83d5-0050568939ad?keywords=tapioca&keywords-type=all
+[^12]:Sng Choon Yee, “SNG Choon Yee 孙崇瑜 Pioneers of Singapore, Accession Number 000064 Reel/ Disc 41 of 48,” interview by Lim How Seng, National Archives Singapore, May 21, 1981, audio, 00:28:11, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dff97246-115d-11e3-83d5-0050568939ad?keywords=tapioca&keywords-type=all.
 [^13]:Paul H. Kratoska, “The Post-1945 Food Shortage in British Malaya,” *Journal of Southeast Asian Studies* 19, no. 1 (1988): 28, http://www.jstor.org/stable/20070990.
 [^14]:Sng, interview.                    
 [^15]:Kratoska, “Food Shortage”, 28.
@@ -226,12 +226,12 @@ Through a species lens, we can trace the tapioca through different periods in Si
 [^21]:Kratoska, “Food Shortage”, 38.                    
 [^22]:Kratoska, “Food Shortage”, 38-9.                    
 [^23]:Victor R. Savage and Brenda S. A. Yeoh. “J.” *Singapore Street Names: A Study of Toponymics* (Marshall Cavendish Editions, 2013) 77, National Library Board Singapore Overdrive. 
-[^24]:Margaret Chan, “Nyonya cakes for new year,” *New Nation*, February 13, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800213-1.2.51.10?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article .
+[^24]:Margaret Chan, “Nyonya cakes for new year,” *New Nation*, February 13, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800213-1.2.51.10?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article.
 [^25]:Chan, “Nyonya cakes.”                   
 [^26]:Chan, “Nyonya cakes.”                    
-[^27]:“Recipe.” *New Natio*n, January 21, 1980. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800124-1.2.49.3?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article 
+[^27]:“Recipe.” *New Natio*n, January 21, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800124-1.2.49.3?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article.
 [^28]:“Recipe.”                     
-[^29]:“Margaret Chan,” Infopedia, accessed November 26, 2022, https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html .                   
-[^30]:“Page 26 Advertisements Column 2,” *Weekend East*, March 25, 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19930325-1.2.48.2?ST=1&AT=search&k=%22food%20columnist%22&QT=%22foodcolumnist%22&oref=article .                    
-[^31]:“Page 15 Advertisements Column 1,” *Timeszone Central*, June 4, 1992, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/timeszone19920604-1.2.24.1?ST=1&AT=search&k=%22margaret%20chan%22&QT=%22margaretchan%22&oref=article . 
-[^32]:Irene Hoe, “Emily to play before audiences here again,” *The Straits Times*, May 13, 1986, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860513-1.2.22.25 .                    
+[^29]:“Margaret Chan,” Infopedia, accessed November 26, 2022, https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html.                   
+[^30]:“Page 26 Advertisements Column 2,” *Weekend East*, March 25, 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19930325-1.2.48.2?ST=1&AT=search&k=%22food%20columnist%22&QT=%22foodcolumnist%22&oref=article.                    
+[^31]:“Page 15 Advertisements Column 1,” *Timeszone Central*, June 4, 1992, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/timeszone19920604-1.2.24.1?ST=1&AT=search&k=%22margaret%20chan%22&QT=%22margaretchan%22&oref=article. 
+[^32]:Irene Hoe, “Emily to play before audiences here again,” *The Straits Times*, May 13, 1986, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860513-1.2.22.25.                    
