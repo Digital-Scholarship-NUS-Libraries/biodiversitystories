@@ -34,7 +34,7 @@
 "Religion’s Living Roots: The Sacred _Ficus religiosa_" 
 <br><br><br><br>**Foo Shi Wen**
 
-#### Tapioca (*Manihot esculenta*) {href=https://www.juncture-digital.org/jodylim123/Tapioca}
+#### Tapioca (*Manihot esculenta*) {https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
 
 ![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
 
