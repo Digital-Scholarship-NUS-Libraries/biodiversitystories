@@ -19,7 +19,7 @@ Dünya is a recent graduate of Yale-NUS College with a major in Urban Studies an
 
 ####  Angela Ricasio Hoten
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+![](media/Angela-author-photo.jpg)
 
 Angela is a researcher, environmental activist, and forest advocate. Through the lens of anthropology, Angela seeks to uncover the webs of relation between people and their environments. She is a coordinator with Students for a Fossil-Free Future, a community organiser for GreenCheck, and an avid visitor of the Clementi Forest. 
 
