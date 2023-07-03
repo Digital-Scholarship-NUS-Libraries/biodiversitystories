@@ -22,7 +22,7 @@ All across Singapore, a special plant lives almost unnoticed. It goes by many na
 In Singapore, pápalo has been recorded specifically in a scrubland near Tanah Merah,[^5] in a grassland in Punggol Barat,[^6] and in Pulau Tekukor,[^7] though it can also be found in many other parts of the island.[^8] It can be identified by its distinctive characteristics: pápalo grows vertically up to 75 cm and has emblematic grass-like green leaves which resemble the shape of butterfly wings, hence its name.[^9] At the top, it has a bud that can be up to 2.5 cm long, which remains closed until the plant is ready to spread its seeds. When this bud opens, it resembles a dandelion’s head. Pápalo can be easily confused with the plant *Emilia sonchifolia* (<span eid="Q3595665">'Cupid's Shaving Brush'</span>), which is native to Asia and looks rather similar. They can be differentiated, however, by their leaves and by the colour of their buds. Pápalo has rounder leaves, whereas *Emilia sonchifolia* tends to have long and pointy leaves. The buds of pápalo tend to be yellow, whereas *Emilia sonchifolia* tends to have pink buds.  
 
 <param ve-image 
-       url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/2840db6b-b0d1-41ea-84d5-08ee00b27d87"
+       url="Porophyllum-ruderale/media/Porophyllum ruderale SING Herbarium.jpeg"
        title="Pápalo can be found in the Singapore Botanic Gardens Herbarium."
        attribution="Courtesy of SING Herbarium, Singapore Botanic Gardens"
        license=“©SING Herbarium, Singapore Botanic Gardens, used with permission"
@@ -69,12 +69,12 @@ Today, this is a mystery. No one really knows. The first reports of pápalo bein
 Pápalo was first reported in Singapore in 1992[^29] and 1995,[^30] but its arrival story is also unclear. And, given the lack of uses allocated to it in Singapore (as opposed to the regions to which it is native), it seems like not many have even noticed the opportunities that pápalo presents.  This is not particularly rare: it is well reported that globalisation, migration, and the overall dispersal of plant species all over the world leads in most (though not all) cases to a loss of  ‘biodiversity-based cultural knowledge’, and Singapore is no exception.[^31] Pápalo has not yet begun its social life in Singapore. So far, only a few botanists and plant enthusiasts are aware of its existence, spotting it in several corners of Singapore and in some cases capturing its beauty in full display.[^32] Some birds have also noticed, using it as an occasional perching site and picking its dried fruits for nesting material.[^33] 
 
 <param ve-image 
-       url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/1c5fb9ad-f03c-4c55-8187-754bea1ea71c"
+       url="https://besgroup.org/wp-content/uploads/SunbirdOB-Porophyllum-ruderale-ThongChowNgian-4.jpg"
        title="An Olive-backed Sunbird stands on a pápalo plant in Singapore." 
        attribution="Thong Chow Ngian @ Bird Ecology Study Group Blog"
-       license="Used with permission">
+       description="Used with permission">
       <param ve-image 
-       url="https://github.com/maximwabx/Porophyllum-Ruderale/assets/134259666/e810e919-f1da-4cac-98f8-eefe3609ab40">
+       url="https://besgroup.org/wp-content/uploads/SunbirdOB-Porophyllum-ruderale-ThongChowNgian-2.jpg">
 
 ##
 But pápalo has so much more to offer. For traditional medicine enthusiasts, it could open new horizons in its interactions with Ayurvedic practices or even Traditional Chinese Medicine. Hybrid expressions of traditional medicine are common all over Southeast Asia,[^34] and the introduction of elements that are meaningful to traditional medicine from other parts of the world can only enrich Singapore’s landscape. Likewise, from a culinary point of view, pápalo presents an opportunity. It brings with it new flavours. Whether it is by finding pápalo herbs to experiment with at home, or by incorporating pápalo into the ingredients used at Mexican and South American food places in Singapore, this plant can only be an exciting new experience for enthusiasts and non-enthusiasts alike. In Singapore, pápalo is an opportunity that is yet to be explored. It may even be cultivated by plant keepers, given that its seeds can easily be bought online through websites like Etsy and shipped to Singapore. Above all, this plant is an important reminder to maintain an attitude of openness and curiosity towards the unknown. Pápalo remains an anonymous weed for most people in Singapore, but it has been a culturally significant plant for people on the other side of the Pacific Ocean for millennia. The teaching of the pápalo is rather simple: We never know what the seemingly random herbs that grow besides us might have to offer. 
