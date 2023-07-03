@@ -7,7 +7,7 @@
        
 The Clementi Forest consists of 85 hectares of secondary forest that have spontaneously afforested over the last thirty to forty years. It is bounded roughly by King Albert Park, Clementi Road, Old Holland-Ulu Pandan Road, and the main former railway line. Within it, a freshwater stream flows through the forest, providing important micro-habitats for aquatic and semi-aquatic wildlife.[^1] The Clementi Forest is still a relatively young secondary forest, but the land from which it emerged holds a long history from plantations to railways to political stalemates, all of which have contributed in some way to the ecological makeup and formation of the Clementi Forest. 
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/IMG_B7672E2C1916-1.jpeg"
+       url="Clementi Forest/media/IMG_B7672E2C1916-1.jpeg"
        title="Clementi Forest 2021"
        curtain="true"
        attribution="Angela Ricasio Hoten"
@@ -16,13 +16,13 @@ The Clementi Forest consists of 85 hectares of secondary forest that have sponta
 ## Plantation Beginnings
 We begin where most of Singapore’s historical records begin - the colonial history of the land. According to historian Richard Corlett, the first plantation crops cultivated in Singapore in the 19th century were [Gambier, _<span eid="Q910384">Uncaria gambier</span>_, and pepper](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/#fn:6).[^2] However, reduced prices for gambier in the late 1850s and 1860s led to a decline in the cultivation of this cash crop and led to the introduction of other crops, the most important being rubber, _<span eid="Q156538">Hevea brasiliensis</span>_ which had the most significant impact on Singapore’s landscape in the first half of the twentieth century.[^3] Rubber was first planted on a commercial scale in 1903, as demand increased the cultivation of rubber increased, leading to over 40% of Singapore's total land area dedicated to rubber plantations making British Malaya the world’s largest supplier of natural rubber for most of the twentieth century.[^4] This, of course, meant that most of Singapore's forests had been cleared to make way for this monoculture crop. According to scholar and researcher Lim Tai Wei, the land that we now know as the Clementi Forest was also a rubber plantation from the 1920s to the 1940s.[^5] A 2012 NUS Research study affirms this finding: the study indicated that rubber trees were recorded at the highest frequency in the Clementi Forest, evidence of the land's colonial history.[^6] After the mid-1940s, the cultivation of rubber declined sharply across Singapore; historians estimate that most of the rubber plantations were abandoned during World War II and not reestablished thereafter, so it is likely that the rubber plantation that occupied the land of the Clementi Forest was abandoned.[^7] The abundance of rubber trees in the Clementi Forest serves as a reminder of Singapore's participation as a commodity periphery in the global mass production network of rubber for the purposes of British Malayan trade in the nineteenth to the twentieth century.[^8] 
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Rubber_Seeds_1.JPG"
+       url="media/Rubber_Seeds_1.JPG"
        curtain="true"
        title="Rubber Seeds in the Clementi Forest, 2023"
        attribution="Andrea Danielle"
        fit="contain">
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Rubber_Seeds_2.jpg"
+       url="media/Rubber_Seeds_2.jpg"
        title="Rubber Seeds in the Clementi Forest, 2023"
        attribution="Andrea Danielle"
        fit="contain">
@@ -30,7 +30,7 @@ We begin where most of Singapore’s historical records begin - the colonial his
 ## Moving In 
 Post-World War II, the rubber plantations were abandoned by their owners, and the land was left to fallow. In the years that followed, different species moved into the recently abandoned land, including but not limited to leopard cats, sea almond trees, and people. Historian Eisen Teo reflects on the multispecies communities that emerged on the fringes of the Clementi Forest in the post-war years:
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Temple_1.JPG"
+       url="media/Temple_1.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
@@ -38,12 +38,12 @@ Post-World War II, the rubber plantations were abandoned by their owners, and th
 >In the post-war years, urbanization and the reclamation of nature saw the co-existence of a traditional Malaysian/Singaporean kampong village setting and a boys’ town (remand school for troubled youths) located on the fringes of the Clementi Forest. The original rubber planter owner did not return after World War II to reclaim his land and the Clementi Forest remained untouched for fifty years, with the Malayan Railway running through it. In the post-war years, the kampong villages here co-existed with nature (secondary forests) and beasts (leopard cats, estuary crocodiles and so on). Individuals had access to the Forest and wildlife wandered into the villages. Some residents of Clementi Road ventured freely into the Forest to catch fish, while the Singapore–Malaysian railway ran through its interior.[^13]
 
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_1.JPG"
+       url="media/Kampong_1.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
        attribution="Angela Ricasio Hoten"
        fit="contain">
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_2.JPG"
+       url="media/Kampong_2.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
        attribution="Andrea Danielle"
        fit="contain">
@@ -51,7 +51,7 @@ Post-World War II, the rubber plantations were abandoned by their owners, and th
 Unlike the historical capitalist endeavors of the British in the early colonial period or the hyper-industrialization projects of independent Singapore that were soon to emerge, the kampong histories of the Clementi Forest reflect a different kind of human-non-human relationship of co-existence and intimacy. 
 
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/ClementiForest/main/Media/Kampong_3.JPG"
+       url="media/Kampong_3.JPG"
        title="Remnants of a Kampong, Clementi Forest 2023"
        curtain="true"
        attribution="Andrea Danielle"
