@@ -300,7 +300,7 @@ div.segment p {
     padding-left: 12px;
   }
 
-  /*
+  
   .cards {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr) );
@@ -326,7 +326,6 @@ div.segment p {
     grid-area: title;
     font-weight: bold;
     font-size: 1.5rem;
-    font-style: italic;
     line-height: 1;
     margin-top: 1.3rem;
     margin-bottom: 0.2rem;
@@ -353,7 +352,7 @@ div.segment p {
     font-size: 0.9rem;
     font-weight: 400;
 }
-*/
+
 
 .abstract-text {
   grid-area: abstract;
