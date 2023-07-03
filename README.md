@@ -5,14 +5,6 @@
    
 ### {.cards}
 
-
-#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/huiqingyeooo/Ae_aegypti}
-
-![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
-
-"*Aedes aegypti* : Not All Black and White"
-<br><br><br><br>**Yeo Huiqing**
-
 #### Betel-Nut Palm (_Areca catechu_ and _Piper betle_ L.) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
 
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
@@ -27,19 +19,25 @@
 "Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
 <br><br><br> **Sun Woo Yoon**
 
-#### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig}
+#### Clementi Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest}
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
+![](Clementi Forest/media/Clementi Forest 3.jpg)
+"Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
+<br><br> **Angela Ricasio Hoten**
 
-"Religion’s Living Roots: The Sacred _Ficus religiosa_" 
-<br><br><br><br>**Foo Shi Wen**
+#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/huiqingyeooo/Ae_aegypti}
 
-#### Tapioca (*Manihot esculenta*) {https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
+![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
-![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
+"*Aedes aegypti* : Not All Black and White"
+<br><br><br><br>**Yeo Huiqing**
 
-"Tapioca: Despised or Delicacy?"
-<br><br><br><br> **Jody Lim**
+#### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/dgurses/guava/}
+
+![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
+
+"Guava: An Exciting Delicacy across Southeast Asian Cultures"
+<br><br><br>**Dünya Gürses**
 
 #### Jaguar Cichlid (*Parachromis managuensis*) {href=https://www.juncture-digital.org/maximwabx/Jaguar}
 
@@ -55,13 +53,22 @@
 "Pápalo: Lost in Translation" 
 <br><br><br><br><br>**Max D. López Toledano**
 
+#### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig}
 
-#### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/dgurses/guava/}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
-![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
+"Religion’s Living Roots: The Sacred _Ficus religiosa_" 
+<br><br><br><br>**Foo Shi Wen**
 
-"Guava: An Exciting Delicacy across Southeast Asian Cultures"
-<br><br><br>**Dünya Gürses**
+#### Tapioca (*Manihot esculenta*) {https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
+
+![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
+
+"Tapioca: Despised or Delicacy?"
+<br><br><br><br> **Jody Lim**
+
+
+
 
 
 .ve-footer
