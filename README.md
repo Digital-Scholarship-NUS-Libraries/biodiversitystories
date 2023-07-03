@@ -69,9 +69,12 @@
 <br><br><br><br> **Jody Lim**
 
 
+#### Tapioca (*Manihot esculenta*) {https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
 
+![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
 
-
+"Tapioca: Despised or Delicacy?"
+<br><br><br><br> **Jody Lim**
 
 .ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
