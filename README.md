@@ -26,7 +26,7 @@
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br><br> **Angela Ricasio Hoten**
 
-#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/huiqingyeooo/Ae_aegypti}
+#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito}
 
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
