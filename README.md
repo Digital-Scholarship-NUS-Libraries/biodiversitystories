@@ -3,7 +3,7 @@
     - [About](/about)
     - [Authors](/authors) 
    
-### {.cards style=font-style: italic}
+### {.cards}
 
 #### Betel-Nut Palm (_Areca catechu_ and _Piper betle_ L.) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
 
