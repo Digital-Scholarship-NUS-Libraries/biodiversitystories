@@ -4,7 +4,7 @@
 <param ve-config 
        title="Pápalo: Lost in Translation"
        author="Max D. López Toledano"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Porop_ruder_050107-062_ckup.jpg/640px-Porop_ruder_050107-062_ckup.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/a/aa/Porop_ruder_050107-062_ckup.jpg"
        layout="vertical">
       
 ##
