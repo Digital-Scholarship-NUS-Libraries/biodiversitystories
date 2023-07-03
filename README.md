@@ -24,7 +24,7 @@
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
-<br><br> **Angela Ricasio Hoten**
+<br><br><br> **Angela Ricasio Hoten**
 
 #### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/huiqingyeooo/Ae_aegypti}
 
