@@ -68,13 +68,12 @@
 "Tapioca: Despised or Delicacy?"
 <br><br><br><br> **Jody Lim**
 
+#### Betel-Nut Palm (*Areca catechu* and *Piper betle* L.) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
 
-#### Tapioca (*Manihot esculenta*) {https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
+![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
-![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
-
-"Tapioca: Despised or Delicacy?"
-<br><br><br><br> **Jody Lim**
+"Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
+<br>**Joyce Hu**
 
 .ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
