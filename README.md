@@ -40,7 +40,7 @@
 "Guava: An Exciting Delicacy across Southeast Asian Cultures"
 <br><br><br>**Dünya Gürses**
 
-#### Jaguar Cichlid (*Parachromis managuensis*) {href=https://www.juncture-digital.org/maximwabx/Jaguar}
+#### Jaguar Cichlid (*Parachromis managuensis*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Jaguar%20cichlid}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105)
 
