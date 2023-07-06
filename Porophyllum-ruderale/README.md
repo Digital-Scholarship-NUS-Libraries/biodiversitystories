@@ -10,10 +10,9 @@
 ##
 All across Singapore, a special plant lives almost unnoticed. It goes by many names, depending on who you ask. In English, it is commonly known as ‘Summer Cilantro’ or ‘Bolivian Coriander’, but the *Porophyllum ruderale* is also known as <span eid="Q891381">'pápalo'</span> or ‘pápaloquelite’ in Mexico, ‘Quirquiña’ or ‘Quilquiña’ in Bolivia, and ‘Yerba Porosa’ all over Latin America. The name ‘pápaloquelite’ derives from Nahuatl, a language used by the Aztec civilization and which is still spoken by 1.5 million people in Mexico.[^1] It is a composite word made up of ‘*papalotl*’ (butterfly) and ‘*quilitl*’ (edible herb), ultimately meaning ‘edible butterfly’.[^2] While this plant is native to Mexico and Central and South America, it has now been naturalised in Singapore.[^3] This means that its population is self-sustaining without the need to introduce new individuals,[^4] enabled by the easy dispersal of its seeds by the wind.
 
-
 <param ve-image 
-       url="https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A918%2Fdatastream%2FJP2%2Fview%3Ftoken%3D35b3493c53b0f976964508b6465c147a0660f9d0f4714f4868688aedc7f878ab&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0"
-       title="The plant known as Xaxocatl in Nahuatl is thought to be the guava. It is illustrated here inthe 16th century Aztec herbal manuscript \*Libellus de Medicinalibus Indorum Herbis\*"
+       url="https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0"
+       title="Pápalo was part of a botanical archive in the form of codex, Códice Badiano, made at the request of Spanish King Charles V."
        attribution="D.R. Instituto Nacional de Antropología e Historia, México"
        region="1,85,1073,827"
        license="CC BY-NC-ND 4.0">
