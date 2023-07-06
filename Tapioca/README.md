@@ -92,10 +92,11 @@ However, the cultivation of tapioca soon declined as rubber became a more lucrat
 
 This is a quote from an [oral history interview](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dff97246-115d-11e3-83d5-0050568939ad?keywords=tapioca&keywords-type=all) from Mr. Sng Choon Yee, who became a tapioca seller during the Japanese occupation of Singapore from 1942 to 1945.[^12] Mr. Sng’s oral history gives an insight into the lifestyles of locals during this period, in which there were severe food shortages due to wartime trade embargoes and the Japanese policy of autarky or economic self-sufficiency. To remedy this, there was a reconfiguration of office hours: Offices closed at 2pm and their workers tended to gardens from 3pm until nightfall. Many Singaporeans, including Mr. Sng, turned to small-scale subsistence farming to supplement their incomes and diets.[^13]
 <param ve-image 
-       url="https://sgfilmhunter.files.wordpress.com/2012/09/defeated-japanese-soldiers-were-cleaning-up-the-padang-1945.jpg"
-       title="Padang Placeholder" 
-       attribution="nil"
-       license="nil" >  
+       url="Tapioca/media/NAS St Joseph's Tapioca.jpg"
+       title="All spare land was devoted to vegetable cultivation, including this plot on Bras Basah Road in front of St Joseph's Institution" 
+       attribution="Photograph by Chuang Hui Tsuan, courtesy of National Archives Singapore"
+       description="Reproduced with permission. Full record at https://www.nas.gov.sg/archivesonline/photographs/record-details/b36cdf31-22c5-11ed-ba8a-005056a7c0ea" 
+       >  
 
 In the interview, Sng details how he managed to get space to plant tapioca in land-scarce Singapore. As a member of the Hokkien Huay Kuan, a Chinese clan association, he requested to use the association’s cemetery land to plant tapioca. The Huay Kuan allowed him to utilise the cemetery land, located near today’s Whitley and Adam Road,  as long as he did not dig up the graves.[^14] In contrast to colonial plantations, the growing of tapioca during the Japanese Occupation was mainly scaled at the individual level as a means to earn enough money to survive. 
 <param ve-iframe 
