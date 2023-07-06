@@ -20,6 +20,7 @@ In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the w
        url="Jaguar cichlid/media/Fig2.png"
        title="History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported)."
        attribution="Bonnie J. Holmes"
+       fit="contain"
        license="Attribution 4.0 International - CC BY 4.0">
 
 ##
