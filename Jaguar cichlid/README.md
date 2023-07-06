@@ -17,7 +17,7 @@ The <span eid="Q3743">Jaguar Cichlid</span> (*Parachromis managuensis*) is nativ
 In Singapore, Jaguar Cichlids can be found in aquarium shops as well as in the wild, mostly in canals and other freshwater water bodies. Local fishermen run into them on occasion.[^8] It has specifically been reported in the Pandan Canal, Lake Jurong, and the Yishun Stormwater Collection Pond.[^9] The Jaguar Cichlid was first reported in the wild in Singapore in 2003[^10] and has also been found in China, Hawaii, Puerto Rico, Australia, several countries in Central America, and some parts of the United States since, where it has found warm waters similar to the tropical climate to which it is native.[^11] Although the Jaguar Cichlid is in some contexts also known as the ‘Aztec Cichlid’, it is important to not confuse it with the Mayan Cichlid (*Cichlasoma urophthalmus*) or the Quetzal Cichlid (*Vieja melanurus*). These two species can also be found in Singapore[^12] and are native to Central America,[^13] but they are smaller and their appearance is very different to the iconic spotted pattern of the Jaguar Cichlid. All these species are suspected to have arrived in Singapore via the aquarium trade and then released into water reservoirs when they were no longer wanted.[^14] The basis for this hypothesis is that the aquarium trade accounts for the introduction of approximately 65% of the 123 non-native fish species found in Singapore, of which 24% are Cichlids.[^15]Recent biodiversity surveys of local reservoirs also support this result, with Cichlids being the most abundant family of fishes.[^16]
 
 <param ve-image 
-       url="https://github.com/maximwabx/Jaguar/assets/134259666/a8da9604-1797-4230-8dda-ba742e00b050"
+       url="Jaguar cichlid/media/Fig2.png"
        title="History of non-native establishments of jaguar cichlid worldwide, in chronological order (where known or reported)."
        attribution="Bonnie J. Holmes"
        license="Attribution 4.0 International - CC BY 4.0">
@@ -34,7 +34,7 @@ The history of the aquarium trade in Singapore is deeply entangled with Singapor
 The aquarium trade, of course, does not *only* have economic implications. It is enmeshed with cultural trends as well. For aquarium keepers in Singapore today, rearing and displaying fish is a way of building community and expressing themselves. An example of this is the ‘Singapore Cichlid Keepers’ society, a Facebook group that has over 1,700 “Cichlid lovers and aquarium enthusiast” members.[^23] In this group, members share videos of their cichlids and meaningful information about particular species, and recommend products to each other to improve their aquarium tanks. New members are routinely welcomed in posts by the group administrator, and they are also invited to join the Telegram group chat, where over 40 community members ask questions related to aquarium maintenance and/or buy and sell different Cichlid species. 
 
 <param ve-image 
-       url="https://github.com/maximwabx/Jaguar/assets/134259666/fe55467a-4a5b-4d84-9868-937cb697ab1f"
+       url="Jaguar cichlid/media/Fig 4.png"
        title="A member of the Singapore Cichlid Keepers group proudly shows his Golden Jaguar to other group members."
        attribution="Screenshot taken by author"
        license="Public domain">
@@ -48,7 +48,7 @@ This is an example of a niche community, a concept which anthropologist Margot W
 The international dimension of local ornamental fish communities reflects Singapore’s position in today’s globalised world. Cichlid enthusiasts get to care and build relationships with species hailing from Central America, like the Jaguar Cichlid, or even Africa, like the Mozambique Tilapia (*Oreochromis mossambicus*) which has also been imported to Singapore in the last few decades.[^29] Singaporean non-native biodiversity cannot be reduced to the label of “invasive”. These species also tell a broader story about Singapore and the Singaporean identity, a story that can be found in local freshwater ecologies. 
 
 <param ve-image 
-       url="https://github.com/maximwabx/Jaguar/assets/134259666/5b0f75af-bfa8-4914-a5d2-4bb7a35bdd7c"
+       url="Jaguar cichlid/media/Figure 6.jpeg"
        title="The Mozambique Tilapia was included in a special ‘Life in the Pond’ stamp collection in Singapore in 2011."
        attribution="pending"
        license="pending">
@@ -57,7 +57,7 @@ The international dimension of local ornamental fish communities reflects Singap
 The Jaguar Cichlid, for example, reminds us that Singapore is part of a global tropical zone beyond Southeast Asia. Its adaptation to Singapore’s water bodies has only been possible due to its suitability for the warm water also found in the Central American tropics. Likewise, its name, *the jaguar*, reminds us of Singapore’s tropical and pre-colonial identity too. Predators at the top of the rainforest food chain loom large in tropical cultures. The jaguar, in the Central American case, and the tiger, in the case of Singapore, have historically earned prominent roles in the cultural imaginations of these two places. In cultures all over Central America, the jaguar has historically been a symbol of power and divinity.[^30] These species have historically been respected and feared—they are aggressive and will dominate whatever environment they are put in. In Singapore, for example, the tiger was a major preoccupation of colonial control, given it posed a threat to settler communities and plantation labour.[^31] The tiger and the jaguar alike express that *something* about the tropics which cannot be tamed; as Wong Zi Hao reflects on in the context of Tanjong Rimau (‘Tiger Cape’ in Malay). The reference to the tiger in this island’s name is an expression that the “landscape that is out-of-bounds”.[^32] Although there are no wild tigers in Singapore anymore, the Jaguar Cichlid reminds us they were once here, and the place was theirs.
 
 <param ve-image 
-       url="https://github.com/maximwabx/Jaguar/assets/134259666/6c867249-946e-4d22-a2e5-dfd64edb50e9"
+       url="https://www.roots.gov.sg/CollectionImages/1133253.jpg"
        title="'Interrupted Road Surveying in Singapore'. 1865. The figure of the tiger remains a central part of the imagined ‘unruliness’ of pre-modern tropical Singapore."
        attribution="Collection of the National Museum of Singapore, National Heritage Board."
        license="Used with permission">
