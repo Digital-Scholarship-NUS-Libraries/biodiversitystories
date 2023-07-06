@@ -52,7 +52,7 @@ The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once 
 
 In Singapore, guava and the different jambu fruits are captured even in street names. The map below shows streets named ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’, and ‘Jalan Jambu Mawar’.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/street_names.png"
+       url="/Guava/media/street_names.png"
        title="Map showing ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’ and ‘Jalan Jambu Mawar" 
        description="Produced in 1959, titled 'Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan'"
        attribution="National Archives of Singapore"
@@ -78,7 +78,7 @@ Another dish is *asinan buah*, a type of Indonesian pickled fruit salad that is 
 
 Although mostly used as a side ingredient in local cuisines, guavas can be the main element of some dishes as well. The dish below shows guava slices served with ​*​sng buay* (sour plum) and dried orange peels at a Peranakan wedding in Singapore. The bride’s side is from Malaysia and they made it homemade. It was said that the guava “was soft and slightly sour, with a bit of sour plum powder then the orange peel made it very citrusy and fresh”.[^17] Guavas are commonly enjoyed raw with plum powder as a snack in Malaysia and Singapore and with chili salt in Thailand.
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/izzy_guava.jpg"
+       url="/Guava/media/izzy_guava.jpg"
        title="Guava dish" 
        description="Photo taken by Isabelle Liew'"
        attribution="Isabelle Liew"
@@ -86,7 +86,7 @@ Although mostly used as a side ingredient in local cuisines, guavas can be the m
 
 Another popular way of consuming guavas is in beverages. Guava juice is very popular in Southeast Asia. It is either sold fresh by street vendors or canned in supermarkets. It can be added to a range of cocktails and mocktails and seems to be a popular ingredient choice for hotel bars in Singapore. The two cocktail recipes here, one made at the Holiday Inn[^18] and the other at Hyatt Regency[^19] both use guava juice. The non-alcoholic ‘Island Dream’ drink at the Mandarin Hotel also uses guava juice as one of its main ingredients and “was the winning drink in the mocktail competition” at the 1988 Singapore Swing celebrations.[^20]
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/guava/main/pictures/cocktails.png"
+       url="/Guava/media/cocktails.png"
        title="Cocktail recipes" 
        description="Recipes taken from newspaper articles'"
        attribution="'Long Drink' recipe from New Nation and 'Hurricane Helen' and 'Island Dream' from the Straits Times"
