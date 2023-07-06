@@ -20,6 +20,13 @@ Guava trees are small to medium-sized trees that can grow up to 10 meters tall. 
 
 The guava was likely brought to Southeast Asia by Spanish and Portuguese colonizers in the 15th and 16th centuries who introduced various tropical crops to the region during the colonial era. The exact details of how guava was brought over are unclear, but it is believed that the Spanish introduced it to the Philippines and the Portuguese into India.[^1] The guava tree thrived in Southeast Asia due to its adaptability to the region's tropical climate and soil conditions. Over time, the guava tree became naturalized, and it is now widely grown throughout the region, especially in countries like Indonesia, Malaysia, and the Philippines. With a long history in the region, the plant has become ingrained in many Southeast Asian cultures, whether it be traditional medicine or local food cultures, and is still enjoyed today by many.
 
+<param ve-image 
+       url="https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A918%2Fdatastream%2FJP2%2Fview%3Ftoken%3D35b3493c53b0f976964508b6465c147a0660f9d0f4714f4868688aedc7f878ab&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0"
+       title="The plant known as Xaxocatl in Nahuatl is thought to be the guava. It is illustrated here inthe 16th century Aztec herbal manuscript \*Libellus de Medicinalibus Indorum Herbis\*"
+       attribution="D.R. Instituto Nacional de Antropología e Historia, México"
+       region="1,85,1073,827"
+       license="CC BY-NC-ND 4.0">
+       
 ## Etymology
 
 In Malay/Indonesian the guava is called *jambu batu*, the word *jambu* having originated from Sanskrit. In Sanskrit jambu refers to a fruit or a rose apple, and is used to refer to a range of apple species in the Malay-speaking world. Of the “jambu (a species of apple) there are the jam bukling merah, (red) ayer mawa, (which tastes like rose water,) jambu bija, the guava, irong the cashew apple, another sort called britis”.[^2] Jambu batu is the name of the common guava with white flesh. When its flesh ripens and turns red the fruit is then referred to as *jambu batu merah* which simply translates to red guava. Jambu is used colloquially in Singapore to say pretty/beautiful and batu means rock in Malay so jambu batu literally means pretty rock. 
