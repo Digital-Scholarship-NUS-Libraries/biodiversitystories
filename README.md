@@ -38,7 +38,7 @@
 ![](http://www.figweb.org/fig_wasps/agaonidae/Agaoninae/Platyscapa/images/Platyscapa_quadraticeps_habitus_lateral.jpg)
 
 "The Fig Wasp: A Fundamental yet Forgotten Pollinator in Urban Green Spaces"
-<br><br><br>**Joyce Hu**
+<br><br>**Joyce Hu**
 
 #### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Guava}
 
