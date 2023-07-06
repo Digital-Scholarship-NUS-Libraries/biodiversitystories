@@ -33,7 +33,7 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br>**Yeo Huiqing**
 
-#### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/dgurses/guava/}
+#### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Guava}
 
 ![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
 
