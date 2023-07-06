@@ -22,7 +22,7 @@ The guava was likely brought to Southeast Asia by Spanish and Portuguese coloniz
 
 <param ve-image 
        url="https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A918%2Fdatastream%2FJP2%2Fview%3Ftoken%3D35b3493c53b0f976964508b6465c147a0660f9d0f4714f4868688aedc7f878ab&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=4&svc.rotate=0"
-       title="The plant known as Xaxocatl in Nahuatl is thought to be the guava. It is illustrated here inthe 16th century Aztec herbal manuscript \*Libellus de Medicinalibus Indorum Herbis\*"
+       title="The plant known as Xaxocatl in Nahuatl is thought to be the guava. It is illustrated here in the 16th century Aztec herbal manuscript Libellus de Medicinalibus Indorum Herbis"
        attribution="D.R. Instituto Nacional de Antropología e Historia, México"
        region="1,85,1073,827"
        license="CC BY-NC-ND 4.0">
