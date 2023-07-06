@@ -33,6 +33,13 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br>**Yeo Huiqing**
 
+#### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/joycewho1/figwaspessay}
+
+![](http://www.figweb.org/fig_wasps/agaonidae/Agaoninae/Platyscapa/images/Platyscapa_quadraticeps_habitus_lateral.jpg)
+
+"The Fig Wasp: Fundamental yet Forgotten in Urban Green Spaces"
+<br><br><br>**Joyce Hu**
+
 #### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Guava}
 
 ![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
