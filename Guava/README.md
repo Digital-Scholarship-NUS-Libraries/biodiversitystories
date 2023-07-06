@@ -23,6 +23,8 @@ The guava was likely brought to Southeast Asia by Spanish and Portuguese coloniz
 ## Etymology
 
 In Malay/Indonesian the guava is called *jambu batu*, the word *jambu* having originated from Sanskrit. In Sanskrit jambu refers to a fruit or a rose apple, and is used to refer to a range of apple species in the Malay-speaking world. Of the “jambu (a species of apple) there are the jam bukling merah, (red) ayer mawa, (which tastes like rose water,) jambu bija, the guava, irong the cashew apple, another sort called britis”.[^2] Jambu batu is the name of the common guava with white flesh. When its flesh ripens and turns red the fruit is then referred to as *jambu batu merah* which simply translates to red guava. Jambu is used colloquially in Singapore to say pretty/beautiful and batu means rock in Malay so jambu batu literally means pretty rock. 
+<param ve-image 
+       manifest=https://iiif.juncture-digital.org/wc:Guava_ID.jpg/manifest.json>
 
 ## Kampong life
 
