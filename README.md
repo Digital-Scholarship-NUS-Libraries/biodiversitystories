@@ -35,7 +35,7 @@
 
 #### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/joycewho1/figwaspessay}
 
-![](http://www.figweb.org/fig_wasps/agaonidae/Agaoninae/Platyscapa/images/Platyscapa_quadraticeps_habitus_lateral.jpg)
+![](Fig Wasp/media/Platyscapa_quadraticeps.jpeg)
 
 "The Fig Wasp: A Fundamental yet Forgotten Pollinator in Urban Green Spaces"
 <br><br>**Joyce Hu**
