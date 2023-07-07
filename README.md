@@ -59,7 +59,7 @@
 ![](Pandan/media/leaf_axil.jpg)
 
 "Pandan: The Essence of Home"
-<br><br><br> **Yeo Huiqing**
+<br><br> **Yeo Huiqing**
 
 #### Pápalo (_Porophyllum ruderale_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Porophyllum-ruderale}
 
