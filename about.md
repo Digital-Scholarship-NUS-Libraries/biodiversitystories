@@ -1,4 +1,4 @@
-.ve-header "Biodiversity Stories" src:media/10-jul-update-juncture-banner.jpg "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
+.ve-header "Biodiversity Stories" src:https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/96b3f7735bd218af4920bf622c2bab6addb60b04/media/10-jul-update-juncture-banner.jpg "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
     - [Home](/)
     - [About](/about)
     - [Authors](/authors)
@@ -11,5 +11,5 @@ This website is part of the project "Linking the Digital Humanities to Biodivers
 
 
 .ve-footer
-    - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
+    - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org) SSRTG Grant "Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia"
     - Supported by: [![Yale-NUS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yale-NUS_College_logo.svg/800px-Yale-NUS_College_logo.svg.png)](https://www.yale-nus.edu.sg/)[![NUS Libraries Logo](https://sbdb.nus.edu.sg/images/NUSCL.png)](https://blog.nus.edu.sg/linus/about-nus-libraries/)
