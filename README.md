@@ -70,10 +70,10 @@
 
 #### Red-eared Slider (*Trachemys scripta elegans*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Red-eared%20slider}
 
-![](https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/dd726604afce98d269bdd8a08da039af3b708467/Red-eared%20slider/media/turtle-3327092_1280.jpg)
+![](Red-eared slider/media/turtle-3327092_1280.jpg)
 
 "Red-eared Sliders in Singapore: From Exotic Pet to Released Pest"
-<br><br><br> **Dünya Gürses**
+<br><br> **Dünya Gürses**
 
 
 #### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig}
