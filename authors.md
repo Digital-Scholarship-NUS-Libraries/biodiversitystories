@@ -1,4 +1,4 @@
-.ve-header "Biodiversity Stories" src:https://raw.githubusercontent.com/KatherineMEnright/speciesstories/main/media/new-banner.jpg  "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
+.ve-header "Biodiversity Stories" src:https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/media/10-jul-update-juncture-banner.jpg  "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
     - [Home](/)
     - [About](/about)
     - [Authors](/authors)
@@ -52,7 +52,7 @@ Huiqing is a student research assistant under the ‘Linking the Digital Humanit
 Sun Woo is an artist, researcher, and environmental activist. He works with a variety of media through which he explores environmental histories with a keen interest on the ocean. He is active at Students for a Fossil Free Future, Extinction Rebellion NYC, and GreenCheck where he is an artist-activist, strategist, and design mentor.
 
 .ve-footer
-    - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
+    - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org) SSRTG Project "Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia"
     - Supported by: [![Yale-NUS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Yale-NUS_College_logo.svg/800px-Yale-NUS_College_logo.svg.png)](https://www.yale-nus.edu.sg/)[![NUS Libraries Logo](https://sbdb.nus.edu.sg/images/NUSCL.png)](https://blog.nus.edu.sg/linus/about-nus-libraries/)
 
 
