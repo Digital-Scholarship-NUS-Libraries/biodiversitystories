@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Red-eared Sliders in Singapore"
+       title="Red-eared Sliders in Singapore: From Exotic Pet to Released Pest"
        author="Dünya Gürses"
        banner="Red-eared slider/media/new_turtle.png"
        layout="vertical">
@@ -27,7 +27,7 @@ Although the red-eared slider and the Malayan box turtle are the only reptile sp
        description="Chinese softshell turtle"
        attribution="Photo by author">
 
-## Release of turtles into the wild
+## Release of Turtles into the Wild
 
 Being cute and cheap certainly has its drawbacks for the red-eared slider. People usually buy them for their kids without doing proper research and are unaware that “each can grow to 30 cm and live up to 30 years - possibly outgrowing tanks and attention spans”.[^10] This results in many people abandoning their turtles when they get too big and lose their bright colors. Red-eared sliders are also a popular choice for mercy releases on Vesak Day, which increases their population in the wild. The “belief that freeing captive animals on Vesak Day brings good karma is still held in some quarters, despite the pleas of the authorities and animal rights groups”.[^11] Although many “Buddhists set captive animals free on Vesak Day as a compassionate gesture [...] some nature lovers are concerned that such acts can harm the environment”.[^12] As Mr. Henry Baey, who heads the Buddhist Fellowship, said in 2011: “Many such animals, especially those bred in captivity or imported, are known to be unable to adapt to the new surroundings and do not survive long after their release. They will also upset the existing ecosystem and may harm the native wildlife. It is therefore not necessarily a kind act”.[^13] There have been initiatives in 2004 to educate the public through exhibitions and direct interventions and a fine of up to $10,000 for releasing animals into reservoirs and ponds. Still, these measures seem to not have been entirely successful in preventing citizens from releasing animals both on Vesak Day and in general.
 <param ve-image 
@@ -36,7 +36,7 @@ Being cute and cheap certainly has its drawbacks for the red-eared slider. Peopl
        description="Accessed through the Independent (https://www.independent.co.uk/asia/east-asia/hong-kong-turtles-mercy-release-b1846808.html)"
        attribution="REUTERS">
 
-## Competition with native species
+## Competition with Native Species
 
 With the red-eared sliders, this presents an even more pressing issue as they are an invasive species. Their “omnivorous diet and ability to survive in a wide range of freshwater habitats make them a significant threat to [Singapore’s] native aquatic biodiversity”.[^14] They have adapted well to tropical climates and populate more rapidly than native turtle species such as the Malayan Box Turtle. A female red-eared slider “can produce up to a dozen eggs twice a year, and out-breeds the Malayan box turtle, for example, which puts out only two eggs each time”.[^15] However, it is unclear whether the high population of sliders in Singapore reservoirs and ponds is actually due to their breeding in nature or their continuous releases. In fact, “there appears to be little evidence that this species has successfully bred in the wild in Singapore: egg-laying behavior has been witnessed, but hatchlings are rarely seen” and “it may be the case that eggs and hatchlings fall prey to predators, such as the Malayan Water Monitor”.[^16] A preliminary, semi-quantitative survey conducted in 2004 at 29 localities around Singapore found that “slider densities were highest in areas with relatively high human activity” and “in general low to very low numbers were found in inaccessible areas, despite some areas having relatively large water bodies”.[^17] These results and “the continued high import densities and abundances strongly suggest that the release of this species is a dominant factor”.[^18]
 <param ve-image 
@@ -53,7 +53,7 @@ Regardless of the reason for the slider population boom, it is clear that they h
        description="Accessed through pixabay.com"
        attribution="T_Kohei">
 
-## Threats to turtle biodiversity
+## Threats to Turtle Biodiversity
 
 Singapore’s native turtle species include the Malayan box terrapin, Asian leaf terrapin, Malayan forest softshell turtle, spiny terrapin and Malayan flatshell terrapin.[^22] However many turtle species like the red-eared slider and Chinese softshell turtle have become permanent residents through the wildlife trade. According to the founder of conservation group Marine Stewards, Ms Sue Ye, turtle populations in Singapore face multiple threats, such as “plastic ingestion, being struck by boat propellers while coming up for air, and overall loss of habitats and nesting sites”.[^23] Many aquatic animals like turtles “die from ingesting trash tossed into water bodies by thoughtless people”; “turtles that feed on jellyfish often mistake plastic bags as food and swallow them, only to be choked and killed”.[^24] With the prominent threats of habitat loss due to rapid urbanisation, pollution, and invasive species, Singapore’s turtle biodiversity and larger aquatic ecosystems could be at risk of collapse. Professor Peter Ng from the Raffles Museum of Biodiversity Research stated that, “the collapse of such ecosystems in streams and reservoirs [in Singapore], or even in Malaysia, which supplies almost half of Singapore’s water, could also have severe implications on the quality of drinking water” and asked, “How would you feel if our reservoirs kept having dead turtles and fish floating around?’”[^25] Considering that “tortoises and freshwater turtles are among the world's most threatened groups of animals”, it is important that we all do our part to conserve ecosystems by not participating in the illegal wildlife trade, uninformed pet ownership or pollution.[^26]
 <param ve-image 
