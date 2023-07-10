@@ -7,9 +7,9 @@
 
 ####  Foo Shi Wen
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+![](media/Shi Wen-author-photo.jpeg)
 
-Shi Wen is a student at Yale-NUS college.
+Shi Wen is a Yale-NUS college student with a major in environmental studies. He specialises in ecology, focusing on arthropod distributions in Singapore’s secondary forests. He is also passionate about the arts, astronomy and science fiction.
 
 ####  Dünya Gürses
 
