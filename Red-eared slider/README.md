@@ -1,12 +1,12 @@
 <param ve-config 
        title="Red-eared Sliders in Singapore"
        author="Dünya Gürses"
-       banner="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/new_turtle.png"
+       banner="Red-eared slider/media/new_turtle.png"
        layout="vertical">
        
 The red-eared slider is one of the most popular pets around the world and a notoriously invasive turtle species. Red-eared sliders are medium-sized turtles originating from the region extending from the Mississippi River Basin of North America to the Gulf of Mexico. They live in warm climates and have a lifespan of 20-40 years. The red-eared sliders are “distinguished by the red or yellow stripe behind [their] eyes” and “continue to grow throughout their lives, to about 30 cm in length”.[^1] Their bright green shells also darken as they age and grow bigger. They are omnivorous animals but “young terrapins prefer meat (insects, guppies, tadpoles), while older terrapins prefer vegetables (aquatic plants)”.[^2] Although they live in aquatic habitats, they breathe air and hence need shallow resting spaces. 
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/turtle-3327092_1280.jpg"
+       url="Red-eared slider/media/turtle-3327092_1280.jpg"
        title="Red-eared sliders" 
        description="Accessed through pixabay.com"
        attribution="zoosnow">
@@ -22,9 +22,9 @@ The red-eared slider has been traded extensively both as a pet and a food item f
 
 Although the red-eared slider and the Malayan box turtle are the only reptile species that can be legally sold as pets in Singapore, the illegal wildlife trade in turtles persists and is still quite rampant. A 2004 survey of 27 pet shops conducted by Ter Yang Goh and Ruth M. O’Riordan found the red-eared slider to be the most common species for sale but encountered 11 other species of which “the import of one species (the Chinese softshell turtle Pelodiscus sinensis) is allowed for food but import of the other 10 species is not permitted for either food or the pet trade”.[^7] The Chinese softshell turtle, which is “the main turtle species eaten in Singapore, popularly in the form of soup” was found to be sold as a pet in 11% of the surveyed shops.[^8] The Chinese softshell turtle is thought to have entered water bodies in Singapore through the food trade and the illegal pet trade. Another specimen believed to have entered water bodies through the illegal pet trade is the pig-nose turtle, which was “the most commonly found protected turtle species for sale” according to the survey.[^9] The photo on the right shows a Chinese softshell turtle surrounded by medium to large-sized red-eared sliders, spotted in a canal in the residential area of Tiong Bahru. As seen in this example, Singapore waterways are taken over by non-native species introduced through the pet trade. 
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/IMG_0882.jpg"
+       url="Red-eared slider/media/IMG_0882.jpg"
        title="Large turtle spotted in Tiong Bahru canal" 
-       description="Likely a Chinese softshell turtle"
+       description="Chinese softshell turtle"
        attribution="Photo by author">
 
 ## Release of turtles into the wild
@@ -48,7 +48,7 @@ With the red-eared sliders, this presents an even more pressing issue as they ar
 
 Regardless of the reason for the slider population boom, it is clear that they have been rapidly pushing out local species such as the spiny turtle and the Malayan Box turtle which is a big concern for conservationists. The red-eared sliders compete with “native species for food, nesting spots and other essential resources”.[^19] One of the best ways to fight against the colonization of reservoirs and the replacement of native species is to encourage responsible buying and pet ownership because “even as they are getting dumped, sliders are easily one of the fastest-selling items at pet shops”.[^20] This is not only a threat to the local ecosystem but to the species themselves as “animals released into a strange environment become stressed and may die eventually” according to Mr. Wong Tuan Wah, director of conservation at NParks.[^21]
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/turtle-7473927_1280.jpg"
+       url="Red-eared slider/media/turtle-7473927_1280.jpg"
        title="Red-eared slider in the wild" 
        description="Accessed through pixabay.com"
        attribution="T_Kohei">
@@ -57,7 +57,7 @@ Regardless of the reason for the slider population boom, it is clear that they h
 
 Singapore’s native turtle species include the Malayan box terrapin, Asian leaf terrapin, Malayan forest softshell turtle, spiny terrapin and Malayan flatshell terrapin.[^22] However many turtle species like the red-eared slider and Chinese softshell turtle have become permanent residents through the wildlife trade. According to the founder of conservation group Marine Stewards, Ms Sue Ye, turtle populations in Singapore face multiple threats, such as “plastic ingestion, being struck by boat propellers while coming up for air, and overall loss of habitats and nesting sites”.[^23] Many aquatic animals like turtles “die from ingesting trash tossed into water bodies by thoughtless people”; “turtles that feed on jellyfish often mistake plastic bags as food and swallow them, only to be choked and killed”.[^24] With the prominent threats of habitat loss due to rapid urbanisation, pollution, and invasive species, Singapore’s turtle biodiversity and larger aquatic ecosystems could be at risk of collapse. Professor Peter Ng from the Raffles Museum of Biodiversity Research stated that, “the collapse of such ecosystems in streams and reservoirs [in Singapore], or even in Malaysia, which supplies almost half of Singapore’s water, could also have severe implications on the quality of drinking water” and asked, “How would you feel if our reservoirs kept having dead turtles and fish floating around?’”[^25] Considering that “tortoises and freshwater turtles are among the world's most threatened groups of animals”, it is important that we all do our part to conserve ecosystems by not participating in the illegal wildlife trade, uninformed pet ownership or pollution.[^26]
 <param ve-image 
-       url="https://raw.githubusercontent.com/dgurses/red_eared_slider/main/pictures/IMG_0884.jpg"
+       url="Red-eared slider/media/IMG_0884.jpg"
        title="Red-eared sliders in Tiong Bahru canal" 
        description="Red-eared sliders in Singapore"
        attribution="Photo by author">
