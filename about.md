@@ -1,4 +1,4 @@
-.ve-header "Biodiversity Stories" src:https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/96b3f7735bd218af4920bf622c2bab6addb60b04/media/10-jul-update-juncture-banner.jpg "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
+.ve-header "Biodiversity Stories" src:https://raw.githubusercontent.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/main/media/10-jul-update-juncture-banner.jpg "Cultural and Environmental Histories of Introduced Species in Singapore and Southeast Asia" full sticky
     - [Home](/)
     - [About](/about)
     - [Authors](/authors)
