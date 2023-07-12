@@ -5,7 +5,7 @@
    
 ### {.cards}
 
-#### Betel-Nut Palm (*Areca catechu* and *Piper betle* L.) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
+#### Betel Nut Palm and Betel Leaf (*Areca catechu* and *Piper betle*) {href=https://www.juncture-digital.org/joycewho1/betelnutessay}
 
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
