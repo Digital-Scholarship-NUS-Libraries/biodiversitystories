@@ -33,7 +33,7 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br>**Yeo Huiqing**
 
-#### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/joycewho1/figwaspessay}
+#### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
 
 ![](Fig Wasp/media/Platyscapa_quadraticeps.jpeg)
 
