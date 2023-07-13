@@ -43,7 +43,7 @@ Around the fifth century BC, Siddartha Guatama founded Buddhism in modern day In
        url="Sacred Fig/media/buddha.jpg"
        label="Buddhist sutra, Shōbōgenzō"
        description="A Buddhist sutra (translated from Japanese) describing a Buddha’s awakening under a Bodhi tree"
-       attribution="Dōgen, Shōbōgenzō, Volume 82: 401"
+       attribution="Dōgen, Shōbōgenzō: The True Dharma-Eye Treasury, Volume 1, trans. Gudō Nishijima and Chodo Cross (Berkeley, California: Numata Center for Buddhist Translation and Research, 2007), 401"
        fit="contain">
 
 In 288 BC, King Ashoka, who ruled over Bodh Gaya (where Buddha’s Tree of Enlightenment originally stood), delivered a branch of the Tree as a peace offering to Sri Lanka, where Buddhism had newly established.[^21] This branch was planted in Anuradhapura, where it eventually grew in the Jaya Maha Bodhi, likely the most sacred individual tree in Buddhism today. This title would have been afforded to the original Tree of Enlightenment in Bodh Gaya were it not for the tragedy that occurred in 245 BC. Ashoka’s queen, Tissarakkha, grew jealous of her husband’s devotion to the Tree of Enlightenment and reportedly destroyed the tree using a poisonous thorn.[^22] Distraught, Ashoka transplanted a cutting from the Jaya Maha Bodhi onto the spot where the Tree of Enlightenment once stood, in essence reviving the tree.[^23] Aside from Bodh Gaya, many temples around the world also have *F. religiosa* shoots believed to be the direct offspring of the sacred tree in Anuradhapura.[^24] 
@@ -65,7 +65,7 @@ The religious importance of the Bodhi tree to Buddhism still facilitates its pro
 
 ## A Singaporean Natural and Cultural Heritage
 
-Followers of Buddhism and Hinduism collectively comprise over 35% of the population in Singapore and *F. religiosa* features prominently alongside the various temples or roadside shrines of its associated faiths.[^32] The oldest Bodhi tree in Singapore is probably the one located on Lorong How Sun. Towering at 30 meters tall, the over 100-year-old tree was housed in the ex-premises of the Jin Long Si Temple.[^33] [^34] The temple premises was acquired by the government in 2003 for urban redevelopment, sparking appeals to save the temple, and the historically and religiously significant tree. Supporters nominated the tree for Heritage Tree status, hoping that the conservation status attached to the title would safeguard both the temple and the tree.[^35] Though the appeals ultimately failed to preserve the temple and the tree was not designated as a Heritage Tree, the Bodhi tree was saved nonetheless and authorities made commitments to protect the tree.[^36] Now, the tree holds vigil over its new surroundings, with the wooden-walled, zinc-roofed temple of the past replaced by high-rise condominiums.[^37]
+Followers of Buddhism and Hinduism collectively comprise over 35% of the population in Singapore and *F. religiosa* features prominently alongside the various temples or roadside shrines of its associated faiths.[^32] The oldest Bodhi tree in Singapore is probably the one located on Lorong How Sun. Towering at 30 meters tall, the over 100-year-old tree was housed in the ex-premises of the Jin Long Si Temple.[^33] The temple premises was acquired by the government in 2003 for urban redevelopment, sparking appeals to save the temple, and the historically and religiously significant tree. Supporters nominated the tree for Heritage Tree status, hoping that the conservation status attached to the title would safeguard both the temple and the tree.[^34] Though the appeals ultimately failed to preserve the temple and the tree was not designated as a Heritage Tree, the Bodhi tree was saved nonetheless and authorities made commitments to protect the tree.[^35] Now, the tree holds vigil over its new surroundings, with the wooden-walled, zinc-roofed temple of the past replaced by high-rise condominiums.[^36]
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/d/d7/JLS_Bodhi_Tree-2.JPG"
        label="Jin Long Si Temple Bodhi Tree" 
@@ -74,7 +74,7 @@ Followers of Buddhism and Hinduism collectively comprise over 35% of the populat
        license="CC BY-NC"
        fit="contain">
 
-Five other *F. religiosa* trees across Singapore have attained Heritage Tree status in the years since the government authority National Parks Board (NParks) launched the Heritage Tree Scheme in 2001.[^38] The initiative designates trees that have particular historical, social, cultural or aesthetic value as Heritage Trees, affording them, and certain aspects of their immediate environment, conservation protection. This map shows the location of the five *F. religiosa* trees among Singapore's 262 registered Heritage Trees. Among these trees is one at [Pearl's Hill City Park](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/), a key urban green space in downtown Singapore.
+Five other *F. religiosa* trees across Singapore have attained Heritage Tree status in the years since the government authority National Parks Board (NParks) launched the Heritage Tree Scheme in 2001.[^37] The initiative designates trees that have particular historical, social, cultural or aesthetic value as Heritage Trees, affording them, and certain aspects of their immediate environment, conservation protection. This map shows the location of the five *F. religiosa* trees among Singapore's 262 registered Heritage Trees. Among these trees is one at [Pearl's Hill City Park](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/), a key urban green space in downtown Singapore.
 <param ve-map center="1.35, 103.9" zoom="11">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/e4/Ficus_religiosa_-_Fruits.jpg"
@@ -102,7 +102,7 @@ Five other *F. religiosa* trees across Singapore have attained Heritage Tree sta
        size="20, 40"
        circle="true">
 
-Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the Oriental Pied Hornbill, Asia Koel the Variable Squirrel.[^39] When germinating, *F. religiosa* can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. *F. religiosa* also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For *F. religiosa*, this is [*Platyscapa quadraticeps*](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/), which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs.[^40] This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
+Aside from integrating to the religious and cultural landscape of the small nation, the adaptable and generalist plant has also naturalised into Singapore's vegetation, becoming an important feature of local ecosystems. Its fruits sustain the diet of a variety of birds and mammals such as the Oriental Pied Hornbill, Asia Koel the Variable Squirrel.[^38] When germinating, *F. religiosa* can develop as an epiphyte, clinging onto the surfaces of other trees, walls or crevices. Host trees harbouring F. religiosa eventually get enveloped and strangled by the epiphyte’s aerial roots. *F. religiosa* also has an ecological quirk. Like most fig species, it is entirely dependent on a specific species of fig wasp for pollination. For *F. religiosa*, this is [*Platyscapa quadraticeps*](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/), which is specialised to crawl into the fruits of the tree which, in turn, have receptacles that are uniquely and ideally shaped for the female wasps to lay their eggs. This mutualism is so specific that neither species can survive without the other, even in the presence of other wasp or fig species.
 <param ve-image 
        url="Sacred Fig/media/HT 2007-156 Ficus religiosa.jpg"
        title="Bodhi tree, Heritage Tree ID HT 2007-156, at Cantebury Road"
@@ -114,43 +114,42 @@ Aside from integrating to the religious and cultural landscape of the small nati
 
 # References
 
-[^1]: Eric Chan et al., “Botany, Uses, Chemistry and Pharmacology of Ficus Microcarpa: A Short Review,” *Systematic Reviews in Pharmacy* 8 (April 15, 2017): 103, https://doi.org/10.5530/srp.2017.1.18.
-[^2]: V. Sitaramam, S. R. Jog, and P. Tetali, “Ecology of Ficus Religiosa Accounts for Its Association with Religion,” *Current Science* 97, no. 5 (2009): 637.
-[^3]: Royal Botanic Gardens Kew, "*Ficus religiosa* L," Plants of the World Online, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1, accessed July 12 2023.
-[^4]: Sandeep et al., “Ficus Religiosa: A Wholesome Medicinal Tree,” *Journal of Pharmacognosy and Phytochemistry*, 7 (July 2, 2018): 33.
+[^1]: Chiang Chan, Eric Wei, Joseph Tangah, Tomomi Inoue, Mami Kainuma, Karin Baba, Nozomi Oshiro, Mio Kezuka, and Norimi Kimura, “Botany, Uses, Chemistry and Pharmacology of Ficus Microcarpa: A Short Review,” *Systematic Reviews in Pharmacy* 8 (April 15, 2017): 103, https://doi.org/10.5530/srp.2017.1.18.
+[^2]: V. Sitaramam, S. R. Jog, and P. Tetali, “Ecology of Ficus Religiosa Accounts for its Association with Religion,” *Current Science* 97, no. 5 (2009): 637.
+[^3]: Royal Botanic Gardens Kew, "*Ficus religiosa* L," Plants of the World Online, accessed July 12, 2023, https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853563-1.
+[^4]: Sandeep, Ashwani Kumar, Dimple, Vidisha Tomer, Yogesh Gat and Vikas Kumar, “Ficus Religiosa: A Wholesome Medicinal Tree,” *Journal of Pharmacognosy and Phytochemistry*, 7 (July 2, 2018): 33.
 [^5]: Satish A. Bhalerao and Amit S. Sharma, "Ethnomedicinal, phytochemical and pharmacological profile of *Ficus religiosa*," *International Journal of Current Microbiology and Applied Sciences* 3 no. 11 (2014): 535.
 [^6]: Bhalerao and Sharma, "Ethnomedicinal, phytochemical and pharmacological profile of *Ficus religiosa*," 530.
 [^7]: David L. Haberman, *People Trees: Worship of Trees in Northern India* (Oxford, New York: Oxford University Press, 2013), 59.
-[^8]: *The Bhagavad Gita*, trans. Laurie Patton (New York: Penguin Classics, 2008), 183
+[^8]: *The Bhagavad Gita*, trans. Laurie Patton (New York: Penguin Classics, 2008), 183.
 [^9]: Haberman, *People Trees*, 59.
-[^10]: Ibid.
-[^11]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’.
-[^12]: Ibid.
-[^13]: Jaiswal and Williams, ‘A Glimpse of Ayurveda – The Forgotten History and Principles of Indian Traditional Medicine’.
-[^14]: Patwardhan et al., ‘Ayurveda and Traditional Chinese Medicine’.
-[^15]: Damanpreet Singh, Bikram Singh, and Rajesh Kumar Goel, “Traditional Uses, Phytochemistry and Pharmacology of Ficus Religiosa: A Review,” *Journal of Ethnopharmacology* 134, no. 3 (April 12, 2011): 578, https://doi.org/10.1016/j.jep.2011.01.046.
-[^16]: Chandrasekar et al., ‘Phytopharmacology of *Ficus Religiosa*’.
+[^10]: *Ibid.*
+[^11]: Damanpreet Singh, Bikram Singh, and Rajesh Kumar Goel, "Traditional Uses, Phytochemistry and Pharmacology of Ficus Religiosa: A Review," *Journal of Ethnopharmacology* 134, no. 3 (April 2011): 566, https://doi.org/10.1016/j.jep.2011.01.046.
+[^12]: *Ibid.*
+[^13]: Yogini S. Jaiswal and Leonard L. Williams, "A Glimpse of Ayurveda – The Forgotten History and Principles of Indian Traditional Medicine," *Journal of Traditional and Complementary Medicine* 7, no. 1 (January 2017): 52–53, https://doi.org/10.1016/j.jtcme.2016.02.002.
+[^14]: Bhushan Patwardhan, Dnyaneshwar Warude, P. Pushpangadan, and Narendra Bhatt, "Ayurveda and Traditional Chinese Medicine: A Comparative Overview," *Evidence-Based Complementary and Alternative Medicine* 2, no. 4 (2005): 466, https://doi.org/10.1093/ecam/neh140.
+[^15]: Singh, Singh, and Goel, “Traditional Uses, Phytochemistry and Pharmacology of Ficus Religiosa: A Review,” 578.
+[^16]: Sb. Chandrasekar, M. Bhanumathy, At Pawar, and T. Somasundaram, "Phytopharmacology of *Ficus religiosa*," *Pharmacognosy Reviews* 4, no. 8 (2010): 195, https://doi.org/10.4103/0973-7847.70918.
 [^17]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’, 565-583.
 [^18]: Singh, Singh, and Goel, ‘Traditional Uses, Phytochemistry and Pharmacology of *Ficus Religiosa*’, 572-574.
-[^19]: National Geographic, "Buddhism," https://education.nationalgeographic.org/resource/buddhism/, accessed 12 July 2023.
+[^19]: National Geographic, "Buddhism," https://education.nationalgeographic.org/resource/buddhism/, accessed 12 July, 2023.
 [^20]: Brian Black, “Buddhism in the Shadow of Brahmanism. By Johannes Bronkhorst,” *The Journal of Hindu Studies* 5, no. 2 (August 1, 2012): 232–33, https://doi.org/10.1093/jhs/his023.
-[^21]: Singh, ‘Bodhi Tree’.
-[^22]: Ibid.
-[^23]: Ibid.
-[^24]: Ibid.
-[^25]: "Luohans," The Metropolitan Museum of Art, https://www.metmuseum.org/art/collection/search/38822, accessed July 12 2023.
-[^26]: Ibid.
-[^27]: Michele Matteini, “Written on a Bodhi Tree Leaf,” *Res: Anthropology and Aesthetics* 75–76 (March 2021): 45–58, https://doi.org/10.1086/715926.
-[^28]: Ibid.
-[^29]: Ibid.
-[^30]: Department of Agriculture, Fisheries and Forestry of the Australian Government, "Sacred Bodhi Tree’s Journey to Oz 2300 Years in the Making," https://www.agriculture.gov.au/about/news/media-releases/sacred-bodhi-tree-journey-to-oz, accessed July 12 2023.
-[^31]: Ibid.
-[^32]: Statista, ‘Singapore’.
-[^33]: Leong, Wee Keat, "Court Rejects Devotees’ Case," *The Straits Times*, 26 February 2008, https://wildsingaporenews.blogspot.com/2008/02/high-court-dismisses-bid-to-save-temple.html, accessed July 12 2023.
-[^34]: WildSingapore, ‘100-Year-Old Tree May Save Temple’.
-[^35]: Ibid.
-[^36]: Ibid.
-[^37]: Chek, ‘Visiting Bartley Residences – Musings’.
-[^38]: National Parks Board, ‘Heritage Trees’.
-[^39]: The Biodiversity of Singapore, ‘Ficus Religiosa’.
-[^40]: Machado et al., ‘Phylogenetic Relationships, Historical Biogeography and Character Evolution of Fig-Pollinating Wasps’.
+[^21]: Arvind Kumar Singh, "Bodhi Tree," in *Buddhism and Jainism*, edited by K. T. S. Sarao and Jeffery D. Long, 249–52. Encyclopedia of Indian Religions. (Dordrecht: Springer Netherlands, 2017). https://doi.org/10.1007/978-94-024-0852-2_75.
+[^22]: Singh, "Bodhi Tree," 249.
+[^23]: *Ibid.*
+[^24]: *Ibid.*
+[^25]: "Luohans," The Metropolitan Museum of Art, accessed July 12, 2023, https://www.metmuseum.org/art/collection/search/38822.
+[^26]: *Ibid.*
+[^27]: Michele Matteini, “Written on a Bodhi Tree Leaf,” *Res: Anthropology and Aesthetics* 75–76 (March 2021): 45, https://doi.org/10.1086/715926.
+[^28]: *Ibid.*
+[^29]: *Ibid.*
+[^30]: Department of Agriculture, Fisheries and Forestry of the Australian Government, "Sacred Bodhi Tree’s Journey to Oz 2,300 Years in the Making," accessed July 12, 2023, https://www.agriculture.gov.au/about/news/media-releases/sacred-bodhi-tree-journey-to-oz.
+[^31]: *Ibid.*
+[^32]: Statista, "Singapore: Religion Breakdown Population," accessed 6 May, 2023, https://www.statista.com/statistics/1113870/singapore-share-of-population-by-religion/.
+[^33]: Leong Wee Keat, "Court Rejects Devotees’ Case," *The Straits Times*, 26, February, 2008, accessed July 12, 2023, https://wildsingaporenews.blogspot.com/2008/02/high-court-dismisses-bid-to-save-temple.html.
+[^34]: Ng Chin Guan, "Save both the Bodhi tree and the temple," *Straits Times Forum Online*, 27 April, 2006, accessed July 12, 2023, http://www.wildsingapore.com/news/20060304/060421-1.htm. 
+[^35]: *Ibid.*
+[^36]: Chek Yang, "Visiting Bartley Residences," Musings, November 9, 2015, accessed July 12, 2023, https://www.chekyang.com/musings/2015/11/09/visiting-bartley-residences/.
+[^37]: National Parks Board, "Heritage Trees," accessed May 6, 2023, https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees.
+[^38]: The Biodiversity of Singapore, "Ficus Religiosa," *The Biodiversity of Singapore*, Lee Kong Chian Natural History Museum, accessed May 6, 2023, https://singapore.biodiversity.online/species/P-Angi-003675.
+
