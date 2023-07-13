@@ -1,7 +1,7 @@
 <param ve-config 
        title="Religion’s Living Roots: The Sacred Ficus religiosa"
        author="Foo Shi Wen"
-       banner="Sacred Fig/media/HT 2007-156 Ficus religiosa.jpg"
+       banner="https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories/blob/ae2816d1fdd8abf25b5b864c7b7c88c05c4b4324/Sacred%20Fig/media/HT%202007-156%20Ficus%20religiosa.jpg"
        layout="vertical"
        about="Q3071706">
        
