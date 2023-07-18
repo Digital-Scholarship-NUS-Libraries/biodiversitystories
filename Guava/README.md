@@ -67,6 +67,7 @@ In Singapore, guava and the different jambu fruits are captured even in street n
        title="Map showing ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’ and ‘Jalan Jambu Mawar" 
        description="Produced in 1959, titled 'Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan'.www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9f47657-115c-11e3-83d5-0050568939ad"
        attribution="Singapore Land Authority, via the National Archives of Singapore. Reproduced with permission."
+       fit="4855,1702,3804,3089"
       >
 
 ## Local dishes and beverages
