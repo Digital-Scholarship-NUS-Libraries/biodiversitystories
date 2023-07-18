@@ -20,7 +20,7 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
        fit="contain">       
        
 
-Tapioca is scientifically known as *Manihot esculenta* Crantz. Named in 1766 by a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America.[^1] The term tapioca is derived from *tipi'óka*, its Tupi language name which was spoken by natives when the Portuguese arrived in <span data-click-map-flyto="-16.4444, -39.0654,5">Brazil</span> in the 1500s.[^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; <span data-click-map-flyto="1.3521,103.8198,11">locally</span>, tapioca is known as *ubi kayu* in Malay and as *mu shu* (木薯) in Chinese.[^3]
+Tapioca is scientifically known as *Manihot esculenta* Crantz. Named in 1766 by a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America.[^1] The term tapioca is derived from *tipi'óka*, its Tupi language name which was spoken by natives when the Portuguese arrived in <span data-click-map-flyto="-16.4444, -39.0654,5">Brazil</span> in the 1500s.[^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as *cassava*, *yuca*, or *manioc*; <span data-click-map-flyto="1.3521,103.8198,11">locally</span>, tapioca is known as *ubi kayu* in Malay and as *mu shu* (木薯) in Chinese.[^3]
 <param ve-map
        stroke-width="0" 
        zoom="2.5"
@@ -108,14 +108,14 @@ Tapioca cultivation provided a means of subsistence for many during the Japanese
        title="【4K】Bukit Brown Cemetery | Kopi Sua | Biggest Chinese Graveyard Outside China | Virtual Tour | Gopro"
        fit="contain">                                                                                                   
 
-Furthermore, the variety of food had reduced as Japanese authorities requisitioned other staples such as rice. Yet, tapioca continued to be available as it was perishable and Japanese authorities mandated that it was consumed in the location they were produced.[^15] Interestingly, a Malayan recipe book featuring local food substitutes in local recipes was distributed by the Japanese administration, aiming to alleviate the food shortages caused by the lack of other staples. In 1943, tapioca bread and noodles were distributed as rations.[^16] Thus, with the Japanese administration’s promotion, tapioca became a staple food. The area for cultivation of root crops, including tapioca, grew from 35,000 acres in 1939 to 188,000 acres in 1945.[^17] Thus, tapioca became increasingly cultivated in Singapore once again.
+Furthermore, the variety of food had reduced as Japanese authorities requisitioned other staples such as rice. Yet, tapioca continued to be available as it was perishable and Japanese authorities mandated that it was consumed in the location they were produced.[^15] Interestingly, a Malayan recipe book featuring local food substitutes in local recipes was distributed by the Japanese administration, aiming to alleviate the food shortages caused by the lack of other staples. In 1943, tapioca bread and noodles were distributed as rations.[^16] Thus, with the Japanese administration’s promotion, the plant became a staple food. The area for cultivation of root crops, including tapioca, grew from 35,000 acres in 1939 to 188,000 acres in 1945.[^17] Thus, tapioca became increasingly cultivated in Singapore once again.
 <param ve-video 
        id="R8XTJi9NK4E" 
        title="Making Wartime Food Delicious | From Book to Cook #02"
        start="5:48"
        fit="contain">
 
-Even with the promotion of tapioca cultivation during the occupation, people were compelled to profiteer off tapioca.  Although the boys in Sng’s plot were unpaid, they received a commission when the tapioca was sold. The boys would sell the tapioca at the markets to “red-cloth house builders”, which likely meant the <span eid= "Q7410435">samsui women</span>. Inflation also caused the price of tapioca to be paid in gunny bags of money. 100 katis was one gunny bag, which contained a whopping $130,000 in banana money. Thus, tapioca suddenly experienced a resurgence of use, only this time it was out of necessity, rather than for the accumulation of wealth. With massive war time inflation, this former cash crop ironically regained its monetary value. 
+Even with the promotion of tapioca cultivation during the occupation, people were compelled to profiteer off tapioca.  Although the boys in Sng’s plot were unpaid, they received a commission when the tapioca was sold. The boys would sell the tapioca at the markets to “red-cloth house builders”, which likely meant the <span eid="Q7410435">samsui women</span>. Inflation also caused the price of tapioca to be paid in gunny bags of money. 100 katis was one gunny bag, which contained a whopping $130,000 in banana money. Thus, tapioca suddenly experienced a resurgence of use, only this time it was out of necessity, rather than for the accumulation of wealth. With massive war time inflation, this former cash crop ironically regained its monetary value. 
 <param ve-image
        url="https://live.staticflickr.com/65535/51300057854_4ffcdbabd3_h.jpg"
        title="Samsui Woman" 
@@ -123,7 +123,7 @@ Even with the promotion of tapioca cultivation during the occupation, people wer
        attribution="Choo Yut Shing"
        license="CC BY-NC-SA 2.0">
                          
-Furthermore, a 4 August 1942 article in the *Syonan Shimbun* reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street, was fined $1,500 or nine months’ rigorous imprisonment” for profiteering on tapioca flour.[^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment.[^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
+Furthermore, a 4 August 1942 article in the *Syonan Shimbun* reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street" was sentenced to a fine of $1,500 "or nine months’ rigorous imprisonment” for profiteering off tapioca flour.[^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment.[^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
 <param ve-image 
        url="Tapioca/media/syonan_shimbun.png"
        title="Dealer in Tapioca Flour fined $1,5000" 
@@ -131,7 +131,7 @@ Furthermore, a 4 August 1942 article in the *Syonan Shimbun* reveals how “Kang
        license="CC BY-NC, digitised by NUS Libraries"
        fit="contain">
 
-After the Occupation, tapioca was even more unpopular to the layperson. As historian Paul Kratoska puts it, “The Malayan population had not eaten well under Japanese rule, and people wanted to be liberated not only from Japan but also from tapioca.”[^20] Thus, the food shortages post-occupation could no longer be remedied by tapioca. A <span data-click-image-zoomto="-61,369,305,228">1946 *Malaya Tribune* editorial</span> advised, “Everywhere we see the ruins of gardens torn up with gay abandon during the delirious days immediately following the reoccupation. These gardens should be replanted at once with green vegetables and even the despised tapioca.”[^21] However, between December 1945 to April 1946, the area used for cultivating tapioca dropped from 133,000 acres to 99,000 acres.[^22] Once again, tapioca cultivation was on the downturn in Singapore. 
+After the Occupation, tapioca was even more unpopular to the layperson. As historian Paul Kratoska puts it, “The Malayan population had not eaten well under Japanese rule, and people wanted to be liberated not only from Japan but also from tapioca.”[^20] Thus, the food shortages post-occupation could no longer be remedied by tapioca. A <span data-click-image-zoomto="-61,369,305,228">1946 *Malaya Tribune* editorial</span> advised, “Everywhere we see the ruins of gardens torn up with gay abandon during the delirious days immediately following the reoccupation. These gardens should be replanted at once with green vegetables and even the despised tapioca.”[^21] However, between December 1945 to April 1946, the area used for cultivating the crop dropped from 133,000 acres to 99,000 acres.[^22] Once again, tapioca cultivation was on the downturn in Singapore. 
 <param ve-image 
        url="Tapioca/media/Malayan_Tribune.png"
        title="Spectre of Famine" 
@@ -178,7 +178,7 @@ In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”,
 Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html) is a Peranakan woman who has had a diverse career as a television and film actress and food critic; she is currently an associate professor at Singapore Management University’s School of Social Sciences.[^29] She was a pioneering food critic in Singapore, and many restaurant advertisements from the 1990s specifically highlighted her words of praise. Commended as a “Top Food Columnist,”[^30] a Harbour City Restaurant advertisement describes her as follows: “She fills her column unabashedly and candidly. A true professional.”[^31] She reviewed a multitude of cuisines beyond just Peranakan food, including Cantonese or Indonesian cuisine. Through her recipes and reviews, she helped to define food culture in Singapore.
 <param ve-image 
        url="Tapioca/media/placeholder_chan_adverts.png"
-       title="Placeholder Adverts" 
+       title="Advertisements featuring Dr. Chan" 
        attribution= "Singapore Press Holdings"
        fit="contain"> 
 
@@ -186,9 +186,8 @@ Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1321794.jpg"
        title="Emily of Emerald Hill - Margaret Chan fundraising programme" 
-       attribution= "Collection of the Peranakan Museum, National Heritage Board, Gift of Stella Kon"
+       attribution= "Collection of Peranakan Museum. Gift of Stella Kon. Reproduced with permission."
        fit="contain"> 
-
 
 Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
 
@@ -199,12 +198,13 @@ Through a species lens, we can trace the tapioca through different periods in Si
 <param ve-image 
        url="https://commons.wikimedia.org/wiki/File:Manihot_esculenta_-_cross_section_2.jpg"
        title="Manihot esculenta" 
+       attribution= "Amada44"
        license="CC BY 3.0"
        fit="contain">
 
 
 ## References
-[^1]:Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
+[^1]:Antonio C. Allem, “The Origin of *Manihot esculenta* Crantz (Euphorbiaceae),” *Genetic Resources and Crop Evolution* 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf.
 [^2]:“Tapioca Word History,” Merriam-Webster, accessed November 27, 2022, https://www.merriam-webster.com/dictionary/tapioca#word-history.
 [^3]:“Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210.
 [^4]:Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990,” *Journal of Biogeography* 19, no. 4 (1992): 413, https://doi.org/10.2307/2845569.
@@ -221,16 +221,16 @@ Through a species lens, we can trace the tapioca through different periods in Si
 [^15]:Kratoska, “Food Shortage”, 28.
 [^16]:Kratoska, “Food Shortage”, 29.                    
 [^17]:Kratoska, “Food Shortage”, 29.                    
-[^18]:“Dealer in Tapioca Flour Fined $1,500,” *Syonan Shimbun*, August 4, 1942, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420804-1.2.44?ST=1&AT=search&k=%22tapioca%20flour%22&QT=%22tapiocaflour%22&oref=article . 
+[^18]:“Dealer in Tapioca Flour Fined $1,500,” *Syonan Shimbun*, August 4, 1942, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420804-1.2.44?ST=1&AT=search&k=%22tapioca%20flour%22&QT=%22tapiocaflour%22&oref=article. 
 [^19]:“Dealer Fined $1,500.”                    
-[^20]: Kratoska, “Food Shortage”, 31.                    
+[^20]:Kratoska, “Food Shortage”, 31.                    
 [^21]:Kratoska, “Food Shortage”, 38.                    
 [^22]:Kratoska, “Food Shortage”, 38-9.                    
 [^23]:Victor R. Savage and Brenda S. A. Yeoh. “J.” *Singapore Street Names: A Study of Toponymics* (Marshall Cavendish Editions, 2013) 77, National Library Board Singapore Overdrive. 
 [^24]:Margaret Chan, “Nyonya cakes for new year,” *New Nation*, February 13, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800213-1.2.51.10?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article.
 [^25]:Chan, “Nyonya cakes.”                   
 [^26]:Chan, “Nyonya cakes.”                    
-[^27]:“Recipe.” *New Natio*n, January 21, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800124-1.2.49.3?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article.
+[^27]:“Recipe,” *New Nation*, January 21, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800124-1.2.49.3?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article.
 [^28]:“Recipe.”                     
 [^29]:“Margaret Chan,” Infopedia, accessed November 26, 2022, https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html.                   
 [^30]:“Page 26 Advertisements Column 2,” *Weekend East*, March 25, 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19930325-1.2.48.2?ST=1&AT=search&k=%22food%20columnist%22&QT=%22foodcolumnist%22&oref=article.                    
