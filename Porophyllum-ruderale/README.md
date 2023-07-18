@@ -90,10 +90,10 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flore_m%C3%A9dica
 
 [^1]: "Nahuatl," Centre for Language and Technology, Indiana University, accessed on May 29, 2023, https://celt.indiana.edu/portal/Nahuatl/index.html. 
 [^2]: Servicio de Información Agroalimentaria y Pesquera, "Pápalo: la “mariposa” azteca," Gobierno de México, 2018, https://www.gob.mx/siap/articulos/papalo-la-mariposa-azteca. 
-[^3]: “Porophyllum ruderale,” The Total Vascular Flora of Singapore Online, 2010, accessed on May 29, 2023, https://floraofsingapore.wordpress.com/2010/08/22/porophyllum-ruderale/. 
+[^3]: “_Porophyllum ruderale_,” The Total Vascular Flora of Singapore Online, 2010, accessed on May 29, 2023, https://floraofsingapore.wordpress.com/2010/08/22/porophyllum-ruderale/. 
 [^4]: “Naturalized Species,” Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, accessed May 29th 2023, https://www.ipbes.net/glossary/naturalized-species. 
-[^5]: “Porophyllum ruderale,” The Total Vascular Flora of Singapore Online, 2010.
-[^6]: “Olive-backed Sunbird collecting fruits of Porophyllum ruderale (F: Asteraceae),” Bird Ecology Study Group, 2015, accessed on May 29, 2023, https://besgroup.org/2015/05/08/olive-backed-sunbird-collecting-fruits-of-porophyllum-ruderale-f-asteraceae/. 
+[^5]: “_Porophyllum ruderale_,” The Total Vascular Flora of Singapore Online, 2010.
+[^6]: “Olive-backed Sunbird collecting fruits of _Porophyllum ruderale _(F: Asteraceae),” Bird Ecology Study Group, 2015, accessed on May 29, 2023, https://besgroup.org/2015/05/08/olive-backed-sunbird-collecting-fruits-of-porophyllum-ruderale-f-asteraceae/. 
 [^7]: “Porophyllum ruderale,” The Biodiversity of Singapore, accessed on May 29, 2023, https://singapore.biodiversity.online/species/P-Angi-001439. 
 [^8]: HTW Tan, AB Ibrahim, KS Chua, IM Turner, YC Wee & PT Chew, “Additions to the Flora of Singapore,” *Gard. Bull. Sing* 44, no.2 (1992): 129.
 [^9]: Botanical information provided by Lily Chen of the National Parks Board (NParks), personal communication, June 20, 2023.
@@ -117,10 +117,10 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flore_m%C3%A9dica
 [^27]: Tjitrosoedirdjo, “Notes on the Asteraceae of Sumatera," 76.
 [^28]: AM Guerrero, P Pozo, S Chamorro, A Guezou, and CE Buddenhagen, “Baseline data for identifying potentially invasive plants in Puerto Ayora, Santa Cruz Island, Galapagos,” *Pacific Conservation Biology* 14, No.2 (2008): 102.
 [^29]: Conley K. McMullen, *Flowering Plants of the Galápagos* (Ithaca: Cornell University Press, 1999), 217.
-[^30]: “Porophyllum ruderale,” Pacific Island Ecosystems at Risk, 2017, http://www.hear.org/pier/species/porophyllum_ruderale.html. 
+[^30]: “_Porophyllum ruderale_,” Pacific Island Ecosystems at Risk, 2017, http://www.hear.org/pier/species/porophyllum_ruderale.html. 
 [^31]: Tan et al., “Additions to the Flora of Singapore," 129.
 [^32]: M. Turner, “A catalogue of the Vascular Plants of Malaya,” *Gard. Bull, of Singapore* 47, no.1 (1995): 171.
 [^33]: Ina Vandebroek and Michael J. Balick, "Globalization and loss of plant knowledge: challenging the paradigm," *PLoS One* 7, no.5 (2012): 1.
 [^34]: “*Porophyllum ruderale*," Nature Love You SG, 2008, http://www.natureloveyou.sg/Porophyllum%20ruderale/Main.html.
-[^35]: “Olive-backed Sunbird collecting fruits of Porophyllum ruderale (F: Asteraceae)."
+[^35]: “Olive-backed Sunbird collecting fruits of _Porophyllum ruderale_ (F: Asteraceae)."
 [^36]: Céline Coderey, “The (Buddhist) grammar of healing. Building therapeutic efficacy in the pluralistic context of Rakhine, Myanmar,” *Asian Medicine* 12 (2018): 1-32.
