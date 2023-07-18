@@ -36,9 +36,9 @@ In Malay/Indonesian the guava is called *jambu batu*, the word *jambu* having or
        attribution= "Sakurai Midori"
        license="CC BY-SA 3.0">
 
-## Kampong life
+## Kampong Life
 
-The guava tree is common in all villages across Malaysia and Singapore and can still be found in old kampong areas in Singapore such as Pulau Ubin. Hence the guava tree has come to be identified closely with the kampong life and nostalgia for the kampong. In an oral history interview, Aloysious Leo De Conceicao, a bank officer and funeral minister who grew up in the east of Singapore, talks about the prevalence of jambu trees in the area in the late 30s and early 40s. According to Aloysious, there “were all these jambus, guavas, all types of guavas especially walking back from school in St. Patrick’s Road, Telok Kurau and all that, they had all types of jambu trees [like] jambu meral lah, jambu this, jambu rose apple”.[^3] He tells a story about how he and his friends used to go and pluck fruits from trees without permission. They would also take what the Malays call *cabang*, a fork-shaped branch from the trees. The jambu batu branches would be especially nicely grown in a cabang shape for the kids to take. Then they would cut the branches, burn them and make them into catapults. They were “fond of going to catapult birds or fruits which were high” using the catapults they made from the guava tree branches.[^4] Kannan Madhavan, another Singapore local born in 1946, recalls how he and other boys used to play barefoot climbing guava trees in the kampong in an oral interview.[^5]
+The guava tree is common in all villages across Malaysia and Singapore and can still be found in old kampong areas in Singapore such as Pulau Ubin. Hence the guava tree has come to be identified closely with the kampong life and nostalgia for the kampong. In an oral history interview, Aloysious Leo De Conceicao, a bank officer and funeral minister who grew up in the east of Singapore, talks about the prevalence of jambu trees in the area in the late 30s and early 40s. According to Aloysious, there “were all these jambus, guavas, all types of guavas especially walking back from school in St. Patrick’s Road, Telok Kurau and all that, they had all types of jambu trees [like] jambu meral lah, jambu this, jambu rose apple”.[^3] He tells a story about how he and his friends used to go and pluck fruits from trees without permission. They would also take what the Malays call *cabang*, a fork-shaped branch from the trees. The jambu batu branches would be especially nicely grown in a cabang shape for the kids to take. Then they would cut the branches, burn them and make them into catapults. They were “fond of going to catapult birds or fruits which were high” using the catapults they made from the guava tree branches.[^4] Kannan Madhavan, another Singapore local born in 1946, recalls how he and other boys used to play barefoot climbing guava trees in the kampong in an oral history interview.[^5]
 <param ve-image 
        url="Guava/media/Farm with Guava Trees.jpg"
        title="Farm with guava trees, banana plants, and chicken house at 11A Chua Chu Kang Road" 
@@ -61,16 +61,16 @@ The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once 
        description="Taken from "
        attribution="Adnan & Pillay, "The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity,” *International Journal of Comparative Literature and Translation Studies* 8, no. 2, (2020): 17.">
 
-In Singapore, guava and the different jambu fruits are captured even in street names. The map to the right shows streets named ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’, and ‘Jalan Jambu Mawar’.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
+In Singapore, guava and the different jambu fruits are captured even in street names. The map to the right shows streets named Jalan Jambu Ayer, Jalan Jambu Batu, and Jalan Jambu Mawar.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
 <param ve-image 
        url="Guava/media/NAS-jambu-map.jpg"
-       title="Map showing ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’ and ‘Jalan Jambu Mawar" 
+       title="Map showing Jalan Jambu Ayer, Jalan Jambu Batu and Jalan Jambu Mawar" 
        description="Produced in 1959, titled 'Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan'.www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9f47657-115c-11e3-83d5-0050568939ad"
        attribution="Singapore Land Authority, via the National Archives of Singapore. Reproduced with permission."
        fit="4855,1702,3804,3089"
       >
 
-## Local dishes and beverages
+## Local Dishes and Beverages
 
 In many Southeast Asian countries, guava is commonly used in local dishes and beverages. It is said that the guava “is delicious if stewed and served with cream, or in a pie”.[^9] It is also known to make “very good jam”.[^10] There are many different ways to enjoy guavas, sweet or savory, and different Southeast Asian cultures have their own traditional recipes. In the Philippines, for example, guavas are used to make a sour soup called *sinigang no bayabas* (pork in guava soup). The well-loved Filipino soup dish is "prepared with pork belly, vegetables and tomatoes cooked in a soup infused with guava” and “has that guava sweet taste”.[^11]
 <param ve-image 
@@ -103,7 +103,7 @@ Another popular way of consuming guavas is in beverages. Guava juice is very pop
        attribution="'Long Drink' recipe from New Nation and 'Hurricane Helen' and 'Island Dream' from the Straits Times"
        license="CC BY-NC">
 
-## Medicinal uses
+## Medicinal Uses
 
 Outside the realm of mixology, the guava is known for its health benefits. It was ranked in first place in the fruit category in terms of its “contribution to the diet of five nutrients: vitamin A (beta-carotene), vitamin C, iron, potassium and calcium, and dietary fibre” by *The Straits Times* in 1994.[^21] Furthermore, guavas play an important role in traditional medicinal practices. Its leaves are edible and a “decoction of the young leaves [can be] drunk to treat stomachache” or “chewed and eaten to treat diarrhea”.[^22] Another use is treating “body odor and rough skin” by rubbing the young leaves on the body.[^23] The leaves are also used in herbal baths by the “Temuan Community in Taman Negara Gunung Ledang during their postnatal care” to “treat flatulence and freshen [the] body”.[^24] Since there are many medicinal uses for guava leaves, it was common in the day to see someone with a “bundle of guava tree twigs”.[^25]
 <param ve-image 
@@ -113,7 +113,7 @@ Outside the realm of mixology, the guava is known for its health benefits. It wa
        attribution="Kim Starr"
        license="CC BY-NC">
 
-## Guava legends
+## Guava Legends
 
 Lastly, there are several traditional folklore stories about the guava fruit in Southeast Asia. One such tale is the ‘The Legend of the Guava’ from the Philippines which associates the origins of the guava tree to the death of a king. The story goes that once upon a time a greedy and cold-hearted king called Barabas ruled the country. Although he himself lived in prosperity and enjoyed all the foods imaginable, he neglected his kingdom and did not care for the suffering of his starving people. One day an old beggar lady (or an orphan boy according to different variations) asked King Barabas for something to eat. He refused to share any of his food and turned her away. Soon after he became very sick and died. No one mourned his death as he was despised by the people. After he was buried, a strange plant started growing from his grave. The tree bore fruits with crown-like shapes on top which reminded the people of their selfish king. The fruit was also sour at first, “just like the sour personality of the king towards them”.[^26] However, in time the fruit ripened and became sweet. As people learned to eat the fruit, it prevented their starvation. Because “the tree was from the grave of their King Barabas and it had a crown just like their king, they named the tree after him: *barabas*, which in time they called *bayabas*”.[^27] Guavas are still called bayabas in Tagalog and their origins are associated with this interesting tale. 
 <param ve-image 
