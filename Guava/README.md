@@ -62,12 +62,12 @@ The *pantun* here, a Malay oral poetic form, also talks of guavas, showing once 
        description="Taken from 'The Malay Language ‘Pantun’ of Melaka Chetti Indians in Malaysia: Malay Worldview, Lived Experiences and Hybrid Identity'"
        attribution="Adnan & Pillay 2020, p. 17">
 
-In Singapore, guava and the different jambu fruits are captured even in street names. The map below shows streets named ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’, and ‘Jalan Jambu Mawar’.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
+In Singapore, guava and the different jambu fruits are captured even in street names. The map to the right shows streets named ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’, and ‘Jalan Jambu Mawar’.[^8] These streets, presumably named after the abundance of jambu trees in the area, still exist today in Bukit Timah.
 <param ve-image 
-       url="/Guava/media/street_names.png"
+       url="Guava/media/NAS-jambu-map.jpg"
        title="Map showing ‘Jalan Jambu Ayer’, ‘Jalan Jambu Batu’ and ‘Jalan Jambu Mawar" 
-       description="Produced in 1959, titled 'Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan'"
-       attribution="National Archives of Singapore"
+       description="Produced in 1959, titled 'Mukim Number XVI-Bukit Timah, and Mukim Number IV-Ulu Pandan'.www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9f47657-115c-11e3-83d5-0050568939ad"
+       attribution="Singapore Land Authority, via the National Archives of Singapore. Reproduced with permission."
       >
 
 ## Local dishes and beverages
