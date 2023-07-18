@@ -98,7 +98,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flore_m%C3%A9dica
 [^8]: HTW Tan, AB Ibrahim, KS Chua, IM Turner, YC Wee & PT Chew, “Additions to the Flora of Singapore,” *Gard. Bull. Sing* 44, no.2 (1992): 129.
 [^9]: Botanical information provided by Lily Chen of the National Parks Board (NParks), personal communication, June 20, 2023.
 [^10]: Botanical information provided by Lily Chen of the National Parks Board (NParks), personal communication, June 20, 2023.
-[^11]: “Pápalo o papaloquelite,”Atlas de las Plantas de la Medicina Tradicional Mexicana, Biblioteca Digital de la Medicina Tradicional Mexicana, 2009, http://www.medicinatradicionalmexicana.unam.mx/apmtm/termino.php?l=3&t=porophyllum-ruderale.
+[^11]: “Pápalo o papaloquelite,” Atlas de las Plantas de la Medicina Tradicional Mexicana, Biblioteca Digital de la Medicina Tradicional Mexicana, 2009, http://www.medicinatradicionalmexicana.unam.mx/apmtm/termino.php?l=3&t=porophyllum-ruderale.
 [^12]: Paloma G. Castillejos, “Al Pápalo Lo Amas o Lo Odias… Pero Primero Conócelo”, Animal Gourmet, 2020, https://www.animalgourmet.com/2020/04/20/papalo-que-es-quelite/. 
 [^13]: Erika Nolasco Carpinteyro, “Significado cultural de la cemita poblana en el marco inmaterial como icono gastronómico,” MA diss., (Benemérita Universidad Autónoma de Puebla, 2017),2.
 [^14]: *Ibid.*
