@@ -70,13 +70,11 @@ Pápalo was first reported in Singapore in 1992[^31] and subsequently in 1995,[^
 <param ve-image 
        url="https://besgroup.org/wp-content/uploads/SunbirdOB-Porophyllum-ruderale-ThongChowNgian-4.jpg"
        title="An Olive-backed Sunbird stands on a pápalo plant in Singapore." 
-       attribution="Thong Chow Ngian @ Bird Ecology Study Group Blog. Reproduced with permission."
-   >
-      <param ve-image 
+       attribution="Thong Chow Ngian @ Bird Ecology Study Group Blog. Reproduced with permission.">
+<param ve-image 
        url="https://besgroup.org/wp-content/uploads/SunbirdOB-Porophyllum-ruderale-ThongChowNgian-2.jpg"
        title="An Olive-backed Sunbird stands on a pápalo plant in Singapore." 
-       attribution="Thong Chow Ngian @ Bird Ecology Study Group Blog. Reproduced with permission."
-     >
+       attribution="Thong Chow Ngian @ Bird Ecology Study Group Blog. Reproduced with permission.">
 
 ##
 But pápalo has so much more to offer. For traditional medicine enthusiasts, it could open new horizons in its interactions with Ayurvedic practices or even Traditional Chinese Medicine. Hybrid expressions of traditional medicine are common all over Southeast Asia,[^36] and the introduction of elements that are meaningful to traditional medicine from other parts of the world can only enrich Singapore’s landscape. Likewise, from a culinary point of view, pápalo presents an opportunity. It brings with it new flavours. Whether it is by finding pápalo herbs to experiment with at home, or by incorporating pápalo into the ingredients used at Mexican and South American food places in Singapore, this plant can only be an exciting new experience for enthusiasts and non-enthusiasts alike. In Singapore, pápalo is an opportunity that is yet to be explored. Above all, this plant is an important reminder to maintain an attitude of openness and curiosity towards the unknown. Pápalo remains an anonymous weed for most people in Singapore, but it has been a culturally significant plant for people on the other side of the Pacific Ocean for millennia. The teaching of the pápalo is rather simple: We never know what the seemingly random herbs that grow besides us might have to offer. 
