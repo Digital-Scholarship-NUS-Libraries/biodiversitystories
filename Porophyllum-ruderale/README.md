@@ -108,7 +108,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flore_m%C3%A9dica
 [^18]: _Ibid._
 [^19]: Sumaya Prado, “La Quirquiña,” GustuBlog, 2018, https://blog.gustu.bo/?p=572. 
 [^20]: “Quilquiña,” Medicina Intercultural, accessed May 29, 2023, http://medicinaintercultural.org/cd/plantas/quilqui%C3%B1a. 
-[^21]: Prado,“La Quirquiña,”  2018.
+[^21]: Prado, “La Quirquiña,”  2018.
 [^22]: UR Fontes Jr, CS Ramos, MR Serafini, SCH Cavalcanti, PB Alves, GM Lima, PHS Andrade, LR Bonjardim, LJ Quintans Jr. & AAS Araújo, “Evaluation of the lethality of *Porophyllum ruderale* essential oil against *Biomphalaria glabrata*, *Aedes aegypti* and *Artemia salina*”, *African Journal of Biotechnology* 11, no. 13 (2012):3172. 
 [^23]: Alys Fowler, “How to grow Mexican and Bolivian coriander," _The Guardian_, 2018, https://www.theguardian.com/lifeandstyle/2018/apr/28/how-to-grow-mexican-bolivian-coriander. 
 [^24]: Marcus Bennett, “Secrets of the World’s Biggest Gin Collection," Bloomberg, 2017, https://www.bloomberg.com/news/articles/2017-04-25/secrets-of-the-world-s-biggest-gin-collection-atlas-bar-singapore. 
