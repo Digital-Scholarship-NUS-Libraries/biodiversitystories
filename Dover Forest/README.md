@@ -96,18 +96,18 @@ Both of these species have also been observed interacting amongst the Albizia tr
 
 Habitats like the Dover Forest are crucial for the protection of species like the Oriental Pied Hornbill and the Changeable Hawk Eagle. Although species numbers have been on the rise in recent years, there lacks a sufficient understanding of their species' vulnerability, habitat suitability, and prey density in the local context. A study done in 2011 counted six active nest sites and three pairs of eagles exhibiting pairing behavior, which rounded the local changeable hawk eagle population to nine pairs of eagles.[^7] This study did not include the pair observed in the Dover Forest, which would bring the local population to roughly ten pairs of eagles. 
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg"
+       url="Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg"
        curtain="true"
        label="Interaction between a male Oriental Pied Hornbill and female Pale-morph Changeable Hawk Eagle on an albizia tree in the Dover Forest, March 2022"
        attribution="Eng Keong Chng"
        fit="contain">
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Juvenile Changeable Hawk Eagle.jpg"
+       url="Dover Forest/media/Juvenile Changeable Hawk Eagle.jpg"
        label="Juvenile Changeable Hawk Eagle, April 2022"
        attribution="Eng Keong Chng"
        fit="contain">
 <param ve-image 
-       url="https://raw.githubusercontent.com/AngelaRHoten/DoverForest/main/media/Female Pale-Morph Changeable Hawk Eagle.jpg"
+       url="Dover Forest/media/Female Pale-Morph Changeable Hawk Eagle.jpg"
        label="Adult Female Pale-Morph Changeable Hawk Eagle, 13 May 2022"
        attribution="Eng Keong Chng"
        fit="contain">
