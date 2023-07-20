@@ -1,7 +1,7 @@
 <param ve-config 
        title="Dover Forest: The Fight to Protect Vanishing Ecosystems"
        author="Angela Ricasio Hoten"
-banner="Dover Forest/media/Dover Forest_February 2023.jpg"
+       banner="Dover Forest/media/Dover Forest_February 2023.jpg"
        layout="vertical">
 
 
