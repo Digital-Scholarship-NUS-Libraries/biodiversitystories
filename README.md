@@ -61,7 +61,7 @@
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
 <br><br><br><br>**Max D. López Toledano**
 
-#### Pandan (*Pandanus amaryllifolius*) and the Ant Mosquito (*Malaya genurostris*) {href=https://www.juncture-digital.org/huiqingyeooo/pandan_antMosquito}
+#### Pandan (*Pandanus amaryllifolius*) and the Ant Mosquito (*Malaya genurostris*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Pandan}
 
 ![](Pandan/media/leaf_axil.jpg)
 
