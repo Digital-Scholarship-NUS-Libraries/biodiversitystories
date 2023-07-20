@@ -45,7 +45,7 @@ Artifacts of the Chua Kampung can be found in the Dover Forest: slanted electric
        attribution="Angela Ricasio Hoten"
        fit="contain">
        
-## Residents of the Dover Forest
+## Native and Non-native Residents of the Dover Forest
 The ecological community of the Dover Forest spans a wide range of species, both native and non-native. As part of Chintat's advocacy for the Dover Forest, he highlights the [diverse tree and fig species of the Dover forest](https://doverforest.sg/oldindex.html) amongst other species like the bioluminescent [*Filoboletus manipularis*](https://www.theguardian.com/environment/gallery/2022/jun/11/the-bioluminescent-world-of-glowing-lifeforms-in-pictures). The Environmental Baseline Study for Dover/Ulu Pandan (EBS) listed twenty-seven large trees of significance within Dover Forest that are conservation-significant because of the potential of long-term ecosystem service provisions by large tree species such as thermal cooling, carbon sequestration, and fauna habitat/food source.[^1] The Dover Forest is also home to an incredible diversity of figs including the critically endangered White fig, <span eid="Q2717818">*Ficus virens*</span> and non-native Indian rubber, <span eid="Q79947417">*Ficus elastica*</span>. These figs are a keystone species in the Dover Forest ecosystem, providing important food resources for a wide range of species.[^2]
 <param ve-image url="Dover Forest/media/2021_08_09 ficus virens dover forest west.jpg"
        curtain="true"
