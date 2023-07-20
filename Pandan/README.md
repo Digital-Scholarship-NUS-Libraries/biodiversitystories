@@ -129,7 +129,7 @@ During Malay weddings, elder relatives will carry out a custom to bless the brid
 
 In recent times, *bunga rampai* is usually simplified and made with pandan leaves, flower petals, and a few drops of essential oils.[^29] A prominent local Malay writer [Isa Kamari wrote the poem “Bunga rampai”](https://youtu.be/efvLCFcEd9A?t=2887) in his literary collection ['Forgotten Wisdom of *Firasat*'](https://mhf.org.sg/wp-content/uploads/2022/10/CLS_09_Forgotten-Wisdom-of-Firasat-FA.pdf), identifying pandan leaves as a main ingredient in the making of the potpourri.[^30] The incorporation of fresh flower potpourri throughout various significant life events in the Malay culture exemplifies the harmony of art, tradition, culture and religion, but this practice is waning in modern times.
 <param ve-image 
-       label="Poem "Bunga rampai" by Isa Kamari"
+       label="The poem 'Bunga rampai' by Isa Kamari"
        attribution="The Malay Heritage Foundation and Mr. Isa Kamari. Reproduced with permission."
        description="Graphic by Yeo Huiqing"
        url="Pandan/media/bunga_rampai.jpg"
