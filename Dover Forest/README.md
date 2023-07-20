@@ -111,7 +111,9 @@ Habitats like the Dover Forest are crucial for the protection of species like th
        label="Adult Female Pale-Morph Changeable Hawk Eagle, 13 May 2022"
        attribution="Eng Keong Chng"
        fit="contain">
-       
+
+## Documenting and Remembering the Forest
+
 As of July 2023, most of East Dover Forest has been deforested for new housing developments. According to Dover Forest advocate, Eng Keong Chng, the residential Oriental Pied Hornbills had relocated their nest at Medway Park along Dover Road back in 2022 prior to the deforestation. However, the residential Changeable Hawk Eagles remained in East Dover Forest. Given that Snowy, the youngest member of the Dover Forest residents, had only hatched earlier in the year, the Albizia tree on which the nest sits has remained intact for the rest of the year in large part due to the advocacy of Chintat. However, the surrounding ecosystem that Snowy and other species of the Dover Forest relied on for survival has been demolished, leaving the individual Hawk Eagles intact but eliminating their habitat and means of survival.
 
 <param ve-image 
