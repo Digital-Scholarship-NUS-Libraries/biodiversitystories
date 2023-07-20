@@ -86,6 +86,7 @@ The diversity of species inhabiting the park shapes how the Singaporean public p
 <param ve-image 
        url="Fig Wasp/media/HT%202001-18%20Ficus%20religiosa%202.jpg"
        title="Heritage Bodhi Tree in Pearl's Hill City Park" 
+       rotate="270"
        attribution="NParks. Reproduced with permission">
 
 ## From Flight to Plight: Future Challenges to *Platyscapa quadraticeps*
