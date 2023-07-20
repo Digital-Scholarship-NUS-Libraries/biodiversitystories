@@ -12,7 +12,8 @@ The human forces behind the changing landscapes of Singapore have also introduce
 	url="Pandan/media/STB-pandan.jpg"
  	label="Tourists in Singapore smelling the scent of pandan leaves, 1997"
 	description="Source url: https://www.nlb.gov.sg/main/image-detail?cmsuuid=B-4c0d11ed-cf56-42d5-9369-42f01a07c730"
-  	attribution="Singapore Tourism Board. Reproduced with permission.">
+  	attribution="Singapore Tourism Board. Reproduced with permission."
+	fit="contain">
 
 ## Ant Mosquitoes
 Not all mosquitoes are disease vectors. Of the ~3,600 described species,[^1] only an estimated 10% of them are vectors of human diseases.[^2] The rest of the species have varied life histories and do not always go for the blood of humans and other mammals. Some examples of unusual mosquito traits include carnivorous larvae of *Toxorhynchites* feeding on other fly larvae, and various mosquito species feeding on the ‘blood’ of <span eid="Q25582391">poikilothermic</span> (“cold-blooded”) animal hosts such as frogs, fishes, and even leeches.[^3]
