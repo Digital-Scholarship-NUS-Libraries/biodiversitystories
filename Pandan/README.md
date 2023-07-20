@@ -9,7 +9,7 @@
 The human forces behind the changing landscapes of Singapore have also introduced a wide variety of non-native plants. Some of these plants have gone on not only to become mainstays in Singapore’s culture, but also to establish themselves as vital players ecologically. With development and rapid urbanization, the increase in availability of artificial habitats has facilitated the spread of mosquitoes, leading to multiple mosquito-borne disease outbreaks globally. However, not all species of mosquitoes are disease vectors and some are even vital to the delicate balance of the complex ecological web. In this essay, I explore how the introduction of a non-native plant, the <span eid="Q311090">pandan (*Pandanus amaryllifolius*)</span>, came to be not just culturally a symbol of home and familiarity to Singaporeans, but also an important habitat for ant mosquitoes.
 
 <param ve-image
-	url="https://eservice.nlb.gov.sg/cms/image/B-4c0d11ed-cf56-42d5-9369-42f01a07c730.jpg"
+	url="Pandan/media/STB-pandan.jpg"
  	label="Tourists in Singapore smelling the scent of pandan leaves, 1997"
 	description="Source url: https://www.nlb.gov.sg/main/image-detail?cmsuuid=B-4c0d11ed-cf56-42d5-9369-42f01a07c730"
   	attribution="Singapore Tourism Board. Reproduced with permission.">
