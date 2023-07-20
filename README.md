@@ -38,7 +38,7 @@
 ![](Dover Forest/media/Dover Forest_02.jpg)
 
 "Dover Forest: The Fight to Protect Vanishing Ecosystems"
-<br><br><br><br>**Angela Ricasio Hoten**
+<br><br><br><br><br>**Angela Ricasio Hoten**
 
 #### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
 
