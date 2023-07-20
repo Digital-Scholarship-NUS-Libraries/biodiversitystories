@@ -26,6 +26,7 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
    title="Excerpt from ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, describing the medicinal properties of figs"
    attribution="David Hooper, not in copyright, from the Biodiversity Heritage Library"
    label="Not in copyright, from the Biodiversity Heritage Library"
+   region="36,2386,2394,1944"
    seq="77">
 <param ve-image 
    manifest="https://iiif.archivelab.org/iiif/gardensbulletins36unse/manifest.json"
@@ -38,7 +39,7 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
 *Platyscapa quadraticeps* exhibits wide dispersal patterns, and the population in Singapore is likely part of a continuous regional population spanning temperate and tropical Asia.[^10] *Platyscapa quadraticeps* follows the spontaneous distribution of *F. religiosa* in Singapore across both primary and secondary forests like Bukit Timah Nature Reserve, as well as in the city’s urban green spaces – from the Japanese Garden in Jurong East to Duxton Plain Park in the CBD to Tanah Merah MRT station.[^11]
 <param ve-map center="Q334" zoom="11.5"
        show-labels>
-<param ve-map-layer geojson url="/media/map (3).geojson" title="*Ficus religiosa* sightings from iNaturalist where *Platyscapa quadraticeps* are found with Heritage Trees circled"> 
+<param ve-map-layer geojson url="Fig Wasp/media/map (3).geojson" title="*Ficus religiosa* sightings from iNaturalist where *Platyscapa quadraticeps* are found with Heritage Trees circled"> 
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Bodhi_Tree_in_Israel_1a.jpg"
        circle="true"
@@ -70,33 +71,33 @@ As its sole pollinator, *Platyscapa quadraticeps* exhibits a reciprocal <span ei
        size="5, 5"
        >
 
-Urban green spaces (UGS) in Singapore cover over 47% of the city, reflecting its “city in nature” (originally “garden city” and then “city in a garden”) moniker.[^12] UGS are integrated into Singapore’s hot and air, light, and noise-polluted landscape, and are affected by continuous urban development.[^13] Pearl’s Hill City Park’s (PHCP) ecosystem exemplifies that of a typical UGS in Singapore. Located near Outram Park and Chinatown, PHCP was the site of a gambier plantation and hospital in the 1800s before becoming a public park.[^14] Today, PHCP is dominated by non-native birds that are omnivorous generalists such as the <span eid="Q74017">Javan Myna </span>(*Acridotheres javanicus*) and <span eid="Q25968">Eurasian Tree Sparrow</span> (*Passer montanus*). The park also features a Bodhi tree that has been designated as a [heritage tree](https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees), meaning *Platyscapa quadraticeps* also inhabits the park.[^15] 
+Urban green spaces in Singapore cover over 47% of the city, reflecting its “city in nature” (originally “garden city” and then “city in a garden”) moniker.[^12] Urban green spaces are integrated into Singapore’s hot and air, light, and noise-polluted landscape, and are affected by continuous urban development.[^13] Pearl’s Hill City Park’s (PHCP) ecosystem exemplifies that of a typical urban green space in Singapore. Located near Outram Park and Chinatown, PHCP was the site of a gambier plantation and hospital in the 1800s before becoming a public park.[^14] Today, PHCP is dominated by non-native birds that are omnivorous generalists such as the <span eid="Q74017">Javan Myna </span>(*Acridotheres javanicus*) and <span eid="Q25968">Eurasian Tree Sparrow</span> (*Passer montanus*). The park also features a Bodhi tree that has been designated as a [heritage tree](https://www.nparks.gov.sg/gardens-parks-and-nature/heritage-trees), meaning *Platyscapa quadraticeps* also inhabits the park.[^15] 
 <param ve-image 
-       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/photo_2023-06-17_10-21-33.jpg"
+       url="Fig Wasp/media/photo_2023-06-17_10-21-33.jpg"
        title="Pearl's Hill City Park, Singapore" 
        description="Example of an urban green space that Platyscapa quadraticeps inhabits in Singapore, within and overlooking the CBD area" 
        attribution="Joyce Hu">
 
-The diversity of species inhabiting the park reflects how the Singaporean public perceives and uses UGS. UGS provide cultural ecosystem services by facilitating recreation (e.g., birdwatching, hiking) and providing a respite from city life.[^16] Indeed, the presence of the heritage Bodhi tree provides a meditative space that the public can enjoy.[^17] However, while the Bodhi tree in the park may be valued, the fig wasps silently serving this cultural good are often undervalued and are likely viewed as a nuisance based on prevailing negative sentiments surrounding wasps. Any lack in addressing threats to the fig wasp’s survivability, however, will also impact the fig tree’s future.
+The diversity of species inhabiting the park shapes how the Singaporean public perceives and uses urban green spaces. These spaces provide cultural ecosystem services by facilitating recreation (e.g., birdwatching, hiking) and providing a respite from city life.[^16] Indeed, the presence of the heritage Bodhi tree provides a meditative space that the public can enjoy.[^17] However, while the Bodhi tree in the park may be valued, the fig wasps silently serving this cultural good are often undervalued and are likely viewed as a nuisance based on prevailing negative sentiments surrounding wasps. Any lack in addressing threats to the fig wasp’s survivability, however, will also impact the fig tree’s future.
 <param ve-image 
-       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/HT%202001-18%20Ficus%20religiosa%201.jpg"
+       url="Fig Wasp/media/HT%202001-18%20Ficus%20religiosa%201.jpg"
        title="Heritage Bodhi Tree in Pearl's Hill City Park" 
-       attribution="NParks, used with permission">
+       attribution="NParks. Reproduced with permission">
 <param ve-image 
-       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/HT%202001-18%20Ficus%20religiosa%202.jpg"
+       url="Fig Wasp/media/HT%202001-18%20Ficus%20religiosa%202.jpg"
        title="Heritage Bodhi Tree in Pearl's Hill City Park" 
-       attribution="NParks, used with permission">
+       attribution="NParks. Reproduced with permission">
 
 ## From Flight to Plight: Future Challenges to *Platyscapa quadraticeps*
-As the climate crisis worsens alongside continual urban development and other escalating anthropogenic environmental pressures, the quality of Singapore’s UGS is at risk. This poses challenges to *P. quadraticeps*, with cascading effects including the potential for a breakdown of the mutualistic relationship between the wasp and tree, which may have drastic effects for UGS that rely on *F. religiosa* as a <span eid="Q518808">keystone species</span>.[^18] 
+As the climate crisis worsens alongside continual urban development and other escalating anthropogenic environmental pressures, the quality of Singapore’s UGS is at risk. This poses challenges to *P. quadraticeps*, with cascading effects including the potential for a breakdown of the mutualistic relationship between the wasp and tree, which may have drastic effects for urban green spaces that rely on *F. religiosa* as a <span eid="Q518808">keystone species</span>.[^18] 
 <param ve-image 
-       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/Fig.png"
+       url="Fig Wasp/media/Fig.png"
        title="Associated Fauna of the Sacred Fig Tree in Singapore" 
        attribution="Joyce Hu, information via NParks"
        fit="contain">
 
 ## Increasing Temperatures
-Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in Singapore. Singapore’s dense cityscape activates the urban heat island effect, wherein features of the city—including impervious dark surfaces that absorb heat and trapped waste heat that seeps through from vehicles, buildings, and appliances—lead to higher temperatures of up to a 7°C difference compared to the island’s less built-up areas.[^19] While UGS alleviate the urban heat island effect, they are simultaneously exposed to these heightened temperatures.[^20] Moreover, temperatures in Singapore are projected to increase by 1.4°C to 4.6°C by the end of the century, with the brunt to be felt in urban areas.[^21] A recent study found that multiple fig wasp species[^22] suffered average reduced life spans of two to ten hours when temperatures rose to 36°C, compared to the average adult lifespan of 1-2 days.[^23] This corroborates earlier Singaporean findings that an increase of over 3°C would significantly decrease the adult lifespan of all studied fig wasp species.[^24]
+Increasing ambient air temperatures in urban green spaces are a threat to fig wasp fitness in Singapore. Singapore’s dense cityscape activates the urban heat island effect, wherein features of the city—including impervious dark surfaces that absorb heat and trapped waste heat that seeps through from vehicles, buildings, and appliances—lead to higher temperatures of up to a 7°C difference compared to the island’s less built-up areas.[^19] While urban green spaces alleviate the urban heat island effect, they are simultaneously exposed to these heightened temperatures.[^20] Moreover, temperatures in Singapore are projected to increase by 1.4°C to 4.6°C by the end of the century, with the brunt to be felt in urban areas.[^21] A recent study found that multiple fig wasp species[^22] suffered average reduced life spans of two to ten hours when temperatures rose to 36°C, compared to the average adult lifespan of 1-2 days.[^23] This corroborates earlier Singaporean findings that an increase of over 3°C would significantly decrease the adult lifespan of all studied fig wasp species.[^24]
 <param ve-image 
        url="https://pub.mdpi-res.com/climate/climate-08-00082/article_deploy/html/images/climate-08-00082-g005.png?1596123691"
        title="Spatial distribution of UHI intensities in Singapore" 
@@ -108,7 +109,7 @@ Increasing ambient air temperatures in UGS are a threat to fig wasp fitness in S
 ## Ozone Pollution
 In addition to temperature, ozone pollution is a rising threat to fig wasps in Singapore. Ozone is a key component of ‘smog’, and in recent years, certain episodes of harmful air quality in Singapore have been attributed to ozone-induced smog, not haze, contrary to common assumptions.[^25] In a study of a fig wasp in the *Platyscapa* genus in the sub-tropical French Mediterranean, ozone induced abnormal <span eid="Q33596">motility</span> at even low concentrations, impacting pollinator behaviour and success.[^26] There are suggestions that ozone episodes in the French Mediterranean may already be affecting fig wasp and fig tree mutualism, as fig wasp females search for receptive figs at midday which coincides with maximum ozone concentrations, hindering wasp motility and reproductive success.[^27] Worsening ozone pollution in Singapore is thus likely to implicate *P. quadraticeps*’ motility.
 <param ve-image 
-       url="https://raw.githubusercontent.com/joycewho1/figwaspessay/main/media/ozone.jpg" 
+       url="Fig Wasp/media/ozone.jpg" 
        label="Probability of fig wasp motility (spontaneous or independent movement) over time at different ozone concentrations" 
        attribution="Maryse Vanderplanck et al.,‘Ozone Induces Distress Behaviors in Fig Wasps with a Reduced Chance of Recovery’, Insects 12, no. 11 (5 November 2021): 995" 
        license="CC BY-4.0"
@@ -116,7 +117,7 @@ In addition to temperature, ozone pollution is a rising threat to fig wasps in S
        fit="contain">
        
 ## Habitat Fragmentation
-Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in Singapore. Fragmentation will continue as Singapore develops, and projects like the upcoming Cross Island MRT line passing through the Central Catchment Nature Reserve may have uncertain ecological effects.[^28] Studies reveal that highly fragmented forests have a lower proportion of pollinator wasps compared to non-pollinator wasps, wherein the latter may become pests to the fig tree.[^29] Further, fragmentation contextualised in Singapore’s urban cityscape increases the risk of road mortality, which has been implicated in pollinating insects’ deaths worldwide.[^30] Fig wasps can be responsible for dispersing pollen up to 160km from the source tree, and flying over increasingly fragmented and busy urban traffic exacerbates the difficulty and danger of pollination journeys.[^31]
+Beyond climatic changes, habitat fragmentation is also a concern to fig wasps in Singapore. Fragmentation will continue as Singapore develops, and projects like the upcoming Cross Island MRT line passing underneath the Central Catchment Nature Reserve may have uncertain ecological effects.[^28] Studies reveal that highly fragmented forests have a lower proportion of pollinator wasps compared to non-pollinator wasps, wherein the latter may become pests to the fig tree.[^29] Further, fragmentation contextualised in Singapore’s urban cityscape increases the risk of road mortality, which has been implicated in pollinating insects’ deaths worldwide.[^30] Fig wasps can be responsible for dispersing pollen up to 160km from the source tree, and flying over increasingly fragmented and busy urban traffic exacerbates the difficulty and danger of pollination journeys.[^31]
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Cross_Island_Line_final_and_alternate_routes_across_Central_Catchment.png"
        title="Cross Island Line final and alternate routes across Central Catchment" 
@@ -140,11 +141,11 @@ Reduced reproductive success may contribute to a breakdown in the mutualistic re
        license="CC BY-SA 2.0">
 
 ## The Future of Fig Wasps in Singapore
-Therefore, while the existence of Singapore’s UGS is not under threat, and there are plans to continue developing UGS, the quality of these spaces faces inevitable challenges amidst anthropogenic climate change and continual urban development, both of which can only be mitigated within broader policies.[^40] To combat urban fragmentation’s specific impact on fig wasps, alongside temperature and air pollution that may decrease the wasp’s ability to travel long distances, it may be helpful to consider intentional planting of F. religiosa in urban spaces that are not parks (e.g., on the roadside) which may expand the accessibility of trees to fig wasps that prevents the need to travel long distances exposed to increasingly harsh urban conditions.[^41] Plans to expand eco-links may also alleviate the effects of fragmentation and road mortality by connecting isolated UGS to each other and other habitats.[^42] However, these bridges are a mitigation strategy with indeterminate success rates for different species on different time scales, with uncertain benefits to *P. quadraticeps*.[^43] 
+Therefore, while the existence of Singapore’s urban green spaces is not under threat, and indeed there are plans to develop more, the quality of these spaces faces inevitable challenges amidst anthropogenic climate change and continual urban development, both of which can only be mitigated within broader policies.[^40] To combat urban fragmentation’s specific impact on fig wasps, alongside temperature and air pollution that may decrease the wasp’s ability to travel long distances, it may be helpful to consider intentional planting of F. religiosa in urban spaces that are not parks (e.g., on the roadside) which may expand the accessibility of trees to fig wasps that prevents the need to travel long distances exposed to increasingly harsh urban conditions.[^41] Plans to expand eco-links may also alleviate the effects of fragmentation and road mortality by connecting isolated urban green spaces to each other and other habitats.[^42] However, these bridges are a mitigation strategy with indeterminate success rates for different species on different time scales, with uncertain benefits to *P. quadraticeps*.[^43] 
 <param ve-video id="c18vo5Ybdio" title="Eco-Link@BKE | Highlights">
 
 
-Ultimately, any breakdown in the relationship between *F. religiosa* and *P. quadraticeps* has significant ecological implications for a range of organisms. [^44] Efforts to mitigate the impending challenges to the fig wasp are thus oriented towards an ecosystem-based outlook grounded in addressing broader pollution concerns and creating ecological bridges and links that may combat fragmentation. This will ease *Platyscapa quadraticeps*’ plight against such changes to uphold its mutualistic relationship with *Ficus religiosa*, which is a cornerstone of Singapore’s UGS. However, it is important to be mindful that simply creating urban green spaces is insufficient to mitigate the effects of climate change or pollution on different species and the habitats they rely on, and the future of often forgotten non-native species is at stake in both our ecological and cultural futures.
+Ultimately, any breakdown in the relationship between *F. religiosa* and *P. quadraticeps* has significant ecological implications for a range of organisms. [^44] Efforts to mitigate the impending challenges to the fig wasp are thus oriented towards an ecosystem-based outlook grounded in addressing broader pollution concerns and creating ecological bridges and links that may combat fragmentation. This will ease *Platyscapa quadraticeps*’ plight against such changes to uphold its mutualistic relationship with *Ficus religiosa*, which is a cornerstone of Singapore’s urban green spaces. However, it is important to be mindful that simply creating urban green spaces is insufficient to mitigate the effects of climate change or pollution on different species and the habitats they rely on, and the future of often forgotten non-native species is at stake in both our ecological and cultural futures.
 
 # References
 [^1]: Nanthinee Jeevanandam and Richard T. Corlett, ‘Fig Wasp Dispersal in Urban Singapore’, *Raffles Bulletin of Zoology* 61, no. 1 (28 February 2013): 343–47.
