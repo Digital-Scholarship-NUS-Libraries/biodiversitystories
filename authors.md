@@ -31,7 +31,9 @@ Joyce is a rising senior at Yale-NUS College majoring in Environmental Studies. 
 
 ####  Jody Lim
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Berthe_Hoola_van_Nooten48.jpg)
+![](media/Jody-author-photo.jpg)
+
+Jody is a Yale-NUS College student with a major in History and a minor in Environmental Studies. She is passionate about environmental history and the intersections between history and the natural world. She has a new-found appreciation for taking walks, especially armed with a hat and sunscreen.
 
 ####  Max D. López Toledano
 
