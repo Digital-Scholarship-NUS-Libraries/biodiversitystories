@@ -81,7 +81,7 @@ Furthermore, it was immensely labour-intensive. Beyond “a European manager and
 
 In Singapore, harvested coconuts were also processed into products including <span eid="Q193726">copra</span>, the dried kernel of the coconut from which coconut oil is extracted, which became an attractive export around 1870. [^20] In an oral history interview by Mr Kannusamy s/o Pakirisamy, he shared that he grew up near a copra factory “at River Valley Road near Ord Road” and that there was also a copra and coconut oil factory at Mohamed Sultan Road in the 1920s. [^21] He also shared that the owner was Chinese. [^22] At the time of the interview in 1983, both factories had closed down. [^23]
 <param ve-image 
-       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/20050000002-0038-3202-0774/img0040.jpg"
+       url="Coconut/media/Processing Copra.jpg"
        label="Processing Copra, Singapore" 
        attribution="National Archives of Singapore. Reproduced with permission."
        fit="contain">   
@@ -155,19 +155,19 @@ In an 8 April 1982 interview, Mr. S. C. Somasundram described the coconut breaki
 
 In a 12 September 1983 interview, Mr. Saravana Perumal said that the coconut breaking is symbolic of being “pure like a coconut” as the inside of a coconut is cleaner than its outer husk. [^41] He pointed out that traditionally five coconuts were broken in a wedding ceremony but this was no longer commonly practiced. [^42] Mr. Perumal adopted a more laissez faire attitude to the practice as his relatives “don’t follow certain rules and regulations made by the forefathers.” [^43]
  <param ve-image 
-       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980006575-8105-3181-0783/img0031.jpg"
+       url="Coconut/media/Coconut Navarathiri.jpg"
        label="Indian Priest breaking coconut during Navarathiri Festival at Sri Mariamman Temple, South Bridge Road" 
-       attribution="Singapore Tourism Board Collection, courtesy of National Archives of Singapore (Pending)"
+       attribution="Singapore Tourism Board Collection, courtesy of National Archives of Singapore. Reproduced with permission."
        fit="contain">   
 	
 Mrs. Guli Ramnani, a member of Singapore’s <span eid="Q1258074">Sindhi</span> community, shared another take on the coconut ceremony in her interview on 29 April 1985. In her experience, the groom would break a coconut after the main marriage ceremony. [^44] While the failure to break the coconut made the groom look weak or unlucky, she was not as particular about the specificities of the break as Mr. Somasundram. For her community, what was important was that “the boy sees to it that he breaks it”—"doesn’t have to be in the half.” [^45]
  <param ve-image 
-       url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/19980000484-6317-3042-0182/img0119.jpg"
-       label="Prime Minister Lee Kuan Yew breaking a coconut in a Hindu ceremonial rite during his tour of Chua Chu Kang constituency" 
-       attribution="Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Pending)"
+       url="Coconut/media/Hindu Wedding.jpg"
+       label="A coconut features prominently in the bottom right of this image of a Hindu wedding at Shree Lakshminaryan Temple in 1990" 
+       attribution="Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. Reproduced with permission."
        fit="contain">   
 	
-> These oral accounts of the coconut ceremonies of Mr. Somasundram, Mr. Perumal, and Mrs. Ramnani, show how integral coconuts are to Hindu traditions in Singapore, with unique and meaningful variations across families and communities. 
+These oral accounts of the coconut ceremonies of Mr. Somasundram, Mr. Perumal, and Mrs. Ramnani, show how integral coconuts are to Hindu traditions in Singapore, with unique and meaningful variations across families and communities. 
 
 ## Seeing the Whole Coconut
 Coconuts are ubiquitous in Singapore today—they appear in everything from your Mr Coconut drink to your nasi lemak lunch. Beyond its culinary fame, the fruit has played a distinct role in shaping Singapore’s cultural and physical landscapes. Coconuts have influenced Singapore’s land use, lit up the streets, and been eaten and broken for good luck. When you inevitably pick up your next coconut-containing foodstuff, spare a thought for its intriguing history!
