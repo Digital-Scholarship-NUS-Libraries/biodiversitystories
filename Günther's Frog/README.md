@@ -87,8 +87,7 @@ Changed landscapes thus figure into the story of the Günther’s frog in rather
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sungei_Buloh_Wetlands.jpg/1600px-Sungei_Buloh_Wetlands.jpg?20190430101839"
        title="Sungei Buloh Nature Reserve, 2015" 
        attribution="Jimmy Tan"
-        license="CC BY 2.0"
-  >
+       license="CC BY 2.0" >
 
 # References
 
