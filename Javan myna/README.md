@@ -19,13 +19,11 @@ The success of the Javan myna in Singapore stands in stark contrast to its pligh
 
 <param ve-image 
        title="Range distribution of Javan mynas in Singapore" 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/A.Javanicus/main/Total-Range-Buffer-Mynas-Singapore.jpg"
-       description="A Javan myna, characterised by their grey plume and yellow beaks"
+       url="Javan myna/media/Total-Range-Buffer-Mynas-Singapore.jpg"
        attribution="JBoo, J.T.C., K.E. Ong, X.R. Ong & E.J.Y. Soh, 2013. Spatial distribution of Javan mynas in Singapore. Unpublished project report from GE3238: GIS Design and Practices. National University of Singapore. Singapore, 87pp."
        fit="contain">
 
-Javan mynas have become a familiar sight in Singapore, perching on trees and buildings, and their distinctive calls can be heard throughout the city. The main reason for the Javan mynas’ success, is that they are highly adaptable and are opportunistic feeders, consuming a variety of foods including fruits, insects, small vertebrates, and human leftovers. Like many urban-adapted animals, Javan mynas are not only extremely tolerant of humans but are bold enough to feed and forage near humans, leading to them being a common sight in food centres and other areas where food waste is abundant. Their boldness also enables them to access other ephemeral food sources present within urban districts.[^10] Javan mynas are reportedly unafraid to steal food from kitchens or raid the food bowls of pets.[^11] In foraging, the mynas also exhibit a measure of intelligence. Some have learned to associate the gardening activities of humans with the displacement of subterranean arthropods like millipedes and worms and have taken to congregating around gardeners for an easy meal.[^12]
-
+Javan mynas have become a familiar sight in Singapore, perching on trees and buildings, and their distinctive calls can be heard throughout the city. The main reason for the Javan mynas’ success, is that they are highly adaptable and are opportunistic feeders, consuming a variety of foods including fruits, insects, small vertebrates, and human leftovers. Like many urban-adapted animals, Javan mynas are not only extremely tolerant of humans but are bold enough to feed and forage near humans, leading to them being a common sight in food centres and other areas where food waste is abundant. Their boldness also enables them to access other ephemeral food sources present within urban districts.[^10] Javan mynas are reportedly unafraid to steal food from kitchens or raid the food bowls of pets.[^11] In foraging, the mynas also exhibit a measure of intelligence. Some have learned to associate the gardening activities of humans with the displacement of subterranean arthropods like millipedes and worms and have taken to congregating around gardeners for an easy meal.[^12]f
 <param ve-image 
        title="Javan Myna" 
        url="https://besgroup.org/wp-content/uploads/MynaJ-kitchen-yc-1.jpg"
@@ -74,7 +72,7 @@ The responsibility of implementing myna population control measures currently fa
 A controversial yet often employed method of the management of many invasive species around the world is culling. The Javan mynas are not exempt. In the afore-mentioned Potong Pasir area, authorities have trialled the use of a giant net to trap mynas roosting and cull them via carbon dioxide gassing.[^38] However, such culling measures have sparked significant controversy and criticism. Registered animal welfare charity, Animal Concerns and Research Society (ACRES) have expressed concerns regarding AVA’s measures on grounds of morality and practical effectiveness.[^39] N Sivasothi, a renowned local professor in biological sciences at the National University of Singapore (NUS), similarly expressed disappointment in AVA's measures.[^40] Detractors argue that culling fails to address the root causes of the myna population increase, which many attribute to current landscaping practices and inadequate food waste management.[^41] [^42] Indeed ACRES allegedly observed that the culling of certain pest species in the past only reduced competition for other pest species, thus leading to the population increase of other pests.[^43] 
 <param ve-image 
        title="Tree traps for Javan myna set up at Potong Pasir" 
-       url="https://raw.githubusercontent.com/GitGittyHubbity/A.Javanicus/main/Javan_myna_trap.jpg"
+       url="Javan myna/media/Javan_myna_trap.jpg"
        description="The common myna can be distinguished by their brown coat"
        attribution="The large hood-like traps would then be sealed and the mynas inside would be gassed via carbon dioxide"
        fit="contain">
