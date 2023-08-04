@@ -56,7 +56,7 @@
 
 #### Günther's Frog (*Sylvirana guentheri*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/G%C3%BCnther's%20Frog/}
 
-![](url="https://upload.wikimedia.org/wikipedia/commons/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg")
+![](https://upload.wikimedia.org/wikipedia/commons/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg)
 "Günther's Frog: New Landscapes and New Habitats"
 <br><br><br><br> **Sun Woo Yoon**
 
@@ -87,7 +87,6 @@
 
 "Red-eared Sliders in Singapore: From Exotic Pet to Released Pest"
 <br><br><br> **Dünya Gürses**
-
 
 #### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig}
 
