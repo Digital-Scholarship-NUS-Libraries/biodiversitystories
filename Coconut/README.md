@@ -42,13 +42,12 @@ Scientifically known as *Cocos nucifera*, the coconut is from the <span eid="Q14
 
 ## Taking Root: A Coastal Plantation Crop
 Coconut was a popular plantation crop in the 19th century and brought a considerable amount of revenue for colonial Singapore. In 1849, coconuts had the second highest acreage—of 2,658—amongst Singapore’s agricultural produce. [^7] In the 1900s, a coconut cultivation was encouraged as Straits Settlement governmental policy mandated the inter-planting of ‘permanent’ crops, like coconut and rubber, for all land grants for pepper and gambier plantations. [^8] British resident <span eid="Q1352013">John Crawfurd</span> deemed the climate in Singapore to be well adapted for coconut plantations, which spurred the industry’s growth. [^9] The expansion of coconut plantations transformed the ecological landscape, devastating coastal forests along the southeast coast of Singapore. [^10]
- <param ve-image 
-       url="https://eservice.nlb.gov.sg/cms/image/e6f2d34e-da8c-42eb-958f-87b029ff3ef0.jpg"
-       label="Tanglin coconut plantation, 1920" 
-       attribution="All rights reserved. Lee Kip Lin and National Library Board, Singapore 2009. (pending)"
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
+       label="The coconut plantation on the east coast" 
+       attribution="National Museum of Singapore. Reproduced with permission."
        fit="contain">   
-       
-
+     
 These coastal coconut plantations were mainly owned by European and Chinese business owners. Chinese businessmen like <span eid="Q18658123">Whampoa Hoo Ah Kay</span> and <span eid="Q97818332">Chew Joo Chiat</span> had plantations in Tanjong Katong and the modern-day Joo Chiat area. [^11] [^12] European businessmen like Thomas Owen Crane had coconut estates in Geylang and Katong.[^13] In fact, Geylang used to be named Geylang Kelapa due to the sheer number of coconut palms planted in the area during the mid-19th century. [^14] The 1856 Commissioner of the police, <span eid="Q7789112">Thomas Dunman</span> also owned a large coconut plantation of 400 acres in Tanjong Pagar. [^15] The influence of coconut plantations and their wealthy owners is seen today in the form of street and neighbourhood names—like Crane Road, Joo Chiat, and Whampoa.
  <param ve-iframe src="https://historicalmaps.yale-nus.edu.sg/catalog/bodleian-0035">
 
@@ -76,7 +75,7 @@ Furthermore, it was immensely labour-intensive. Beyond “a European manager and
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
        label="The coconut plantation on the east coast" 
-       attribution="National Museum of Singapore (Pending)"
+       attribution="National Museum of Singapore. Reproduced with permission."
        fit="contain">   
 
 In Singapore, harvested coconuts were also processed into products including <span eid="Q193726">copra</span>, the dried kernel of the coconut from which coconut oil is extracted, which became an attractive export around 1870. [^20] In an oral history interview by Mr Kannusamy s/o Pakirisamy, he shared that he grew up near a copra factory “at River Valley Road near Ord Road” and that there was also a copra and coconut oil factory at Mohamed Sultan Road in the 1920s. [^21] He also shared that the owner was Chinese. [^22] At the time of the interview in 1983, both factories had closed down. [^23]
@@ -86,27 +85,26 @@ In Singapore, harvested coconuts were also processed into products including <sp
        attribution="National Archives of Singapore. Reproduced with permission."
        fit="contain">   
 
-
 ## Coconut Oil: An Illuminating Utility
 Before 1864, coconut oil was the sole provider of light in the streets of Singapore. [^24] It was used in lamps, which were made up of a bowl or a tumbler partly filled with water and topped up with coconut oil. [^25] A cloth or pith wick was fixed in a star-shaped piece of tin with cork supports. [^26]
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1059033.jpg"
        title="Oil Lamps" 
-       attribution= "Collection of the Asian Civilisations Museum, National Heritage Board (pending)"
+       attribution= "Collection of the Asian Civilisations Museum, National Heritage Board. Reproduced with permission."
 	fit= "contain">
 
 So prevalent were these coconut oil lamps that the local people were amazed by the gas lamps unveiled at Queen Victoria’s birthday celebration. A letter written to England dated 30 May 1864 detailed their questions, such as “We don’t see the oil” and “Where is the wick?” [^27] Indeed, coconut oil was integral in lighting up Singapore in a time before gas and electricity. Even after the advent of other forms of lighting, people once again turned to coconut oil lamps during the Japanese Occupation.[^28]
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1237117.jpg"
        title="Geylang Road Gas Works Postcard, c1910" 
-       attribution= "Collection of Singapore Philatelic Museum: Donated by Prof Cheah Jin Seng (pending)"
+       attribution= "Collection of Singapore Philatelic Museum: Donated by Prof Cheah Jin Seng. Reproduced with permission."
 	fit= "contain">
 
 The use of coconut oil, however, was not without its dangers. On 19 August 1863, a coconut oil shop caught fire, razing down all 57 Chinese shops between North Bridge and Circular Roads. [^29] Terrifyingly, the flames were 30 to 45 metres tall and burnt for four hours, until a high brick wall stopped the fire. [^30] Whether for its role in lamps or for its destructive potential, coconut oil was clearly familiar to Singapore in the 19th century.
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1321958.jpg"
        title="View of North Bridge Road" 
-       attribution= "Collection of National Museum of Singapore (pending)"
+       attribution= "Collection of National Museum of Singapore. Reproduced with permission."
 	fit= "contain">
 
 ## Grating Coconut Flesh: Processing Coconuts at Home
@@ -114,17 +112,17 @@ Zooming in from an industrial scale, families in Singapore had culinary tools to
  <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1107296.jpg"
        title="Wooden folding-stool coconut grater" 
-       attribution= "Collection of National Museum of Singapore (pending)"
+       attribution= "Collection of National Museum of Singapore. Reproduced with permission."
 	fit= "contain">
  <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1073351.jpg"
        title="Wooden step-foot coconut rasp" 
-       attribution= "Collection of National Museum of Singapore: Gift of Ang Yang Buay (pending)"
+       attribution= "Collection of National Museum of Singapore: Gift of Ang Yang Buay. Reproduced with permission."
 	fit= "contain">
   <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1046663.jpg"
        title="Wooden straddle-stool coconut grater" 
-       attribution= "Collection of National Museum of Singapore (pending)"
+       attribution= "Collection of National Museum of Singapore. Reproduced with permission."
 	fit= "contain">
 
 One could use the grated coconut flesh directly, in foods like *ondeh ondeh*, <span eid="Q19725078">*kueh dadar*</span>, or <span eid="Q107209991">*kueh tutu*</span>. [^36] Alternatively, coconut milk could be derived by adding water to the grated flesh to extract the milk. Coconut milk is an essential in Malay dishes such as *nasi lemak*, and <span eid="Q1520293">*rendang*</span>. [^37]
@@ -150,7 +148,7 @@ In an 8 April 1982 interview, Mr. S. C. Somasundram described the coconut breaki
 <param ve-image 
        url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/PCD0389-EA16-11F2-3F10/img0006.jpg"
        label="Thaipusam procession halting for the priests to perform Pooja - Breaking a coconut and burning camphor as an offering to the Hindu Deity" 
-       attribution="National Archives of Singapore (Pending)"
+       attribution="National Archives of Singapore. Reproduced with permission."
        fit="contain">   
 
 In a 12 September 1983 interview, Mr. Saravana Perumal said that the coconut breaking is symbolic of being “pure like a coconut” as the inside of a coconut is cleaner than its outer husk. [^41] He pointed out that traditionally five coconuts were broken in a wedding ceremony but this was no longer commonly practiced. [^42] Mr. Perumal adopted a more laissez faire attitude to the practice as his relatives “don’t follow certain rules and regulations made by the forefathers.” [^43]
@@ -180,47 +178,47 @@ Coconuts are ubiquitous in Singapore today—they appear in everything from your
 
 # References
 [^1]: “Cocos nucifera,” NParks, last modified August 20, 2021, https://www.nparks.gov.sg/florafaunaweb/flora/5/6/5618.
-[^2]:  “Coconut,” Online Etymology Dictionary, last modified January 8, 2018, https://www.etymonline.com/word/coconut.
+[^2]: “Coconut,” Online Etymology Dictionary, last modified January 8, 2018, https://www.etymonline.com/word/coconut.
 [^3]: Caetano Xavier Furtado, “The Origin of the Word “Cocos”,” *The Gardens’ Bulletin Singapore* Vol. XX, Part I (January 31, 1963): 311, https://www.biodiversitylibrary.org/page/43684850.
 [^4]: NParks, “Cocos nucifera.”
 [^5]: NParks, “Cocos nucifera.”
 [^6]: Yan Chong Kwek, Hugh T. W. Tan, and Richard T. Corlett, *A Checklist of the Total Vascular Plant Flora of Singapore: Native, Naturalised and Cultivated Species* (Singapore: Raffles Museum of Biodiversity Research, 2009), 27, https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/app/uploads/2017/04/flora_of_singapore_tc.pdf.
 [^7]: Walter Makepeace, Gilbert E. Brooke, and Roland ST. J. Braddell, *One Hundred Years of Singapore* (London: John Murray, Albermarle Street, W., 1921), 70, https://archive.org/details/onehundredyearso02braduoft/page/70/mode/2up?q=1849.
-[^8]: Warren Bailey, and Lan Truong, “Opium and Empire: Some Evidence from Colonial-Era Asian Stock and Commodity Markets,” *Journal of Southeast Asian Studies* 32, no. 2 (2001): 180, http://www.jstor.org/stable/20072323.
+[^8]: Warren Bailey and Lan Truong, “Opium and Empire: Some Evidence from Colonial-Era Asian Stock and Commodity Markets,” *Journal of Southeast Asian Studies* 32, no. 2 (2001): 180, http://www.jstor.org/stable/20072323.
 [^9]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 68. 
-[^10]: Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” *Journal of Biogeography* 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
-[^11]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 82.
+[^10]: Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990,” *Journal of Biogeography* 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
+[^11]: Makepeace, Brooke, and Braddell, 82.
 [^12]: Victor R. Savage and Brenda S. A. Yeoh, *Singapore Street Names: A Study of Toponymics* (Singapore: Marshall Cavendish Editions, 2013), 515-6, National Library Board Singapore Libby.
-[^13]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 443
-[^14]: Savage, and Yeoh, *Toponymics*, 364.
-[^15]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 444.
-[^16]: “The Cost of Making Copra,” *Straits Echo*, February 13 1914, https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19140213-1.2.46?qt=coconut&q=coconut.
-[^17]: “Making Copra.” 
-[^18]: “The coconut plantation on the east coast,” Roots, accessed June 30 2023, https://www.roots.gov.sg/Collection-Landing/listing/1168093.
+[^13]: Makepeace, Brooke, and Braddell, 443
+[^14]: Savage and Yeoh, *Singapore Street Names*, 364.
+[^15]: Makepeace, Brooke, and Braddell, 444.
+[^16]: “The Cost of Making Copra,” *Straits Echo*, February 13, 1914, https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19140213-1.2.46?qt=coconut&q=coconut.
+[^17]: “The Cost of Making Copra.” 
+[^18]: “The coconut plantation on the east coast,” Roots, accessed June 30, 2023, https://www.roots.gov.sg/Collection-Landing/listing/1168093.
 [^19]: “Page 13 Advertisements Column 2,” *Malaya Tribune*, March 21, 1940, https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19400321-1.2.96.2?qt=copra,%20factory,%20worker&q=copra%20factory%20worker.
-[^20]: Bailey, and Truong, “Opium and Empire,” 180.
+[^20]: Bailey and Truong, “Opium and Empire,” 180.
 [^21]: Kannusamy s/o Pakirisamy, Reel/Disc 6 of 28, Interview Transcript, Pg 91, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/df540b8c-115d-11e3-83d5-0050568939ad?keywords=kannusamy&keywords-type=all.
-[^22]: Kannusamy, Interview Transcript, pg 91.
-[^23]: Kannusamy, Interview Transcript, pg 91.
-[^24]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 511.
-[^25]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 511-2. 
-[^26]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 512.
-[^27]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 512.
+[^22]: Kannusamy, Interview Transcript, 91.
+[^23]: Kannusamy, 91.
+[^24]: Makepeace, Brooke, and Braddell, 511.
+[^25]: Makepeace, Brooke, and Braddell, 511-2. 
+[^26]: Makepeace, Brooke, and Braddell, 512.
+[^27]: Makepeace, Brooke, and Braddell, 512.
 [^28]: “Oil lamps,” Roots, accessed June 15, 2023, https://www.roots.gov.sg/Collection-Landing/listing/1059033.
-[^29]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 558.
-[^30]: Makepeace, Brooke, and Braddell, *One Hundred Years*, 558.
+[^29]: Makepeace, Brooke, and Braddell, 558.
+[^30]: Makepeace, Brooke, and Braddell, 558.
 [^31]: “Wooden step-foot coconut rasp,” Roots, accessed June 15, 2023, https://www.roots.gov.sg/Collection-Landing/listing/1073351.
 [^32]: “Kukuran Kelapa,” Museum of Asian Art, last modified February 26, 2022, https://museum.um.edu.my/kukuran-kelapa
 [^33]: Roots, “Wooden step-foot coconut rasp.”
 [^34]: Roots, “Wooden step-foot coconut rasp.”
 [^35]: “Coconut Grater Stool,” Atlas Obscura, accessed June 15, 2023, https://www.atlasobscura.com/foods/coconut-grater-stool.
 [^36]: “Coconut in Malay cuisine: How it is used in popular delicacies,” *Asia One*, July 28, 2020, https://www.asiaone.com/lifestyle/coconut-malay-cuisine-how-it-used-popular-delicacies.
-[^37]: Asia One, “Malay cuisine.” 
+[^37]: Asia One, “Coconut in Malay cuisine.” 
 [^38]: S. C. Somasundram, Reel/ Disc 8 of 11, Interview Transcript, pg 98, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e09bc1fb-115d-11e3-83d5-0050568939ad?keywords=coconut&keywords-type=all.
 [^39]: Somasundram, Interview Transcript, 98. 
-[^40]: Somasundram, Interview Transcipt, 99.
+[^40]: Somasundram, 99.
 [^41]: Saravana Perumal, Reel/ Disc 2 of 17, Interview Transcript, pg 16, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e2ad6fe9-115d-11e3-83d5-0050568939ad?keywords=coconut&keywords-type=all.
-[^42]: Perumal, Interview Transcript, pg 17. 
-[^43]: Perumal, Interview Transcript, pg 18.
+[^42]: Perumal, Interview Transcript, 17. 
+[^43]: Perumal, 18.
 [^44]: Guli Ramnani, Reel/ Disc 4 of 18, Interview Transcript, pg 40, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/819af17e-115f-11e3-83d5-0050568939ad?keywords=coconut&keywords-type=all.
-[^45]: Ramnani, Interview Transcript, pg 40. 
+[^45]: Ramnani, Interview Transcript, 40. 
