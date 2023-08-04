@@ -83,7 +83,7 @@ In Singapore, harvested coconuts were also processed into products including <sp
 <param ve-image 
        url="https://www.nas.gov.sg/archivesonline/watermark/picas_data/tn_pcd/20050000002-0038-3202-0774/img0040.jpg"
        label="Processing Copra, Singapore" 
-       attribution="National Archives of Singapore (Pending)"
+       attribution="National Archives of Singapore. Reproduced with permission."
        fit="contain">   
 
 
