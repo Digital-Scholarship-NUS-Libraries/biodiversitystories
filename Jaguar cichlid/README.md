@@ -48,12 +48,6 @@ This is an example of a niche community, a concept which anthropologist Margot W
 ##
 The international dimension of local ornamental fish communities reflects Singapore’s position in today’s globalised world. Cichlid enthusiasts get to care and build relationships with species hailing from Central America, like the Jaguar Cichlid, or even Africa, like the Mozambique Tilapia (*Oreochromis mossambicus*) which has also been imported to Singapore in the last few decades.[^29] Singaporean non-native biodiversity cannot be reduced to the label of “invasive”. These species also tell a broader story about Singapore and the Singaporean identity, a story that can be found in local freshwater ecologies. 
 
-<param ve-image 
-       url="Jaguar cichlid/media/Figure 6.jpeg"
-       title="The Mozambique Tilapia was included in a special ‘Life in the Pond’ stamp collection in Singapore in 2011."
-       attribution="pending"
-       license="pending">
-
 ##
 The Jaguar Cichlid, for example, reminds us that Singapore is part of a global tropical zone beyond Southeast Asia. Its adaptation to Singapore’s water bodies has only been possible due to its suitability for the warm water also found in the Central American tropics. Likewise, its name, *the jaguar*, reminds us of Singapore’s tropical and pre-colonial identity too. Predators at the top of the rainforest food chain loom large in tropical cultures. The jaguar, in the Central American case, and the tiger, in the case of Singapore, have historically earned prominent roles in the cultural imaginations of these two places. In cultures all over Central America, the jaguar has historically been a symbol of power and divinity.[^30] These species have historically been respected and feared—they are aggressive and will dominate whatever environment they are put in. In Singapore, for example, the tiger was a major preoccupation of colonial control, given it posed a threat to settler communities and plantation labour.[^31] The tiger and the jaguar alike express that *something* about the tropics which cannot be tamed; as Wong Zi Hao reflects on in the context of Tanjong Rimau (‘Tiger Cape’ in Malay). The reference to the tiger in this island’s name is an expression that the “landscape that is out-of-bounds”.[^32] Although there are no wild tigers in Singapore anymore, the Jaguar Cichlid reminds us they were once here, and the place was theirs.
 
