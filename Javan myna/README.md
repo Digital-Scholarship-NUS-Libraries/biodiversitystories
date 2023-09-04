@@ -50,6 +50,19 @@ The Javan myna’s adaptability to urban settings has allowed them to multiply t
 <param ve-video id="dJKgJAP9VH4" title="Javan myna birdsong" start = "0:42">
 
 The prevalence of Javan mynas in food centres also brings about its own set of problems, particularly in terms of hygiene. Their droppings, which are abundant due to the large numbers congregating, pose a cleanliness hazard. The accumulation of myna droppings is not only unsightly, but also raises concerns about the spread of diseases.[^25]
+<param ve-image 
+       label="Javan myna at the Bukit Timah Food Centre (bottom left), undeterred by netting (2023)" 
+       url="Javan myna/media/myna-food ctr.jpg"
+       attribution="Katherine Enright"
+       license="CC BY-NC"
+       fit="contain">
+<param ve-image 
+       label="Javan myna at the Bukit Timah Food Centre (2023)" 
+       url="Javan myna/media/myna-closeup.jpg"
+       attribution="Katherine Enright"
+       license="CC BY-NC"
+       fit="contain">
+
 
 At the same time, the biodiversity of Singapore is also affected. The aggressive disposition of A. javanicus affords them the ability to strong-arm and ‘bully’ shier, less-aggressive native birds from resources and roosts.[^26] While the common myna is a prominent example, ornithologists speculate that the reduction in population of other native birds, like the  Oriental Magpie Robin, could be caused by the Javan myna as well.[^27] 
 
