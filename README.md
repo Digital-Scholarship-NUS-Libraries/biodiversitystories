@@ -75,6 +75,13 @@
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
 <br><br><br><br>**Max D. López Toledano**
 
+#### Javan myna (_Acridotheres javanicus_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Javan%20myna}
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/7f/Acridotheres_javanicus_-_Kent_Ridge_Park.jpg)
+
+"Javan Myna: Endangered Pest"
+<br><br><br><br> **Foo Shi Wen**
+
 #### Pandan (*Pandanus amaryllifolius*) and the Ant Mosquito (*Malaya genurostris*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Pandan}
 
 ![](Pandan/media/leaf_axil.jpg)
