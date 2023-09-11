@@ -45,7 +45,7 @@ Coconut was a popular plantation crop in the 19th century and brought a consider
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
        label="The coconut plantation on the east coast" 
-       attribution="National Museum of Singapore. Reproduced with permission."
+       attribution="National Museum of Singapore, National Heritage Board. Reproduced with permission."
        fit="contain">   
      
 These coastal coconut plantations were mainly owned by European and Chinese business owners. Chinese businessmen like <span eid="Q18658123">Whampoa Hoo Ah Kay</span> and <span eid="Q97818332">Chew Joo Chiat</span> had plantations in Tanjong Katong and the modern-day Joo Chiat area.[^11][^12] European businessmen like Thomas Owen Crane had coconut estates in Geylang and Katong.[^13] In fact, Geylang used to be named Geylang Kelapa due to the sheer number of coconut palms planted in the area during the mid-19th century.[^14] The 1856 Commissioner of the police, <span eid="Q7789112">Thomas Dunman</span> also owned a large coconut plantation of 400 acres in Tanjong Pagar.[^15] The influence of coconut plantations and their wealthy owners is seen today in the form of street and neighbourhood names—like Crane Road, Joo Chiat, and Whampoa.
@@ -75,7 +75,7 @@ Furthermore, it was immensely labour-intensive. Beyond “a European manager and
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1168093.jpg"
        label="The coconut plantation on the east coast" 
-       attribution="National Museum of Singapore. Reproduced with permission."
+       attribution="National Museum of Singapore, National Heritage Board. Reproduced with permission."
        fit="contain">   
 
 In Singapore, harvested coconuts were also processed into products including <span eid="Q193726">copra</span>, the dried kernel of the coconut from which coconut oil is extracted, which became an attractive export around 1870.[^20] In an oral history interview by Mr Kannusamy s/o Pakirisamy, he shared that he grew up near a copra factory “at River Valley Road near Ord Road” and that there was also a copra and coconut oil factory at Mohamed Sultan Road in the 1920s.[^21] He also shared that the owner was Chinese.[^22] At the time of the interview in 1983, both factories had closed down.[^23]
@@ -99,7 +99,7 @@ The use of coconut oil, however, was not without its dangers. On 19 August 1863,
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1321958.jpg"
        title="View of North Bridge Road" 
-       attribution= "Collection of National Museum of Singapore. Reproduced with permission."
+       attribution= "Collection of National Museum of Singapore, National Heritage Board. Reproduced with permission."
 	fit= "contain">
 
 ## Grating Coconut Flesh: Processing Coconuts at Home
@@ -107,17 +107,17 @@ Zooming in from an industrial scale, families in Singapore had culinary tools to
  <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1107296.jpg"
        title="Wooden folding-stool coconut grater" 
-       attribution= "Collection of National Museum of Singapore. Reproduced with permission."
+       attribution= "Collection of National Museum of Singapore, National Heritage Board. Reproduced with permission."
 	fit= "contain">
  <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1073351.jpg"
        title="Wooden step-foot coconut rasp" 
-       attribution= "Collection of National Museum of Singapore: Gift of Ang Yang Buay. Reproduced with permission."
+       attribution= "Collection of National Museum of Singapore, National Heritage Board. Gift of Ang Yang Buay. Reproduced with permission."
 	fit= "contain">
   <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1046663.jpg"
        title="Wooden straddle-stool coconut grater" 
-       attribution= "Collection of National Museum of Singapore. Reproduced with permission."
+       attribution= "Collection of National Museum of Singapore, National Heritage Board. Reproduced with permission."
 	fit= "contain">
 
 One could use the grated coconut flesh directly, in foods like *ondeh ondeh*, <span eid="Q19725078">*kueh dadar*</span>, or <span eid="Q107209991">*kueh tutu*</span>.[^36] Alternatively, coconut milk could be derived by adding water to the grated flesh to extract the milk. Coconut milk is an essential in Malay dishes such as *nasi lemak*, and <span eid="Q1520293">*rendang*</span>.[^37]
