@@ -9,6 +9,7 @@ This essay collection highlights the rich possibilities of thinking with non-nat
 
 This website is part of the project "Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia", funded by the Singapore Ministry of Education's Social Science Thematic Research Grant (MOE2020-SSRTG-027). The essay collection was edited by research assistant Katherine Enright, who also provided technical support, under the supervision of PI Assistant Professor Anthony Medrano (Yale-NUS College). Other materials from this project, including datasets of non-native species, an interactive geovisualisation of species introductions to Singapore, the first published scientific records of introduced species in the region, and the project's public outreach activities, can be found on our [Digital Gems collection](https://digitalgems.nus.edu.sg/collection/11575) under National University of Singapore (NUS) Libraries. The full code for this website can be accessed on our GitHub repository [here](https://github.com/Digital-Scholarship-NUS-Libraries/biodiversitystories).
 
+Please direct any questions about the site to Katherine at kmenright@alumni.harvard.edu.
 
 .ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org) Linking the Digital Humanities to Biodiversity History in Singapore and Southeast Asia
