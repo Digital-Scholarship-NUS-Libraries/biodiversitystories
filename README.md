@@ -47,7 +47,7 @@
 ![](https://www.roots.gov.sg/CollectionImages/1168093.jpg)
 
 "Coconut: Beyond the Edible"
-<br><br><br><br><br><br> **Jody Lim**
+<br> **Jody Lim**
 
 #### 
 <h4 class="card-title">
@@ -59,7 +59,7 @@
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
 "*Aedes aegypti* : Not All Black and White"
-<br><br><br><br><br>**Yeo Huiqing**
+<br>**Yeo Huiqing**
 
 #### 
 <h4 class="card-title">
@@ -71,7 +71,7 @@
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
 "Dover Forest: The Fight to Protect Vanishing Ecosystems"
-<br><br><br><br><br>**Angela Ricasio Hoten**
+<br>**Angela Ricasio Hoten**
 
 #### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
 
