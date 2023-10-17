@@ -85,12 +85,17 @@
 "The Fig Wasp: A Fundamental yet Forgotten Pollinator in Urban Green Spaces"
 <br><br> **Joyce Hu**
 
-#### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Guava}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Guava">
+        <b> Guava (<em>Psidium guajava</em>) </b>
+    </a>
+</h4>
 
 ![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
 
 "Guava: An Exciting Delicacy across Southeast Asian Cultures"
-<br><br><br><br>**Dünya Gürses**
+<br><br><br> **Dünya Gürses**
 
 #### Günther's Frog (*Sylvirana guentheri*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/G%C3%BCnther's%20Frog/}
 
