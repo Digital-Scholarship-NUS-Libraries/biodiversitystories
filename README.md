@@ -5,84 +5,49 @@
    
 ### {.cards}
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm">
-        <b> Betel Nut Palm and Betel Leaf (<em>Areca catechu </em> and <em> Piper betle)</em> </b>
-    </a>
-</h4>
+#### Betel Nut Palm and Betel Leaf (*Areca catechu* and *Piper betle*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm}
 
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
 "Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
 <br>**Joyce Hu**
 
-####
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm">
-        <b> Blue Pea (<em>Clitoria ternatea</em>)</b>
-    </a>
-</h4>
+#### Blue Pea (*Clitoria ternatea*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Blue%20Pea}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
 
 "Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
 <br><br><br><br> **Sun Woo Yoon**
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest">
-        <b> Clementi Forest</b>
-    </a>
-</h4>
+#### Clementi Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest}
 
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br><br><br> **Angela Ricasio Hoten**
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut">
-        <b> Coconut (<em> Cocos nucifera </em>)</b>
-    </a>
-</h4>
+#### Coconut (Cocos nucifera) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut}
 
 ![](https://www.roots.gov.sg/CollectionImages/1168093.jpg)
 
 "Coconut: Beyond the Edible"
 <br><br><br><br><br><br> **Jody Lim**
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito">
-        <b> Dengue Mosquito (<em> Aedes aegypti</em>)</b>
-    </a>
-</h4>
+#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito}
 
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br><br>**Yeo Huiqing**
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest">
-        <b> Dover Forest</b>
-    </a>
-</h4>
+#### Dover Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest}
 
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
 "Dover Forest: The Fight to Protect Vanishing Ecosystems"
 <br><br><br><br><br>**Angela Ricasio Hoten**
 
-####
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/">
-        <b> Fig Wasp (<em>Platyscapa quadraticeps</em>)</b>
-    </a>
-</h4>
+#### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
 
 ![](Fig Wasp/media/Platyscapa_quadraticeps.jpeg)
 
