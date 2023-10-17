@@ -46,7 +46,12 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br><br>**Yeo Huiqing**
 
-#### Dover Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest}
+#### 
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest">
+        <b> Dover Forest</b>
+    </a>
+</h4>
 
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
