@@ -28,7 +28,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
 
 <br>"Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
-<br><br><br> **Sun Woo Yoon**
+<br> **Sun Woo Yoon**
 
 ####
 <h4 class="card-title">
