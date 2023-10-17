@@ -40,7 +40,7 @@
 ####
 <h4 class="card-title">
     <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut">
-        <b> Coconut </b>
+        <b> Coconut (<em>Cocos nucifera</em>) </b>
     </a>
 </h4>
 
