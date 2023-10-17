@@ -35,7 +35,7 @@
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
 <br> "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
-<br><br><br> **Angela Ricasio Hoten**
+<br><br> **Angela Ricasio Hoten**
 
 ####
 <h4 class="card-title">
@@ -70,8 +70,8 @@
 
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
-"Dover Forest: The Fight to Protect Vanishing Ecosystems"
-<br><br><br><br> **Angela Ricasio Hoten**
+<br> "Dover Forest: The Fight to Protect Vanishing Ecosystems"
+<br><br><br> **Angela Ricasio Hoten**
 
 ####
 <h4 class="card-title">
@@ -121,12 +121,17 @@
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
 <br><br><br> **Max D. López Toledano**
 
-#### Javan myna (_Acridotheres javanicus_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Javan%20myna}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Javan%20myna">
+        <b> Javan myna (<em>Acridotheres javanicus</em>) </b>
+    </a>
+</h4>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7f/Acridotheres_javanicus_-_Kent_Ridge_Park.jpg)
 
 "Javan Myna: Endangered Pest"
-<br><br><br><br> **Foo Shi Wen**
+<br><br><br> **Foo Shi Wen**
 
 #### Pandan (*Pandanus amaryllifolius*) and the Ant Mosquito (*Malaya genurostris*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Pandan}
 
