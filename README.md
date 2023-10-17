@@ -5,7 +5,11 @@
    
 ### {.cards}
 
-#### Betel Nut Palm and Betel Leaf (*Areca catechu* and *Piper betle*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm}
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm">
+        <b> Betel Nut Palm and Betel Leaf (<em>Areca catechu </em> and <em> Piper betle)</em> </b>
+    </a>
+</h4>
 
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
