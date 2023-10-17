@@ -100,7 +100,7 @@
 ####
 <h4 class="card-title">
     <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/G%C3%BCnther's%20Frog/">
-        <b> Günther's Frog(<em>Sylvirana guentheri</em>) </b>
+        <b> Günther's Frog (<em>Sylvirana guentheri</em>) </b>
     </a>
 </h4>
 
@@ -109,12 +109,17 @@
 "Günther's Frog: New Landscapes and New Habitats"
 <br><br><br> **Sun Woo Yoon**
 
-#### Jaguar Cichlid (*Parachromis managuensis*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Jaguar%20cichlid}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Jaguar%20cichlid">
+        <b> Jaguar Cichlid (<em>Parachromis managuensis</em>) </b>
+    </a>
+</h4>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105)
 
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
-<br><br><br><br>**Max D. López Toledano**
+<br><br><br> **Max D. López Toledano**
 
 #### Javan myna (_Acridotheres javanicus_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Javan%20myna}
 
