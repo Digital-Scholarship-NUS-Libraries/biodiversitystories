@@ -148,7 +148,7 @@
 ####
 <h4 class="card-title">
     <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Porophyllum-ruderale">
-        <b> Pápalo (<em>orophyllum ruderale</em>) </b>
+        <b> Pápalo (<em>Porophyllum ruderale</em>) </b>
     </a>
 </h4>
 
@@ -157,12 +157,17 @@
 "Pápalo: Lost in Translation" 
 <br><br><br><br><br> **Max D. López Toledano**
 
-#### Red-eared Slider (*Trachemys scripta elegans*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Red-eared%20slider}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Red-eared%20slider">
+        <b> Red-eared Slider (<em>Trachemys scripta elegans</em>) </b>
+    </a>
+</h4>
 
 ![](Red-eared slider/media/turtle-3327092_1280.jpg)
 
 "Red-eared Sliders in Singapore: From Exotic Pet to Released Pest"
-<br><br><br> **Dünya Gürses**
+<br><br> **Dünya Gürses**
 
 #### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig}
 
