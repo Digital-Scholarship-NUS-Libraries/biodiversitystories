@@ -124,7 +124,7 @@
 ####
 <h4 class="card-title">
     <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Javan%20myna">
-        <b> Javan myna (<em>Acridotheres javanicus</em>) </b>
+        <b> Javan Myna (<em>Acridotheres javanicus</em>) </b>
     </a>
 </h4>
 
@@ -133,12 +133,17 @@
 "Javan Myna: Endangered Pest"
 <br><br><br> **Foo Shi Wen**
 
-#### Pandan (*Pandanus amaryllifolius*) and the Ant Mosquito (*Malaya genurostris*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Pandan}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Pandan">
+        <b> Pandan (<em>Pandanus amaryllifolius</em>) and the Ant Mosquito (<em>Malaya genurostris</em>) </b>
+    </a>
+</h4>
 
 ![](Pandan/media/leaf_axil.jpg)
 
 "Pandan: The Essence of Home"
-<br><br><br> **Yeo Huiqing**
+<br><br> **Yeo Huiqing**
 
 #### Pápalo (_Porophyllum ruderale_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Porophyllum-ruderale}
 
