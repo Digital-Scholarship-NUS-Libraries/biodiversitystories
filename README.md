@@ -27,15 +27,15 @@
 
 ####
 <h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm">
-        <b> Blue Pea (<em>Clitoria ternatea</em>)</b>
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest">
+        <b> Clementi Forest</b>
     </a>
 </h4>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
+![](Clementi Forest/media/Clementi Forest 3.jpg)
 
-"Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
-<br><br><br><br> **Sun Woo Yoon**
+"Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
+<br><br><br><br> **Angela Ricasio Hoten**
 
 #### Clementi Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest}
 
