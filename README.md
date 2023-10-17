@@ -106,8 +106,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg)
 
-"Günther's Frog: New Landscapes and New Habitats"
-<br><br><br> **Sun Woo Yoon**
+<br> "Günther's Frog: New Landscapes and New Habitats"
+<br><br> **Sun Woo Yoon**
 
 ####
 <h4 class="card-title">
@@ -179,15 +179,19 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
 <br> "Religion’s Living Roots: The Sacred _Ficus religiosa_" 
-<br><br><br><br> **Foo Shi Wen**
+<br><br><br> **Foo Shi Wen**
 
-#### Tapioca (*Manihot esculenta*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca">
+        <b> Tapioca (<em>Manihot esculenta</em>) </b>
+    </a>
+</h4>
 
 ![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
 
 <br> "Tapioca: Despised or Delicacy?"
-<br><br><br><br> **Jody Lim**
-
+<br><br><br> **Jody Lim**
 
 
 .ve-footer
