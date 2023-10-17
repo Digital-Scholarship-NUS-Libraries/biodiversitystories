@@ -23,7 +23,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
 
 "Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
-<br><br><br><br> **Sun Woo Yoon**
+<br><br><br> **Sun Woo Yoon**
 
 ####
 <h4 class="card-title">
@@ -35,7 +35,7 @@
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
-<br><br><br><br> **Angela Ricasio Hoten**
+<br><br><br> **Angela Ricasio Hoten**
 
 ####
 <h4 class="card-title">
@@ -47,7 +47,7 @@
 ![](https://www.roots.gov.sg/CollectionImages/1168093.jpg)
 
 "Coconut: Beyond the Edible"
-<br><br><br><br><br><br> **Jody Lim**
+<br><br><br><br><br> **Jody Lim**
 
 ####
 <h4 class="card-title">
@@ -59,14 +59,19 @@
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
 "*Aedes aegypti* : Not All Black and White"
-<br><br><br><br><br>**Yeo Huiqing**
+<br><br><br><br> **Yeo Huiqing**
 
-#### Dover Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest">
+        <b> Dover Forest </b>
+    </a>
+</h4>
 
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
 "Dover Forest: The Fight to Protect Vanishing Ecosystems"
-<br><br><br><br><br>**Angela Ricasio Hoten**
+<br><br><br><br> **Angela Ricasio Hoten**
 
 #### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
 
