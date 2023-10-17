@@ -154,8 +154,8 @@
 
 ![](https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=8&svc.rotate=0)
 
-"Pápalo: Lost in Translation" 
-<br><br><br><br><br> **Max D. López Toledano**
+<br> "Pápalo: Lost in Translation" 
+<br><br><br><br> **Max D. López Toledano**
 
 ####
 <h4 class="card-title">
@@ -169,19 +169,24 @@
 "Red-eared Sliders in Singapore: From Exotic Pet to Released Pest"
 <br><br> **Dünya Gürses**
 
-#### Sacred Fig (_Ficus religiosa_) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Sacred%20Fig">
+        <b> Sacred Fig (<em>Ficus religiosa</em>) </b>
+    </a>
+</h4>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
-"Religion’s Living Roots: The Sacred _Ficus religiosa_" 
-<br><br><br><br><br>**Foo Shi Wen**
+<br> "Religion’s Living Roots: The Sacred _Ficus religiosa_" 
+<br><br><br><br> **Foo Shi Wen**
 
 #### Tapioca (*Manihot esculenta*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Tapioca}
 
 ![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
 
-"Tapioca: Despised or Delicacy?"
-<br><br><br><br><br> **Jody Lim**
+<br> "Tapioca: Despised or Delicacy?"
+<br><br><br><br> **Jody Lim**
 
 
 
