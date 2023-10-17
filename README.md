@@ -28,7 +28,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
 
 <br>"Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
-<br> **Sun Woo Yoon**
+<br><br><br> **Sun Woo Yoon**
 
 ####
 <h4 class="card-title">
@@ -64,7 +64,7 @@
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
 "*Aedes aegypti* : Not All Black and White"
-<br><br><br><br> **Yeo Huiqing**
+<br><br><br><br><br> **Yeo Huiqing**
 
 ####
 <h4 class="card-title">
@@ -76,7 +76,7 @@
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
 <br> "Dover Forest: The Fight to Protect Vanishing Ecosystems"
-<br><br><br> **Angela Ricasio Hoten**
+<br><br><br><br> **Angela Ricasio Hoten**
 
 ####
 <h4 class="card-title">
@@ -88,7 +88,7 @@
 ![](Fig Wasp/media/Platyscapa_quadraticeps.jpeg)
 
 "The Fig Wasp: A Fundamental yet Forgotten Pollinator in Urban Green Spaces"
-<br><br> **Joyce Hu**
+<br><br><br> **Joyce Hu**
 
 ####
 <h4 class="card-title">
@@ -100,7 +100,7 @@
 ![](https://www.roots.gov.sg/CollectionImages/1083699.jpg)
 
 "Guava: An Exciting Delicacy across Southeast Asian Cultures"
-<br><br><br> **Dünya Gürses**
+<br><br><br><br> **Dünya Gürses**
 
 ####
 <h4 class="card-title">
@@ -112,7 +112,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ea/G%C3%BCnther%27s_Frog_%28Hylarana_guentheri%29_%E6%B2%BC%E8%9B%995.jpg)
 
 <br> "Günther's Frog: New Landscapes and New Habitats"
-<br><br> **Sun Woo Yoon**
+<br><br><br> **Sun Woo Yoon**
 
 ####
 <h4 class="card-title">
@@ -124,7 +124,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Parachromis_managuensis_2012_G1.jpg/1600px-Parachromis_managuensis_2012_G1.jpg?20120311175105)
 
 "Jaguar Cichlid: Beauty Pageant, Tropical Predator" 
-<br><br><br> **Max D. López Toledano**
+<br><br><br><br> **Max D. López Toledano**
 
 ####
 <h4 class="card-title">
@@ -136,7 +136,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7f/Acridotheres_javanicus_-_Kent_Ridge_Park.jpg)
 
 "Javan Myna: Endangered Pest"
-<br><br><br> **Foo Shi Wen**
+<br><br><br><br> **Foo Shi Wen**
 
 ####
 <h4 class="card-title">
@@ -148,7 +148,7 @@
 ![](Pandan/media/leaf_axil.jpg)
 
 "Pandan: The Essence of Home"
-<br><br> **Yeo Huiqing**
+<br><br><br> **Yeo Huiqing**
 
 ####
 <h4 class="card-title">
@@ -160,7 +160,7 @@
 ![](https://mediateca.inah.gob.mx/adore-djatoka//resolver?rft_id=https%3A%2F%2Fmediateca.inah.gob.mx%2Frepositorio%2Fislandora%2Fobject%2Fcodice%253A897%2Fdatastream%2FJP2%2Fview%3Ftoken%3D71fa3c5704caeb703cb4a83afbeb285a2537cf9bf069e25506ec30ab61dc0769&url_ver=Z39.88-2004&svc_id=info%3Alanl-repo%2Fsvc%2FgetRegion&svc_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajpeg2000&svc.format=image%2Fjpeg&svc.level=8&svc.rotate=0)
 
 <br> "Pápalo: Lost in Translation" 
-<br><br><br><br> **Max D. López Toledano**
+<br><br><br><br><br> **Max D. López Toledano**
 
 ####
 <h4 class="card-title">
@@ -172,7 +172,7 @@
 ![](Red-eared slider/media/turtle-3327092_1280.jpg)
 
 "Red-eared Sliders in Singapore: From Exotic Pet to Released Pest"
-<br><br> **Dünya Gürses**
+<br><br><br> **Dünya Gürses**
 
 ####
 <h4 class="card-title">
@@ -184,7 +184,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/MET_DP159094.jpg/1504px-MET_DP159094.jpg?20170324205903)
 
 <br> "Religion’s Living Roots: The Sacred _Ficus religiosa_" 
-<br><br><br> **Foo Shi Wen**
+<br><br><br><br> **Foo Shi Wen**
 
 ####
 <h4 class="card-title">
@@ -196,7 +196,7 @@
 ![](https://www.roots.gov.sg/CollectionImages/1080187.jpg)
 
 <br> "Tapioca: Despised or Delicacy?"
-<br><br><br> **Jody Lim**
+<br><br><br><br> **Jody Lim**
 
 
 .ve-footer
