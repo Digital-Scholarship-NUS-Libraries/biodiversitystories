@@ -46,17 +46,12 @@
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br><br>**Yeo Huiqing**
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest">
-        <b> Dover Forest</b>
-    </a>
-</h4>
+#### Dover Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest}
 
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
 "Dover Forest: The Fight to Protect Vanishing Ecosystems"
-<br>**Angela Ricasio Hoten**
+<br><br><br><br><br>**Angela Ricasio Hoten**
 
 #### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
 
