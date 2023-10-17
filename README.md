@@ -25,28 +25,48 @@
 "Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
 <br><br><br><br> **Sun Woo Yoon**
 
-#### Clementi Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest}
+#### 
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest">
+        <b> Clementi Forest</b>
+    </a>
+</h4>
 
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br><br><br> **Angela Ricasio Hoten**
 
-#### Coconut (Cocos nucifera) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut}
+#### 
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut">
+        <b> Coconut (<em> Cocos nucifera </em>)</b>
+    </a>
+</h4>
 
 ![](https://www.roots.gov.sg/CollectionImages/1168093.jpg)
 
 "Coconut: Beyond the Edible"
 <br><br><br><br><br><br> **Jody Lim**
 
-#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito}
+#### 
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito">
+        <b> Dengue Mosquito (<em> Aedes aegypti</em>)</b>
+    </a>
+</h4>
 
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
 "*Aedes aegypti* : Not All Black and White"
 <br><br><br><br><br>**Yeo Huiqing**
 
-#### Dover Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest}
+#### 
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dover%20Forest">
+        <b> Dover Forest</b>
+    </a>
+</h4>
 
 ![](Dover Forest/media/ChangeableHawkEagle_OrientalPiedHornbill.jpg)
 
