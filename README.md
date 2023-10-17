@@ -49,7 +49,12 @@
 "Coconut: Beyond the Edible"
 <br><br><br><br><br><br> **Jody Lim**
 
-#### Dengue Mosquito (*Aedes aegypti*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito}
+#### 
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Dengue%20Mosquito">
+        <b> Dengue Mosquito (<em> Aedes aegypti</em>)</b>
+    </a>
+</h4>
 
 ![](https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2021/06/Campbell_4-768x679.jpg)
 
