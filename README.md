@@ -13,7 +13,12 @@
 "Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
 <br>**Joyce Hu**
 
-#### Blue Pea (*Clitoria ternatea*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Blue%20Pea}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Betel-nut%20Palm">
+        <b> Blue Pea (<em>Clitoria ternatea</em>)</b>
+    </a>
+</h4>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
 
