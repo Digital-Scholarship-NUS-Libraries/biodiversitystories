@@ -16,7 +16,7 @@
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
 "Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
-**Joyce Hu**
+<br> **Joyce Hu**
 
 ####
 <h4 class="card-title">
@@ -27,7 +27,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flower-clitoria-ternatea.png/816px-Flower-clitoria-ternatea.png?20120525102736)
 
-"Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
+<br>"Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
 <br><br><br> **Sun Woo Yoon**
 
 ####
@@ -39,7 +39,7 @@
 
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
-<br> "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
+<br><br> "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br> **Angela Ricasio Hoten**
 
 ####
@@ -51,7 +51,7 @@
 
 ![](https://www.roots.gov.sg/CollectionImages/1168093.jpg)
 
-"Coconut: Beyond the Edible"
+<br>"Coconut: Beyond the Edible"
 <br><br><br><br><br> **Jody Lim**
 
 ####
