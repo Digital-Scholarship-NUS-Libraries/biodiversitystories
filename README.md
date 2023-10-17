@@ -73,12 +73,17 @@
 "Dover Forest: The Fight to Protect Vanishing Ecosystems"
 <br><br><br><br> **Angela Ricasio Hoten**
 
-#### Fig Wasp (*Platyscapa quadraticeps*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Fig%20Wasp/">
+        <b> Fig Wasp (<em>Platyscapa quadraticeps</em>) </b>
+    </a>
+</h4>
 
 ![](Fig Wasp/media/Platyscapa_quadraticeps.jpeg)
 
 "The Fig Wasp: A Fundamental yet Forgotten Pollinator in Urban Green Spaces"
-<br><br><br>**Joyce Hu**
+<br><br> **Joyce Hu**
 
 #### Guava (*Psidium guajava*) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Guava}
 
