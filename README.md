@@ -37,7 +37,12 @@
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br><br><br> **Angela Ricasio Hoten**
 
-#### Coconut (Cocos nucifera) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut}
+####
+<h4 class="card-title">
+    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut">
+        <b> Coconut </b>
+    </a>
+</h4>
 
 ![](https://www.roots.gov.sg/CollectionImages/1168093.jpg)
 
