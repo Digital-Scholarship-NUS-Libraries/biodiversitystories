@@ -25,18 +25,12 @@
 "Blue Pea: Forging Friendships from Soil to Garden to Kitchen"
 <br><br><br><br> **Sun Woo Yoon**
 
-#### 
-<h4 class="card-title">
-    <a href="https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest">
-        <b> Clementi Forest</b>
-    </a>
-</h4>
+#### Clementi Forest {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Clementi%20Forest}
 
 ![](Clementi Forest/media/Clementi Forest 3.jpg)
 
 "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br><br><br> **Angela Ricasio Hoten**
-
 
 #### Coconut (Cocos nucifera) {href=https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/Coconut}
 
