@@ -32,9 +32,9 @@
     </a>
 </h4>
 
-<br> ![](Clementi Forest/media/Clementi Forest 3.jpg)
+![](Clementi Forest/media/Clementi Forest 3.jpg)
 
-"Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
+<br> "Clementi Forest: From Rubber Plantation to Urban Forest with an Uncertain Future"
 <br><br><br> **Angela Ricasio Hoten**
 
 ####
