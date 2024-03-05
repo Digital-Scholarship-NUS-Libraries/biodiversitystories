@@ -16,7 +16,7 @@
 ![](https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg)
 
 "Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia" 
-<br><br>**Joyce Hu**
+<br>**Joyce Hu**
 
 ####
 <h4 class="card-title">
